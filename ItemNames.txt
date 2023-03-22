@@ -20,7 +20,7 @@ Sandlot Bat, Good Bat
 Supreme Bat, Hall of Fame Bat
 Frypan
 DX Frypan
-BestFrypan, Best Frypan, IronFrypan, IronFrypan
+BestFrypan, Best Frypan, IronFrypan
 Slingshot
 Boomerang
 Bug Spray
@@ -39,7 +39,7 @@ Laser Beam, Alpha Beam
 Death Beam
 
 Rope
-AngelGloves, Angel Gloves, Combo Gloves
+
 
 
 
@@ -53,8 +53,8 @@ RainPendant, Rain Pendant
 FlamePendnt, FirePendant, Flame Pendant, Fire Pendant
 EarthPendnt, Earth Pendant
 Sea Pendant
-God Bandana
-GoddessRibb, Goddess Ribbon
+
+
 
 
 
@@ -104,7 +104,7 @@ Ocarina
 
 Frank.Badge, Franklin Badge, Badge
 Friend Ring, Friendship Ring
-Wimperizer
+
 Onyx Hook
 Ult. Weapon
 Ruler
