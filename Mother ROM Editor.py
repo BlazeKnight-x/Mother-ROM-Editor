@@ -56,7 +56,7 @@ class Item():
     # 2 - Flags
     # Droppable?, Edible?, Unused, Pippi, Teddy, Lloyd, Ana, Ninten
     def isDroppable(self):
-        return getBit(self.flags, 0) == 1
+        return getBit(self.flags, 0) == 0
     def isEdible(self):
         return getBit(self.flags, 1) == 1
     def getUsers(self):
@@ -454,6 +454,54 @@ def printItem(identifier):
     print("Can Drop? " + (str)(item.isDroppable()))
     print("Users:" + item.getUsers())
     print('\n==============================\n')
+
+#####################################################################################################
+### Item Editor -------------------------------------------------------------------------------- ###
+#####################################################################################################
+
+def editItemPrice(identifier):
+    print('\nEnter in new value for price (as an integer). Keep in mind values greater than 4 digits don\'t appear properly in the shop menus, although all functionality is maintained.')
+    print('You can also input a negative integer to escape.\n')
+    Input = ''
+    try:
+        Input = int(input('  >>> '))
+    except ValueError:
+        print(' That wasn\'t a number... Did nothing.')
+        return
+
+    if Input < 0:
+        print(' <-- Escaped...')
+        return
+    elif Input > 65535:
+        print(' That value is too large. The input can\'t be larger than 4 bytes (65535 in decimal).')
+        return
+
+    # Translate the int into Bits
+    raw_bits = bin(Input).lstrip('0b')
+    raw_bits = raw_bits.zfill(10)
+
+    # Move the raw bits around and make the final string
+    # Low Portion x8, Junk Data x6, High Portion x2
+    low = raw_bits[2:]
+    high = raw_bits[:2]
+
+    BytesToWrite = low + junk + high
+
+    # Find the offset.
+    with open(script_dir + '/' + rom_name, 'r+b') as file:
+        offset = ENEMY_POS
+
+        offset += int(id, 16) * 32
+        offset += stat_offset
+
+        file.seek(offset)
+
+        file.write(int.to_bytes(BytesToWrite))
+
+        print('\n ===> Successfully edited ' + stat + '!\n')
+    
+    read_items()
+    return
 
 # ========================================================================================================================= #
 ### ===================================================================================================================== ###
