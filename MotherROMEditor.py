@@ -2,7 +2,7 @@ import os
 #import Translator.ThingyTableTranslate
 
 ### EDITABLES ###
-rom_name = "Mother Prime.nes"
+rom_name = "Mother.nes"
 strings_folder = 'strings'
 
 item_name_dir = strings_folder + "/ItemNames.txt"
