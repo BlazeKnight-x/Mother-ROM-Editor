@@ -1,0 +1,365 @@
+0x76811
+01 # Big Woodoh
+Should you fight it?
+Or should you run from
+it?
+02 # Dragon
+It appears to be
+holding a very
+important secret.
+03 # R7038
+Is there actually any
+way to defeat this
+thing?
+04 # Elephant
+Sometimes it'll slam
+you with its heavy
+body or attack with
+its long trunk!
+05 # Bear
+Someone ate its food,
+and it's not happy at
+all!
+06 # Bigfoot
+Shocked? It really
+does exist!
+07 # Mad Truck
+Watch out for its
+exhaust! It can cause
+an asthma attack!
+08 # Old Robo
+Hypnosis probably
+doesn't work on
+robots, does it?
+09 # Mega Borg
+It's wearing special
+armor to protect
+itself from PSI
+attacks.
+0A # Gargoyle
+This has the power to
+turn people into
+stone.
+0B # Gabilan
+Creatures like this
+shouldn't exist on
+this Earth, but...
+0C # Gorilla
+This is no time to be
+getting caught up with
+a punk ape like this!
+0D # Bison
+The only one not
+afraid of this thing's
+face is its own
+mother.
+0E # Tiger
+Just look at those
+terrifying eyes!
+0F # Mad Car
+Woah! There's no one
+in the driver's seat!
+10 # Raeb Yddet
+He has strong friends.
+11 # Magisnail
+This thing's shell is
+unbelievably hard.
+12 # Titany
+Watch out. It'll use
+hypnosis on you.
+14 # Eagle
+This animal is as
+swift as they come.
+15 # Wolf
+Watch out for those
+pearly whites!
+16 # Seagull
+You dirty thief!
+17 # Crocodile
+Always turn down an
+alligator's dinner
+invitation.
+18 # Atomic Robo
+It's a walking fuel
+tank.
+19 # CavernMaster
+It appears to be
+protecting something.
+1A # Fugitive
+This guy is at the
+very top of the FBI's
+most-wanted list.
+1B # BB Gang Boss
+Deep down, he might
+actually be a nice
+guy.
+1C # Barbot
+A malnourished robot?
+1D # Jane
+Don't be fooled by her
+smile!
+1E # Starman
+A man from a distant
+star.
+1F # Miraco
+This creature does not
+exist in the real
+world.
+20 # Brainga
+A mobile brain that is
+the result of an evil
+science experiment.
+21 # Mook
+This creature is a
+master of many kinds
+of PSI.
+22 # Armor
+It'd be nice to have
+some armor of your
+own.
+23 # Woodoh
+A strange, mobile
+tree.
+24 # Redneck
+He looks bad-tempered,
+so be careful.
+25 # Hippie
+You could probably
+plant flowers in his
+hair and they'd grow.
+26 # Hippie
+She has a body like a
+refrigerator and a
+heart of ice.
+27 # B.B. Gang
+Beating the punk's
+leader will probably
+set them straight.
+28 # Dr.Distorto
+His heart is as
+warped as his face is.
+2A # Gang Zombie
+Watch out for this
+guy's SMAAAASH hits!
+2B # PsudeoZombie
+Watch out for this
+guy's constant sneak
+attacks!
+2C # Crow
+Watch your items! This
+guy is a thief...
+2D # Snake
+It isn't poisonous.
+Hopefully, anyway.
+2E # Hyena
+He who laughs last
+laughs best.
+2F # Lynx
+This animal is quite a
+bit different from
+your ordinary pet cat.
+30 # Centipede
+Kill it with bug
+spray!
+31 # Dust Ghost
+Aaaachoo!!
+32 # Fly
+Bug spray works
+wonders on it.
+33 # Spider
+Why not try using bug
+spray on it?
+34 # Scorpion
+It's poisonous, but
+you can kill it with
+bug spray.
+35 # Rope
+Try not to get tied
+up.
+36 # Fireball
+It's almost like this
+guy escaped from a
+comic book or
+something.
+37 # Swoosh
+This guy's face is the
+easiest to draw.
+38 # Bonus Swoosh
+If this guy put a mask
+on, it'd be impossible
+to tell who he is.
+39 # Ghost
+A rather run-of-the-
+mill ghost.
+3A # Lil Saucer
+It's about as big as a
+dinner plate.
+3B # Mr. Batty
+Apparently, life is
+like a puzzle to him.
+3C # Starman Jr.
+It may be small, but
+it's clearly an alien.
+3D # Skunk
+Hold your nose!
+3E # BloodyZombie
+It looks scary on the
+outside, but its final
+attack is even
+scarier.
+3F # Rat
+A big rat with a long
+tail.
+40 # Bomber
+It looks like an egg
+but is harder than
+one.
+42 # Doll
+It glares at you from
+afar...
+43 # Lamp
+It's flying all
+around!
+46 # Biopede
+It was apparently
+given a powerful
+poison at a lab
+somewhere.
+47 # Bioscorp
+Watch out for its
+poison and petrifying
+attacks!
+4A # Red Snake
+Don't let it get away!
+It's a good source of
+experience points!
+4B # Lone Wolf
+It apparently doesn't
+have any friends at
+all.
+4C # Polar Bear
+Its chair broke and
+now it's in a REALLY
+bad mood!
+51 # Rattlesnake
+Happen to have any
+Antidotes handy?
+52 # Tarantula
+Poison Pois on Poi
+Sonnnn
+53 # Strong Croc
+Don't smile back at
+this alligator.
+55 # Buffalo
+Even this thing's own
+father is scared of
+its face.
+57 # Biobat
+Be careful not to get
+petrified...
+58 # Stray Dog
+This thing better not
+have fleas...
+59 # Devil Car
+Hypnosis probably
+doesn't work on cars,
+does it?
+5A # Devil Truck
+Hypnosis probably
+doesn't work on
+trucks, does it?
+5B # Death Truck
+How will it come at
+you next?! Straight-
+on, or in a zig-zag?!
+5C # Alarm Ghost
+Watch out, it'll call
+for friends if it's
+alarmed!
+5E # WhooshSwoosh
+The favorite of
+optometerists
+everywhere.
+5F # Papa Swoosh
+Don't let your guard
+down. This daddy is
+always watching you...
+60 # Swooshette
+This mommy can see
+through all your
+tricks!
+63 # Sky Yddet
+This thing will do
+anything for its
+friends!
+65 # Giga Borg
+He only seems to use
+PK Beam...
+66 # Last Borg
+This thing is
+devilishly strong.
+67 # Scrapper
+It may look like a
+hunk of junk, but
+don't underestimate
+it!
+68 # Death Barbot
+A cutting-edge,
+mass-produced robot.
+69 # OmegaSaucer
+It's about as big as a
+manhole cover.
+6A # Caroline
+Don't let her beauty
+fool you...
+6B # Star Miner
+It carries bombs...
+and often uses them.
+6C # Nuclear Robo
+This robot has large
+amounts of fuel stored
+inside its body.
+6D # Suzie
+Watch out! She won't
+hesitate to use
+powerful PSI attacks!
+6E # BlueStarman
+His mission is to keep
+anyone from getting
+through the caves...
+6F # Satania
+Prefers to use
+PK Freeze.
+70 # Titanian
+If you can beat this
+thing, you're
+incredible.
+71 # Mook Senior
+It doesn't just use
+PSI - it also likes to
+steal things!
+73 # Zombie
+Watch out for its
+Brainshock attacks!
+74 # ViolentZomb
+A very violent guy who
+comes out swinging the
+first chance he gets.
+75 # Silver Wolf
+Its beautiful silver
+coat glistens in the
+light.
+76 # R7037
+This thing is HUGE!
+77 # Grizzly
+Don't ever sleep in
+this guy's bed, no
+matter how tired you
+are!
+78 # R7038XX
+This robot has been
+remodeled to be even
+stronger now!
+79 # LastStarman
+The strongest Starman
+of all.

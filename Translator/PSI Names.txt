@@ -1,0 +1,55 @@
+
+Telepathy
+Teleport
+
+
+
+
+
+Lifeup <Alpha>
+Lifeup <Beta>
+Lifeup <Gamma>
+Lifeup <Pi>
+Lifeup <Omega>
+
+
+
+Healing <Alpha>
+Healing <Beta>
+Healing <Gamma>
+Healing <Pi>
+SuperHeal\ing
+PSIShield <Alpha>
+PSIShield <Beta>
+Powershield
+Brainshock
+Bra\incyclone
+Hypnosis
+Paralysis
+Darkness
+PSI Magnet
+Shield Off
+PSI Block
+Offense Up
+Def.Up <Alpha>
+Def.Up <Beta>
+Quick Up
+Def.Down <Alpha>
+Def.Down <Beta>
+Dimens.Slip
+Hypnosis
+PK Freeze <Alpha>
+PK Freeze <Beta>
+PK Freeze <Gamma>
+PK Freeze <Omega>
+PK Fire <Alpha>
+PK Fire <Beta>
+PK Fire <Gamma>
+PK Fire <Omega>
+PK Beam <Alpha>
+PK Beam <Beta>
+PK Beam <Gamma>
+PK Beam <Omega>
+PK Thunder<Alpha>
+PK Thunder<Beta>
+PK Thunder<Gamma>

@@ -1,0 +1,436 @@
+
+[Name] attacked!
+
+[Name] attacks!
+
+[Name] fired the
+tank cannon!
+
+ [Name] dodged!
+
+Combo attack!
+
+[Name] bites!
+
+[Name] scratches!
+
+[Name] bores down!
+
+ [Name] -[Number] HP!
+
+       YOU [8a]IN[8b]
+ 
+ Defeated the
+ [target]!
+
+ [Target] got tired and
+ collapsed...
+
+ But [target]
+ was already gone.
+
+ No effect on
+ [Target]!
+
+[Name] went beserk!
+
+ [Name] ran out
+ of strength!
+
+[Name]'s final
+desperation attack!!!
+
+You can't grasp the
+form of [name]'s
+attack!
+
+ Barriered [Target]!
+
+ "You're a disgrace
+  to your mom!"
+
+ Petrified [Target]!
+
+[Name] spewed a
+sticky substance!
+
+ Blinded [Target]!
+
+[Name] is tied...
+
+[Name] let out a
+strange howl!
+
+[Name] exploded!
+
+[Name] burst into
+flames!
+
+ [Target]'s Offense
+ went up by [Number]!
+
+ [Target]'s Offense
+ went down by [Number]!
+
+ [Target]'s Defense
+ went up by [Number]!
+
+ [Target]'s Speed
+ went up by [Number]!
+
+ > Offense [number].
+
+ > Defense [number].
+
+ [Target]'s Fight
+ went down by [Number]!
+
+ [Target]'s Defense
+ went down by [Number]!
+
+ [Name] smiled boldly!
+
+ [Target]'s Fight
+ went up by [number]!
+
+[name] raged!
+
+ [Target]'s Speed
+ went down by [number]!
+
+[name] did something
+disturbing!
+
+[name] called
+for help!
+
+[name] sowed
+some seeds!
+
+ For some reason,
+ [target]'s experience
+ points went up!
+
+[name] laughs!
+
+The tank was
+scrapped...
+
+[name] said
+something scary!
+
+[name] said
+something nasty!
+
+[name] plays dead\...
+
+ It was effective!
+
+ It wasn't very
+ convincing...
+
+ [Target] became angry!
+
+ Cryoed [target]!
+
+ Confused [target]!
+
+[Name]\'s confused\...
+
+ Sleeped [target]!
+
+[Name] sleeps...
+
+ [target] \=> [number] PP
+
+ [target] \=> [number] HP
+
+[Name] fuels!
+
+ But no one came.
+
+ (silence...)
+
+ [target] joined!
+
+[Name] ran away!
+
+...It didn't work out.
+
+[Name] tripped!
+
+[Name]'s numb...
+
+[Name]\'s petrified...
+
+ [target] -[number] PP!
+
+ Numbed [target]!
+
+[name] vented
+exhaust fumes!
+
+[target] was poisoned!
+
+[Target] was dehydrated!
+
+ Blocked [target]!
+
+ Roped [target]!
+
+ Shielded [target]!
+
+ Missed!
+
+ It was blocked!
+
+ [Target]'s badge
+ reflected the beam!
+
+ [target] reflects!
+
+ Not enough PP!
+
+ There was no effect
+ on [target]!
+
+[name] had an asthma
+attack!
+...(cough cough cough)
+
+[name] is praying!
+
+[name] greeted
+everyone politely
+and left.
+
+[name] guards.
+
+[name] sang!
+
+[name] is guarding.
+
+[name] edged
+closer!
+
+ [target] was cured! (poison)
+
+ [target] went
+ back to normal!
+
+ [target] was bombed!
+
+ [target] can move!
+
+ [target] woke up!
+
+ [target] was revived!!
+
+[name] used the
+[move]!
+
+[name] tried
+[move]!
+
+[name] can't use
+[move]!
+
+[name] is sizing up
+the situation...
+
+[name] did
+something strange!
+
+[name] is puzzled...
+
+ [target]'s shield
+ was destroyed!
+
+[name] checked
+[target]!
+
+ - Resists Fire
+
+ - Resists Freeze
+
+ - Resissts Thunder
+
+ - Resists Light
+
+ - Weak to Bug Spray
+
+ [target]'s asthma
+ attack went away!
+
+ [target] softened!
+
+ "I like you!"
+
+ "I hate you!"
+
+ [target] had an
+ asthma attack!
+
+ The [move]
+ broke...
+
+[name] used a
+Demon Seed!
+
+[name] used
+paralysis gas!
+
+ The [move]
+ turned into an
+ ordinary stone...
+
+[target] went
+back to normal!
+
+Tamed [target]!
+
+Defeated [target]!
+
+Destroyed [target]!
+
+Dusted [target]!
+
+[target] stopped moving!
+
+Scrapped [target]!
+
+[target] vanished!
+
+[name] stole
+[target]'s [move]!
+
+[name] leveled up!<input>
+
+[name] learned a PSI!<input>
+
+ Max HP went up by [lvl stat]!<input>
+
+ Max PP went up by [lvl stat]!<input>
+
+ Fight went up [fight]!<input>
+
+ Speed went up [Speed]!<input>
+
+ Wisdom went up [Wisdom]!<input>
+
+ Strength went up [Strength]!<input>
+
+ Force went up [Force]!<input>
+
+[name] escaped
+from the rope!
+
+ Picked up [item]!<input>
+
+ [target]'s confusion
+ went away!
+
+[name] woke up!
+
+[name] tore a
+hole through space!
+
+ But there was no
+ effect!
+
+The [move] was
+fully emptied...
+
+No end to the battle
+is in sight...
+
+(From somewhere,
+\b[Leader's name] heard Queen
+Mary's voice...)
+\bYou can't beat Giegue
+with brute strength...
+\bI doubt any weapon can
+defeat him...
+\bBut the lullaby...
+\bMaybe the song I used
+to sing to him
+\bcan stop him!<input>
+
+"[Ninten]!
+\bI owe a great deal to
+your family line!"<input>
+
+"Maria, George's wife,
+raised me
+\bwhen I was very
+young..."<input>
+
+"While George stole
+vital information from
+\bour planet and tried
+to turn against us..."<input>
+
+"And now, their
+descendant
+\bis bent on hindering
+our plan again...
+\b[Ninten]! I am
+referring to you!"<input>
+
+"Now leave!
+\bMay you be destroyed
+with the rest of the
+\bdisgusting Earth
+people!"<input>
+
+"You are too weak to
+do anything!
+\bYou are mere insects
+to me!"<input>
+
+"[Ninten]... I'm
+willing to let you,
+\band only you, live.
+\bBoard the mothership
+with me."<input>
+
+"...Then you can
+perish here
+\bwith your friends
+and all the other
+\bhideous Earth people!"<input>
+
+"Stop singing!"
+
+"Stop... singing...!"
+
+"S-stop singing!"
+
+"Stop singing!"
+
+"You Earth insects!
+Shut up!
+Stop singing!"
+
+"Stop..."
+
+"...singing!"
+
+"!!!"
+
+"Stop..."
+
+"!!!"
+
+"........."
+
+"HOW COULD I BE
+DEFEATED
+\bBY THIS SONG...?"<input>
+
+"SOMEDAY I WILL
+RETURN...
+\bAND... MAKE YOU..."<input>
+
+"[Ninten]! We will meet
+again!"<input>

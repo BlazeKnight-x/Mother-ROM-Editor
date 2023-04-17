@@ -1,0 +1,358 @@
+0x76811
+01 # Big Woodoh
+ - Resists Status
+\bIt gives good money.
+02 # Dragon
+ - Resists Light
+ - Immune to Status
+\bIt holds a secret.
+\b
+04 # Elephant
+\bIt's got high HP and
+defense. Hit it with
+Defense Down!
+\b
+05 # Bear
+Someone ate its food,
+and it's not happy at
+all!
+06 # Bigfoot
+Shocked? It really
+does exist!
+07 # Mad Truck
+ - Immune to Status
+08 # Old Robo
+ - Immune to Status
+09 # Mega Borg
+ - Resists Light
+ - Immune to Status\b
+0A # Gargoyle
+ - Resists Status
+\bIt carries the Stone
+Spray...
+0B # Gabilan
+Creatures like this
+shouldn't exist on
+this Earth, but...
+0C # Gorilla
+This is no time to be
+getting caught up with
+a punk ape like this!
+0D # Bison
+The only one not
+afraid of this thing's
+face is its own
+mother.
+0E # Tiger
+Just look at those
+terrifying eyes!
+0F # Mad Car
+ - Immune to Status\b
+10 # Raeb Yddet
+He has strong friends.
+11 # Magisnail
+This thing's shell is
+unbelievably hard.
+12 # Titany
+ - Resists Status
+14 # Eagle
+This animal is as
+swift as they come.
+15 # Wolf
+Watch out for those
+pearly whites!
+16 # Seagull
+You dirty thief!
+17 # Crocodile
+Always turn down an
+alligator's dinner
+invitation.
+18 # Atomic Robo
+\bIt uses atomic power
+to fuel its allies.
+19 # CavernMaster
+\bIt appears to be
+protecting something.
+1A # Fugitive
+This guy is at the
+very top of the FBI's
+most-wanted list.
+1B # BB Gang Boss
+Deep down, he might
+actually be a nice
+guy.
+1C # Barbot
+ - Immune to Status
+\bA malnourished robot?
+1D # Jane
+ - Resists Light
+ - Immune to Status
+\bDon't be fooled by her
+smile!
+1E # Starman
+A man from a distant
+star.
+1F # Miraco
+This creature does not
+exist in the real
+world.
+20 # Brainga
+ - Resists Light
+ - Immune to Status
+A mobile brain that is
+the result of an evil
+science experiment.
+21 # Mook
+This creature is a
+master of many kinds
+of PSI.
+22 # Armor
+ - Resists Light
+ - Immune to Status
+It'd be nice to have
+some armor of your
+own.
+23 # Woodoh
+A strange, mobile
+tree.
+24 # Redneck
+He looks bad-tempered,
+so be careful.
+25 # Hippie
+You could probably
+plant flowers in his
+hair and they'd grow.
+26 # Hippie
+She has a body like a
+refrigerator and a
+heart of ice.
+27 # B.B. Gang
+Beating the punk's
+leader will probably
+set them straight.
+28 # Dr.Distorto
+His heart is as
+warped as his face is.
+2A # Gang Zombie
+Watch out for this
+guy's SMAAAASH hits!
+2B # PsudeoZombie
+Watch out for this
+guy's constant sneak
+attacks!
+2C # Crow
+Watch your items! This
+guy is a thief...
+2D # Snake
+It isn't poisonous.
+Hopefully, anyway.
+2E # Hyena
+He who laughs last
+laughs best.
+2F # Lynx
+This animal is quite a
+bit different from
+your ordinary pet cat.
+30 # Centipede
+Kill it with bug
+spray!
+31 # Dust Ghost
+Aaaachoo!!
+32 # Fly
+Bug spray works
+wonders on it.
+33 # Spider
+Why not try using bug
+spray on it?
+34 # Scorpion
+It's poisonous, but
+you can kill it with
+bug spray.
+35 # Rope
+Try not to get tied
+up.
+36 # Fireball
+It's almost like this
+guy escaped from a
+comic book or
+something.
+37 # Swoosh
+This guy's face is the
+easiest to draw.
+38 # Bonus Swoosh
+If this guy put a mask
+on, it'd be impossible
+to tell who he is.
+39 # Ghost
+A rather run-of-the-
+mill ghost.
+3A # Lil Saucer
+ - Immune to Status
+It's about as big as a
+dinner plate.
+3B # Mr. Batty
+Apparently, life is
+like a puzzle to him.
+3C # Starman Jr.
+It may be small, but
+it's clearly an alien.
+3D # Skunk
+Hold your nose!
+3E # BloodyZombie
+It looks scary on the
+outside, but its final
+attack is even
+scarier.
+3F # Rat
+A big rat with a long
+tail.
+40 # Bomber
+ - Immune to Status
+It looks like an egg
+but is harder than
+one.
+42 # Doll
+It glares at you from
+afar...
+43 # Lamp
+It's flying all
+around!
+46 # Biopede
+It was apparently
+given a powerful
+poison at a lab
+somewhere.
+47 # Bioscorp
+Watch out for its
+poison and petrifying
+attacks!
+4A # Red Snake
+Don't let it get away!
+It's a good source of
+experience points!
+4B # Lone Wolf
+It apparently doesn't
+have any friends at
+all.
+4C # Polar Bear
+Its chair broke and
+now it's in a REALLY
+bad mood!
+51 # Rattlesnake
+Happen to have any
+Antidotes handy?
+52 # Tarantula
+Poison Pois on Poi
+Sonnnn
+53 # Strong Croc
+Don't smile back at
+this alligator.
+55 # Buffalo
+Even this thing's own
+father is scared of
+its face.
+57 # Biobat
+Be careful not to get
+petrified...
+58 # Stray Dog
+This thing better not
+have fleas...
+59 # Devil Car
+Hypnosis probably
+doesn't work on cars,
+does it?
+5A # Devil Truck
+ - Immune to Status\b
+5B # Death Truck
+ - Immune to Status\b
+5C # Alarm Ghost
+Watch out, it'll call
+for friends if it's
+alarmed!
+5E # WhooshSwoosh
+The favorite of
+optometerists
+everywhere.
+5F # Papa Swoosh
+Don't let your guard
+down. This daddy is
+always watching you...
+60 # Swooshette
+This mommy can see
+through all your
+tricks!
+63 # Sky Yddet
+This thing will do
+anything for its
+friends!
+65 # Giga Borg
+ - Resists Light
+ - Immune to Status
+\b
+66 # Last Borg
+ - Resists Light
+ - Immune to Status
+\b
+67 # Scrapper
+ - Immune to Status
+\b
+68 # Death Barbot
+ - Immune to Status
+\b
+69 # OmegaSaucer
+ - Immune to Status
+\b
+6A # Caroline
+ - Resists Light
+ - Immune to Status
+\b
+6B # Star Miner
+ - Immune to Status
+\b
+6C # Nuclear Robo
+ - Immune to Status
+\b
+6D # Suzie
+ - Resists Light
+ - Immune to Status
+\b
+6E # BlueStarman
+His mission is to keep
+anyone from getting
+through the caves...
+6F # Satania
+ - Resists Status
+\b
+70 # Titanian
+ - Resists Status
+\bIf you can beat this
+thing, you're
+incredible.
+\b
+71 # Mook Senior
+ - Resists Status
+\b
+73 # Zombie
+Watch out for its
+Brainshock attacks!
+74 # ViolentZomb
+A very violent guy who
+comes out swinging the
+first chance he gets.
+75 # Silver Wolf
+Its beautiful silver
+coat glistens in the
+light.
+76 # R7037
+ - Resists Light
+ - Immune to Status
+\bThis thing is HUGE!
+\b
+77 # Grizzly
+Don't ever sleep in
+this guy's bed, no
+matter how tired you
+are!
+79 # LastStarman
+The strongest Starman
+of all.
