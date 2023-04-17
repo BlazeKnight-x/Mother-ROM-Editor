@@ -3,7 +3,7 @@ import os
 ### PATHS ###
 script_dir = os.path.dirname(__file__)
 
-rom_dir = script_dir + "/Mother Prime.nes"
+rom_dir = script_dir + "/Mother.nes"
 item_description_dir = script_dir + "/Translator/Item Descriptions.txt"
 enemy_discription_dir = script_dir + "/Translator/Enemy Descriptions.txt"
 
