@@ -1,0 +1,1226 @@
+
+    END
+    
+
+Bash
+    Target Selected
+    jumpIfNOT; Attacker & Target Alive -> 1b99
+    jumpIf; Check Type3 -> 1b99
+    jumpIf; is in Tank -> 3a99
+    jumpIf; Check Fight -> 2e99
+    playAttackSound
+    displayText: 04
+    jumpIfNOT; Attacker & Target Alive -> b79e
+    jumpIfNOT; Check Status -> ba9e
+    jumpIf; Check Type3 -> bf9e
+    animationSimple
+    setNumBash
+    Effect: Inflict Damage
+    END
+    display0xFF
+    displayText: 04
+    animationCrit
+    displayText: 0b
+    setNumCrit
+    Effect: Inflict Damage
+    END
+    display0xFF
+    displayText: 05
+    animationCrit
+    setNum: 60
+    Effect: Inflict Damage
+    END
+    Target Selected
+    
+
+Combo
+    Target Selected
+    playAttackSound
+    displayText: 04
+    Subroutine; Attacker & Target Alive -> 1f99
+    jumpIfNOT; Attacker & Target Alive -> 5699
+    playAttackSound
+    displayText: 07
+    Subroutine; Attacker & Target Alive -> 1f99
+    END
+    
+
+Bite
+    Target Selected
+    playAttackSound
+    displayText: 08
+    setNumBash
+    jumpIfNOT; Attacker & Target Alive -> b79e
+    jumpIfNOT; Check Status -> ba9e
+    jumpIf; Check Type3 -> bf9e
+    animationSimple
+    Effect: Inflict Damage
+    END
+    
+
+Scratch
+    Target Selected
+    playAttackSound
+    displayText: 09
+    unconditional Jump; Attacker & Target Alive -> 5c99
+    
+
+Bore down
+    Target Selected
+    playAttackSound
+    displayText: 0a
+    unconditional Jump; Attacker & Target Alive -> 5c99
+    
+
+Run over
+    Target Selected
+    playAttackSound
+    displayText: 13
+    setNum: 15
+    unconditional Jump; Attacker & Target Alive -> 5e99
+    Target Selected
+    
+
+Desperate Attack
+    Target Selected
+    display0xFF
+    displayText: 15
+    jumpIfNOT; Attacker & Target Alive -> 9a99
+    jumpIf; Check Type3 -> a099
+    animationCrit
+    setNum: 200
+    Effect: Inflict Damage
+    Effect: Kill Self
+    displayText: 14
+    END
+    Subroutine; Attacker & Target Alive -> b79e
+    unconditional Jump; Attacker & Target Alive -> 9599
+    Subroutine; Attacker & Target Alive -> bf9e
+    unconditional Jump; Attacker & Target Alive -> 9599
+    GiegueSpeech
+    
+
+Giegue Attack
+    GiegueSpeech
+    Target Enemy Team Leader
+    display0xFF
+    displayText: 16
+    repeatTimes; 4
+    jumpIfNOT; Attacker & Target Alive -> b699
+    animationLong
+    setNum: 75
+    Effect: Inflict Damage
+    Target Next
+    END
+    END
+    Target Enemy Team Leader
+    
+
+PK Fire Alpha
+    playSound: Fire
+    readPSI: 2c
+    setNum: 20
+    Target Enemy Team Leader
+    repeatTimes; 4
+    jumpIfNOT; Attacker & Target Alive -> dd99
+    applyResistance: Fire
+    animationFire
+    Effect: Inflict Damage
+    Target Next
+    END
+    END
+    playSound: Fire
+    
+
+PK Fire Beta
+    playSound: Fire
+    readPSI: 2d
+    setNum: 60
+    unconditional Jump; Attacker & Target Alive -> d399
+    playSound: Fire
+    
+
+PK Fire Gamma
+    playSound: Fire
+    readPSI: 2e
+    setNum: 255
+    unconditional Jump; Attacker & Target Alive -> d399
+    playSound: Fire
+    
+
+PK Freeze Alpha
+    playSound: Freeze
+    readPSI: 28
+    setNum: 10
+    Target Selected
+    jumpIfNOT; Attacker & Target Alive -> b79e
+    applyResistance: Ice
+    animationFreeze
+    Effect: Inflict Damage
+    END
+    playSound: Freeze
+    
+
+PK Freeze Beta
+    playSound: Freeze
+    readPSI: 29
+    setNum: 40
+    unconditional Jump; Attacker & Target Alive -> 1b9a
+    playSound: Freeze
+    
+
+PK Freeze Omega
+    playSound: Freeze
+    readPSI: 2b
+    setNum: 80
+    Target Enemy Team Leader
+    repeatTimes; 4
+    jumpIfNOT; Attacker & Target Alive -> 3e9a
+    applyResistance: Ice
+    animationFreeze
+    Effect: Inflict Damage
+    Target Next
+    END
+    END
+    playSound: Freeze
+    
+
+PK Freeze Gamma
+    playSound: Freeze
+    readPSI: 2a
+    Target Selected
+    jumpIfNOT; Attacker & Target Alive -> b79e
+    animationFreeze
+    Effect: Cryo Freeze
+    END
+    
+
+Bomb
+    playSound: Bomb
+    readConsumable: 23
+    setNum: 60
+    unconditional Jump; Attacker & Target Alive -> d399
+    playSound: Bomb
+    
+
+Super Bomb
+    playSound: Bomb
+    readConsumable: 24
+    Subroutine; Attacker & Target Alive -> 0a9a
+    setNum: 31
+    Effect: nothing
+    END
+    playSound: Beam
+    
+
+PK Beam Alpha
+    playSound: Beam
+    readPSI: 30
+    setNum: 30
+    Target Selected
+    jumpIfNOT; Attacker & Target Alive -> b79e
+    applyResistance: Light
+    animationBeam
+    Effect: Inflict Damage
+    END
+    playSound: Beam
+    
+
+PK Beam Beta
+    playSound: Beam
+    readPSI: 31
+    setNum: 80
+    unconditional Jump; Attacker & Target Alive -> 689a
+    playSound: Beam
+    
+
+PK Beam Omega
+    playSound: Beam
+    readPSI: 33
+    setNum: 180
+    Target Enemy Team Leader
+    repeatTimes; 4
+    jumpIfNOT; Attacker & Target Alive -> 9f9a
+    applyResistance: Light
+    animationBeam
+    Effect: Inflict Damage
+    Target Next
+    END
+    END
+    playSound: Beam
+    
+
+PK Beam Gamma
+    playSound: Beam
+    readPSI: 32
+    Target Selected
+    jumpIfNOT; Attacker & Target Alive -> b79e
+    jumpIf; has Franklin Badge -> b49a
+    animationBeam
+    jumpIf; is Immune Bit -> c49e
+    Effect: OHKO
+    END
+    displayText: 52
+    Target Self
+    unconditional Jump; Attacker & Target Alive -> ad9a
+    
+
+Bug Spray
+    playSound: Attack
+    readBreakable: 19
+    Subroutine; Attacker & Target Alive -> f09a
+    scriptBreakable: 19
+    END
+    Target Enemy Team Leader
+    repeatTimes; 4
+    jumpIfNOT; Attacker & Target Alive -> fe9a
+    animationSimple
+    jumpIf; is Immune Bit -> 019b
+    jumpIfNOT; Weak to Bug Spray -> 019b
+    Effect: OHKO
+    Target Next
+    END
+    END
+    displayText: 12
+    unconditional Jump; Attacker & Target Alive -> fe9a
+    
+
+PK Thunder Alpha
+    playSound: Thunder
+    readPSI: 34
+    setNum: 10
+    Target Selected
+    jumpIfNOT; Attacker & Target Alive -> b79e
+    applyResistance: Electric
+    animationThunder
+    Effect: Inflict Damage
+    END
+    playSound: Thunder
+    
+
+PK Thunder Beta
+    playSound: Thunder
+    readPSI: 35
+    setNum: 50
+    unconditional Jump; Attacker & Target Alive -> c09a
+    playSound: Thunder
+    
+
+Explode
+    display0xFF
+    displayText: 1e
+    Subroutine; Attacker & Target Alive -> 519a
+    Effect: Kill Self
+    END
+    
+
+Burst into flames
+    display0xFF
+    displayText: 1f
+    setNum: 30
+    Subroutine; Attacker & Target Alive -> d399
+    Effect: Kill Self
+    END
+    playSound: Status with Wait
+    
+
+Offense Up
+    playSound: Nothing
+    readPSI: 20
+    Target Selected
+    jumpIfNOT; Attacker & Target Alive -> b79e
+    Effect: Raise Offense
+    END
+    
+
+Sing
+    Target Enemy Team Leader
+    displayText: 5a
+    repeatTimes; 4
+    jumpIfNOT; Attacker & Target Alive -> ca99
+    jumpIfNOT; is Giegue Fight -> c899
+    Effect: Sing
+    unconditional Jump; Attacker & Target Alive -> ca99
+    displayText: 12
+    Target Next
+    END
+    END
+    
+
+Defense Up Alpha
+    playSound: Nothing
+    readPSI: 21
+    Target Selected
+    jumpIfNOT; Attacker & Target Alive -> b79e
+    Effect: Raise Defense
+    END
+    
+
+Defense Up Beta
+    playSound: Nothing
+    readPSI: 22
+    Target Player Team Leader
+    repeatTimes; 4
+    jumpIfNOT; Attacker & Target Alive -> 9b9b
+    jumpIf; Target is Player Character -> 9b9b
+    Effect: Raise Defense
+    Target Next
+    END
+    END
+    
+
+Quick Up
+    playSound: Nothing
+    readPSI: 23
+    Target Selected
+    jumpIfNOT; Attacker & Target Alive -> b79e
+    setNum: 20
+    Effect: Raise Speed
+    END
+    setNum: 25
+    
+
+
+    
+
+
+    
+
+Scary Words
+    displayText: 32
+    setNum: 30
+    Target Selected
+    jumpIfNOT; Attacker & Target Alive -> b79e
+    animationLong
+    Effect: Lower Fight
+    END
+    displayText: 33
+    
+
+Nasty words
+    displayText: 33
+    setNum: 20
+    unconditional Jump; Attacker & Target Alive -> 059c
+    Target Enemy Team Leader
+    
+
+
+    
+
+Defense Down Alpha
+    playSound: Status with Wait
+    readPSI: 24
+    setNum: 40
+    Target Selected
+    jumpIfNOT; Attacker & Target Alive -> b79e
+    animationLong
+    jumpIf; is Immune Bit -> c49e
+    applyResistance: Defense Down
+    Effect: Defense Down PSI
+    END
+    playSound: Nothing
+    
+
+
+    
+
+
+    
+
+Rages
+    setNum: 25
+    Target Self
+    displayText: 2a
+    setNum: 20
+    Effect: Rage
+    END
+    playAttackSound
+    
+
+Lifeup Alpha
+    playSound: Nothing
+    readPSI: 08
+    setNum: 30
+    Target Selected
+    jumpIfNOT; Attacker & Target Alive -> b79e
+    Effect: Recover HP
+    END
+    playSound: Nothing
+    
+
+Lifeup Beta
+    playSound: Nothing
+    readPSI: 09
+    setNum: 80
+    unconditional Jump; Attacker & Target Alive -> d99c
+    playSound: Nothing
+    
+
+Lifeup Gamma
+    playSound: Nothing
+    readPSI: 0a
+    Target Selected
+    jumpIfNOT; Attacker & Target Alive -> b79e
+    Effect: Max HP
+    END
+    
+
+Lifeup Pi
+    playSound: Nothing
+    readPSI: 0b
+    setNum: 50
+    Target Player Team Leader
+    repeatTimes; 4
+    jumpIfNOT; Attacker & Target Alive -> 049d
+    jumpIf; Target is Player Character -> 049d
+    Effect: Recover HP
+    Target Next
+    END
+    END
+    playSound: Nothing
+    
+
+Lifeup Omega
+    playSound: Nothing
+    readPSI: 0c
+    Target Player Team Leader
+    repeatTimes; 4
+    jumpIfNOT; Attacker & Target Alive -> 159d
+    jumpIf; Target is Player Character -> 159d
+    Effect: Max HP
+    Target Next
+    END
+    END
+    
+
+Restore Energy
+    Target Selected
+    displayText: 3f
+    unconditional Jump; Attacker & Target Alive -> ed9c
+    
+
+PSI Stone
+    playSound: Nothing
+    readBreakable: 49
+    setNum: 20
+    Target Self
+    jumpIfNOT; Attacker & Target Alive -> b79e
+    Effect: Recover PP
+    scriptPSIStone: 49
+    END
+    playSound: Nothing
+    
+
+PSI Magnet
+    playSound: Status with Wait
+    readPSI: 1d
+    Target Selected
+    jumpIfNOT; Attacker & Target Alive -> b79e
+    jumpIf; 50% Chance -> 839e
+    jumpIf; 50% Chance -> c49e
+    animationLong
+    Effect: Magnet
+    END
+    
+
+Darkness
+    playSound: Status with Wait
+    readPSI: 1c
+    Target Selected
+    jumpIfNOT; Attacker & Target Alive -> b79e
+    animationLong
+    jumpIf; is Immune Bit -> c49e
+    Effect: Blind
+    END
+    
+
+Exhaust fumes
+    Target Enemy Team Leader
+    playAttackSound
+    displayText: 4a
+    repeatTimes; 4
+    jumpIfNOT; Attacker & Target Alive -> 2b9c
+    animationSimple
+    setNum: 30
+    Effect: Inflict Damage
+    jumpIfNOT; Attacker & Target Alive -> 2b9c
+    setNum: 20
+    Effect: Lower Fight
+    Effect: Asthma
+    Target Next
+    END
+    END
+    Target Selected
+    playAttackSound
+    
+
+
+    
+
+Dehydration Attack
+    Target Selected
+    playAttackSound
+    displayText: 04
+    jumpIfNOT; Attacker & Target Alive -> b79e
+    jumpIf; Check Type3 -> bf9e
+    animationLong
+    jumpIf; is Immune Bit -> c49e
+    displayText: 4c
+    Effect: Lower Offense
+    Effect: Lower Defense
+    END
+    
+
+
+    
+
+PSI Block
+    playSound: Status with Wait
+    readPSI: 1f
+    Target Selected
+    jumpIfNOT; Attacker & Target Alive -> b79e
+    jumpIf; 50% Chance -> d19d
+    jumpIf; 50% Chance -> c49e
+    animationLong
+    Effect: Block
+    END
+    
+
+Powershield
+    playSound: Nothing
+    readPSI: 17
+    Target Selected
+    jumpIfNOT; Attacker & Target Alive -> b79e
+    Effect: Powershield
+    END
+    
+
+PSI Shield Alpha
+    playSound: Nothing
+    readPSI: 15
+    Target Selected
+    jumpIfNOT; Attacker & Target Alive -> b79e
+    Effect: Shield
+    END
+    
+
+PSI Shield Beta
+    playSound: Nothing
+    readPSI: 16
+    Target Player Team Leader
+    repeatTimes; 4
+    jumpIfNOT; Attacker & Target Alive -> f69d
+    Effect: Shield
+    Target Next
+    END
+    END
+    
+
+
+    
+
+
+    
+
+Megaphone
+    playSound: Nothing
+    readItem: 70
+    Target Selected
+    jumpIfNOT; Attacker & Target Alive -> b79e
+    displayText: 18
+    animationLong
+    jumpIfNOT; 50% Chance -> 599c
+    displayText: 35
+    setNum: 25
+    Effect: Lower Fight
+    END
+    displayText: 36
+    displayText: 37
+    setNum: 20
+    Effect: Rage
+    END
+    playSound: Nothing
+    
+
+Stinger
+    playSound: Nothing
+    readConsumable: 21
+    Target Selected
+    jumpIfNOT; Attacker & Target Alive -> b79e
+    jumpIf; Check Type3 -> bf9e
+    animationLong
+    jumpIf; is Immune Bit -> c49e
+    Effect: Poison
+    END
+    
+
+Stone Spray
+    playSound: Nothing
+    readConsumable: 20
+    Target Selected
+    jumpIfNOT; Attacker & Target Alive -> b79e
+    jumpIf; Check Type3 -> bf9e
+    animationLong
+    jumpIf; is Immune Bit -> c49e
+    Effect: Petrify
+    END
+    
+
+Spews
+    playAttackSound
+    displayText: 1a
+    Target Selected
+    jumpIfNOT; Attacker & Target Alive -> b79e
+    animationLong
+    Effect: Blind
+    END
+    
+
+Confuse Ray
+    display0xFF
+    Target Selected
+    displayText: 2c
+    Target Selected
+    jumpIfNOT; Attacker & Target Alive -> b79e
+    animationLong
+    jumpIf; 50% Chance -> c49e
+    jumpIf; is Immune Bit -> c49e
+    jumpIf; is Mental Immune Bit -> c49e
+    Effect: Confuse
+    END
+    
+
+Demon Seed
+    display0xFF
+    displayText: 76
+    unconditional Jump; Attacker & Target Alive -> 359b
+    
+
+Brainshock
+    playSound: Status with Wait
+    readPSI: 18
+    unconditional Jump; Attacker & Target Alive -> 359b
+    
+
+Braincyclone
+    playSound: Status with Wait
+    readPSI: 19
+    Target Enemy Team Leader
+    repeatTimes; 4
+    jumpIfNOT; Attacker & Target Alive -> 699b
+    animationLong
+    jumpIf; 50% Chance -> 6c9b
+    jumpIf; is Immune Bit -> 6c9b
+    jumpIf; is Mental Immune Bit -> 6c9b
+    Effect: Confuse
+    Target Next
+    END
+    END
+    displayText: 12
+    unconditional Jump; Attacker & Target Alive -> 699b
+    
+
+Hypnosis
+    playSound: Status with Wait
+    readPSI: 1a
+    Target Selected
+    jumpIfNOT; Attacker & Target Alive -> b79e
+    animationLong
+    jumpIf; 50% Chance -> c49e
+    jumpIf; is Immune Bit -> c49e
+    jumpIf; is Mental Immune Bit -> c49e
+    Effect: Sleep
+    END
+    
+
+Paralysis
+    playSound: Status with Wait
+    readPSI: 1b
+    Target Selected
+    jumpIfNOT; Attacker & Target Alive -> b79e
+    animationLong
+    jumpIf; is Immune Bit -> c49e
+    Effect: Para
+    END
+    
+
+Trips
+    display0xFF
+    displayText: 45
+    END
+    
+
+Rope
+    playSound: Nothing
+    readConsumable: 28
+    Target Selected
+    jumpIfNOT; Attacker & Target Alive -> b79e
+    animationSimple
+    Effect: Bind
+    END
+    
+
+Run
+    Target Team Leader
+    displayText: 43
+    jumpIf; 50% Chance -> 0c9e
+    jumpIf; is Triggered Battle -> 0c9e
+    repeatTimes; 4
+    jumpIfNOT; Target Alive -> 099e
+    display0xFF
+    animationRun
+    Target Next
+    END
+    END
+    displayText: 44
+    END
+    
+
+Call Ally
+    callForHelp
+    END
+    
+
+Sprout Seeds
+    sproutSeeds
+    END
+    
+
+Steal Food
+    Target Selected
+    jumpIfNOT; Attacker & Target Alive -> 0e99
+    jumpIf; Check Type3 -> 0e99
+    display0xFF
+    Effect: Steal Food
+    END
+    
+
+Laughs
+    displayText: 30
+    END
+    
+
+
+    
+
+
+    
+
+Plays dead
+    displayText: 34
+    END
+    
+
+Prays
+    displayText: 57
+    END
+    
+
+bonus EXP
+    displayText: 58
+    Target Self
+    display0xFF
+    animationRun
+    Target Selected
+    setNum: 70
+    Effect: Bonus EXP
+    END
+    playAttackSound
+    
+
+
+    
+
+Guard
+    displayText: 59
+    Target Self
+    Effect: Guard
+    END
+    
+
+confuses itself
+    playAttackSound
+    displayText: 66
+    Target Self
+    Effect: Confuse Self
+    END
+    
+
+
+    
+
+
+    
+
+targets one enemy
+    
+
+
+    
+
+Defend (players)
+    displayText: 5b
+    Target Self
+    Effect: Guard
+    END
+    
+
+
+    
+
+Healing Alpha
+    playSound: Nothing
+    readPSI: 10
+    Target Selected
+    jumpIfNOT; Attacker & Target Alive -> b79e
+    Effect: Heal Poison
+    END
+    
+
+Dimension Slip
+    playSound: Dimension Slip
+    readPSI: 26
+    jumpIf; is Triggered Battle -> 2b9e
+    Target Team Leader
+    repeatTimes; 4
+    jumpIfNOT; Target Alive -> 289e
+    escapeBattle
+    Target Next
+    END
+    END
+    displayText: 90
+    END
+    
+
+Edged closer
+    playAttackSound
+    setNum: 20
+    Effect: Edge Closer
+    END
+    playSound: Status with Wait
+    
+
+
+    10 (unknown)
+    displayText: 03
+    END
+    
+
+Angel Seed
+    playSound: Nothing
+    readConsumable: 48
+    Target Selected
+    jumpIfNOT; Attacker & Target Alive -> b79e
+    Effect: Heal Confusion
+    END
+    
+
+Flea Bag
+    playSound: Nothing
+    readConsumable: 1b
+    Target Selected
+    jumpIf; is Immune Bit -> c49e
+    displayText: 5f
+    Effect: Lower Offense
+    Effect: Lower Defense
+    END
+    
+
+
+    
+
+Advanced Confusion
+    displayText: 04
+    Target Selected
+    jumpIfNOT; Attacker & Target Alive -> b79e
+    animationLong
+    Effect: Puzzle
+    END
+    
+
+Healing Beta
+    playSound: Nothing
+    readPSI: 11
+    Target Selected
+    jumpIfNOT; Attacker & Target Alive -> b79e
+    Effect: Heal Para
+    END
+    
+
+Healing Pi
+    playSound: Nothing
+    readPSI: 13
+    Target Selected
+    jumpIfNOT; Attacker & Target Alive -> b79e
+    Effect: Heal Sleep
+    END
+    
+
+Super Healing
+    playSound: Nothing
+    readPSI: 14
+    Target Selected
+    Effect: Heal Uncon
+    END
+    
+
+Shield Off
+    playSound: Nothing
+    readPSI: 1e
+    Target Selected
+    jumpIfNOT; Attacker & Target Alive -> b79e
+    Effect: Shield Off
+    END
+    
+
+Flamethrower
+    playSound: Fire
+    readBreakable: 22
+    Subroutine; Attacker & Target Alive -> f499
+    scriptBreakable: 22
+    END
+    
+
+
+    
+
+Laser Beam
+    playSound: Beam
+    readBreakable: 25
+    Subroutine; Attacker & Target Alive -> 669a
+    scriptBreakable: 25
+    END
+    
+
+Death Beam
+    playSound: Beam
+    readBreakable: 26
+    Subroutine; Attacker & Target Alive -> 809a
+    scriptBreakable: 26
+    END
+    
+
+Smile Boldly
+    displayText: 28
+    Target Self
+    unconditional Jump; Attacker & Target Alive -> 819b
+    
+
+strange howl
+    displayText: 1d
+    unconditional Jump; Attacker & Target Alive -> c09b
+    
+
+Flashdark
+    playSound: Nothing
+    readItem: 1f
+    unconditional Jump; Attacker & Target Alive -> 129b
+    
+
+Sticky Machine
+    playSound: Nothing
+    readBreakable: 1e
+    Target Selected
+    jumpIfNOT; Attacker & Target Alive -> b79e
+    animationLong
+    jumpIf; is Immune Bit -> c49e
+    Effect: Para
+    scriptBreakable: 1e
+    END
+    
+
+Checking
+    Target Selected
+    jumpIfNOT; Attacker & Target Alive -> b79e
+    Check
+    END
+    
+
+
+    
+
+Orange Juice
+    playSound: Nothing
+    readConsumable: 3c
+    setNum: 10
+    unconditional Jump; Attacker & Target Alive -> d99c
+    playSound: Nothing
+    
+
+French Fries
+    playSound: Nothing
+    readConsumable: 3d
+    setNum: 20
+    unconditional Jump; Attacker & Target Alive -> d99c
+    playSound: Nothing
+    
+
+Magic Herb
+    playSound: Nothing
+    readConsumable: 3e
+    setNum: 30
+    unconditional Jump; Attacker & Target Alive -> d99c
+    playSound: Nothing
+    
+
+Sports Drink
+    playSound: Nothing
+    readConsumable: 40
+    setNum: 100
+    unconditional Jump; Attacker & Target Alive -> d99c
+    playSound: Nothing
+    
+
+Big Bag
+    playSound: Nothing
+    readBigBag: 01
+    Subroutine; Attacker & Target Alive -> 439d
+    scriptBigBag: 01
+    END
+    
+
+Asthma Spray
+    playSound: Nothing
+    readItem: 42
+    Target Selected
+    jumpIfNOT; Attacker & Target Alive -> b79e
+    Effect: Heal Asthma
+    END
+    
+
+Super Spray
+    playSound: Attack
+    readItem: 1a
+    Subroutine; Attacker & Target Alive -> f09a
+    END
+    
+
+Love Words
+    playSound: Nothing
+    readItem: 1c
+    displayText: 72
+    END
+    
+
+Swear Words
+    playSound: Nothing
+    readItem: 1d
+    displayText: 73
+    END
+    
+
+Hamburger
+    playSound: Nothing
+    readConsumable: 3f
+    setNum: 60
+    unconditional Jump; Attacker & Target Alive -> d99c
+    playSound: Nothing
+    
+
+Medicine
+    playSound: Nothing
+    readConsumable: 41
+    unconditional Jump; Attacker & Target Alive -> ed9c
+    
+
+Antidote
+    playSound: Nothing
+    readConsumable: 43
+    unconditional Jump; Attacker & Target Alive -> 769d
+    
+
+Bottle Rocket
+    playSound: Fire
+    readConsumable: 61
+    unconditional Jump; Attacker & Target Alive -> d199
+    
+
+
+    
+
+
+    
+
+paralysis gas
+    displayText: 77
+    unconditional Jump; Attacker & Target Alive -> ab9c
+    
+
+
+    
+
+Defense Down Beta
+    Target Enemy Team Leader
+    playSound: Status with Wait
+    readPSI: 25
+    repeatTimes; 4
+    setNum: 40
+    jumpIfNOT; Attacker & Target Alive -> f99b
+    animationLong
+    jumpIf; is Immune Bit -> fc9b
+    applyResistance: Defense Down
+    Effect: Defense Down PSI
+    Target Next
+    END
+    END
+    displayText: 12
+    unconditional Jump; Attacker & Target Alive -> f99b
+    displayText: 32
+    
+
+PK Thunder Gamma
+    playSound: Thunder
+    readPSI: 36
+    setNum: 60
+    Target Enemy Team Leader
+    repeatTimes; 4
+    jumpIfNOT; Attacker & Target Alive -> e39a
+    applyResistance: Electric
+    animationThunder
+    Effect: Inflict Damage
+    Target Next
+    END
+    END
+    playSound: Attack
+    
+
+Bread
+    playSound: Nothing
+    readConsumable: 47
+    unconditional Jump; Attacker & Target Alive -> 3a9d
+    
+
+PK Fire Omega
+    playSound: Fire
+    readPSI: 2f
+    unconditional Jump; Attacker & Target Alive -> 0a9a
+    Target Enemy Team Leader
+    repeatTimes; 4
+    jumpIfNOT; Attacker & Target Alive -> 129a
+    animationFire
+    Effect: OHKO
+    Target Next
+    END
+    END
+    
+
+Healing Gamma
+    playSound: Nothing
+    readPSI: 12
+    Target Selected
+    jumpIfNOT; Attacker & Target Alive -> b79e
+    Effect: Heal Petrification
+    END
+    
+
+
+    
+
+
+    display0xFF
+    displayText: 1e
+    Subroutine; Attacker & Target Alive -> 0a9a
+    Effect: Kill Self
+    END
+    
+

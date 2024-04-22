@@ -1,0 +1,484 @@
+0x70011
+01
+"Big Bag"
+\bFilled with 30 Magic
+Herbs. Disappears when
+emptied.
+02
+"Phone Card"
+Use on a public phone.
+It has 50 uses.
+You could also se(ll) it.
+03
+"Bread Crumbs"
+\bIts trail can be used
+to backtrack, even
+when unconscious.
+Each character has
+their own crumbs.
+\bThe trail head is
+restarted after TPing
+or riding vehicles.
+04
+"Repel Ring"
+\bConsumable. It
+completely prevents
+weaker encounters.
+0A
+"Knife"
+>Offense: 15
+\bIt sells for a good
+price.
+0B
+"Survival Knife"
+>Offense: 38
+\bWell, it's better
+than the Boomerang...
+For [Teddy], anyways.
+0C
+"Ashigaru Sword"
+>Offense: 46
+\bAshigaru, the lowest
+level of infantry.
+\bSell it! It's worth
+a ton!
+0D
+"Katana"
+>Offense: 58
+\bThe best weapon
+[Teddy] has seen.
+0E
+"Shock Gun"
+0F
+"Air Gun"
+>Offense: 42
+\bIt's strong, but is it
+worth that price???
+10
+"Wornout Bat"
+>Offense: 3
+\bBetter than nothing,
+I guess...
+11
+"Ordinary Bat"
+>Offense: 12
+A substantial upgrade
+over the Wornout Bat.
+12
+"Good Bat"
+>Offense: 30
+Did you not take the
+top left present in
+Magicant?
+13
+"Supreme Bat"
+>Offense: 48
+A spectacular bat with
+a famous athlete's
+autograph on it.
+14
+"Frying Pan"
+15
+"Good Frying Pan"
+16
+"Iron Frying Pan"
+>Offense: 36
+\bIts weight gives it an
+extra pow for someone
+not used to bashing.
+17
+"Slingshot"
+>Offense: 7
+A good starter weapon.
+18
+"Boomerang"
+>Offense: 32
+\bReal boomerangs don't
+come back.
+\bPsychic power
+can fix that issue.
+19
+"Bug Spray"
+*Breakable.
+\bIt exterminates all
+insects on use. Works
+on arthropods as well.
+1A
+"Super Spray"
+It exterminates all
+bugs and arthropods.
+It doesn't break,
+which gives it a
+high selling price.
+1B
+"Flea Bag"
+A one-time use item
+that lowers a single
+target's Offense and
+Defense by 1/2.
+\bFails vs mechanical
+enemies.
+1C
+"Love Words"
+1D
+"Swear Words"
+1E
+"Sticky Machine"
+Breakable. Tries to
+paralyze 1 target.
+Unlike PSI, this can
+hit mechanical foes.
+\bIt takes a bit of
+wisdom to use.
+1F
+"Flashdark"
+\bReusable by anyone.
+Tries to blind one
+enemy.
+20
+"Stone Spray"
+\bA one-time use item
+that petrifies a
+single target.
+Fails vs mechanical
+enemies.
+\bPetrified targets have
+double Defense.
+21
+"Stinger"
+22
+"Flamethrower"
+Breakable. Deals 100
+fire damage to all.
+It takes Wisdom to
+operate.
+23
+"Bomb"
+Consumable. Deals 60
+fire damage to all.
+It takes Wisdom to
+utilize it in battle.
+24
+"Super Bomb"
+Consumable. Deals
+fire-type OHKO to all,
+but also causes the
+user to take 31
+damage as recoil.
+It takes Wisdom to
+utilize it in battle.
+25
+"Laser Beam"
+Breakable. Deals 30
+light damage to one.
+It takes Wisdom to
+utilize it in battle.
+26
+"Death Beam"
+Breakable. Deals 80
+light damage to one.
+It takes Wisdom to
+utilize it in battle.
+27
+"Confusion Ray"
+\bReusable by anyone.
+Tries to confuse a
+single target.
+Unlike PSI, this can
+hit mechanical foes.
+28
+"Rope"
+\bConsumable. Ties a
+single enemy. It
+works on all foes.
+Tied foes have a 1/4
+chance of breaking
+free each turn.
+29
+"Mystical Gloves"
+Gloves from another
+world.
+\bWhen used in battle,
+they make you... want
+to move to the beat?
+A good fit for
+[Ninten].
+2A
+"Hypno-Pendulum"
+\bBreakable. Tries to
+put one foe to sleep.
+\bIt takes a bit of
+base wisdom to use.
+2D
+"Coin of Peace"
+>Defense: 5
+\bWearing it gives you
+a slight feeling of
+tranquility.
+2E
+"Coin of Protection"
+>Defense: 11
+\bSome low level armor
+that guarantees a bit
+of protection.
+2F
+"Magic Sealing Coin"
+>Defense: 20
+\bIt's some kind of
+magic talisman.
+30
+"Fairy Bracelet"
+>Defense: 8
+\bA bracelet blessed by
+fairies.
+31
+"Angel Bracelet"
+>Defense: 14
+\bA bracelet blessed by
+angels.
+32
+"Goddess Bracelet"
+>Defense: 28
+\bA bracelet blessed by
+the goddesses.
+33
+"Flame Pendant"
+Cuts fire damage
+by half.
+34
+"Ice Pendant"
+Cuts ice damage
+by half.
+35
+"Thunder Pendant"
+Cuts electric damage
+by half.
+36
+"Sea Pendant"
+\bCuts fire, ice,
+and electric damage
+by half.
+37
+"Raindrop Pendant"
+Cuts fire and ice
+damage by half.
+38
+"Horus Bandana"
+>Defense: 35
+\bA bright, gold bandana
+worthy of a god.
+\bOccupies the top
+slot.
+39
+"Goddess Ribbon"
+>Defense: 32
+\bA hagoromo fit for
+a goddess.
+\bOccupies the top
+armor slot.
+3C
+"Orange Juice"
+>HP: 10
+\bAt least it's
+refreshing.
+3D
+"French Fries"
+>HP: 20
+\bIt's fine without
+ketchup.
+3E
+"Magic Herb"
+>HP: 30
+\bIt's much better when
+stored in a Big Bag...
+3F
+"Hamburger"
+>HP: 60
+\bBetter than wasting
+power on Lifeup <Alpha>.
+\b[Ninten] can better
+use that power on
+fighting.
+...or is that just a
+poor excuse for eating
+them?
+40
+"Sports Drink"
+>HP: 100
+\bGreat to pop both in
+and out of battle.
+41
+"Medicine"
+Restores one target's
+HP to max.
+42
+"Inhaler"
+43
+"Remedy"
+Cures illness.
+44
+"Mouthwash"
+Cures illness. It
+fetches a high price.
+45
+"Strawberry Tofu"
+>HP: 10
+\bA delicacy. You get
+the feeling that a
+doctor and his
+Assistant B wants it,
+and is willing to give
+items for it.
+46
+"Cup of Lifenoodles"
+Cures all statuses.
+47
+"Bread"
+>HP: 20
+You can eat it in
+desperate times, but
+its best use is to
+leave waypoints.
+48
+"Angel Seed"
+49
+"PSI Stone"
+Breakable. When used,
+it restores 20 PP.
+4B
+"Magic Ribbon"
+Increases Force
+by 3-6.
+4C
+"Magic Candy"
+\bA candy meant for the
+wimpy boy, but anyone
+can EAT a candy...
+Increases Fight
+by 3-6.
+4E
+"Speed Capsule"
+Increases Speed
+by 3-6.
+4F
+"Wisdom Capsule"
+Increases Wisdom
+by 3-6.
+50
+"Strength Capsule"
+Increases Strength
+by 3-6.
+51
+"Force Capsule"
+Increases Force
+by 3-6.
+52
+"Fight Capsule"
+Increases Fight
+by 3-6.
+55
+"Basement Key"
+Needed to enter
+the basement.
+56
+"Zoo Key"
+The key to the zoo.
+57
+"Haunted Mansion Key"
+The key to the
+Rosemarys' mansion.
+58
+"GGF's Diary"
+It probably contains
+useful text. Read it!
+59
+"Duncans' Pass"
+It's an employee pass.
+5A
+"Live House Ticket"
+A ticket to enter the
+live house.
+5F
+"Baby Canary"
+Sadness (is) (in) its eyes.
+\bIt must've gotten
+lost from the Canary
+Village.
+61
+"Pencil Rocket"
+A certain wimpy boy is
+interested in them,
+even though they only
+deal 20 fire damage.
+62
+"[Ana]'s Hat"
+[Ninten]('s) telepathy
+tells him...
+[Ana] lives in the
+far east of Snowman.
+63
+"Dentures"
+Return it to the old
+man for a prize!
+64
+"Ticket Stub"
+Save 10 of them for
+a tank ride!
+65
+"IC Chip"
+66
+"Ocarina of Hope"
+You can play the
+melodies you know.
+Not actually useful.
+68
+"Frank(li)n Badge"
+Reflects any strong
+(li)ght that causes a KO.
+69
+"Friendship Ring"
+6A
+"Wimperizer"
+\bReusable. Lowers a
+single target's Off
+and Def by 1/2.
+It works by spreading
+the user's wimpiness
+to the target.
+...so that means the
+only one who can use
+it is...
+6B
+"Onyx Hook"
+Warps you to Magicant.
+It's reusable.
+6C
+"Final Weapon"
+6D
+"Ruler"
+6E
+"Cash Card"
+For use at an ATM.
+6F
+"Red Grass"
+There's probably a way
+to make it edible...
+Maybe someone in
+Magicant knows.
+70
+"Megaphone"
+\bA 50-50 item that
+either lowers Fight
+or raises Offense.
+...A better use for
+it is to sell it.
+71
+"Map"
+72
+"Meteotite"
+It can be sold for a
+very high price.
+A good explanation is
+kind of tough(...)
+7F
+"Debug"

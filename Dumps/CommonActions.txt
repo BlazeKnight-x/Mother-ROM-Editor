@@ -1,0 +1,274 @@
+CommonAction
+    readPSI: aa
+	END
+	unconditional Jump -> 0x2621a
+	jumpIfNOT; Check Status -> 0x28a21
+	readPSI: 15
+	END
+	unconditional Jump -> 0x28099
+	unconditional Jump -> 0x2e2b8
+	END
+	END
+	readPSI: 02
+	END
+	END
+	jumpIfNOT; is Immune Bit -> 0x26868
+	unconditional Jump -> 0x29425
+	unconditional Jump -> 0x2c050
+	Effect
+	END
+	END
+	END
+	END
+	END
+	END
+	END
+	END
+	END
+	END
+	END
+	END
+	END
+	END
+	END
+	END
+	END
+	END
+	: 00
+	END
+	END
+	: 00
+	END
+	END
+	: 00
+	END
+	END
+	: 00
+	END
+	END
+	callForHelp
+	END
+	END
+	END
+	END
+	END
+	END
+	END
+	END
+	END
+	END
+	END
+	END
+	END
+	END
+	END
+	repeatTimes; 4
+	END
+	END
+	END
+	Target Nothing
+	END
+	END
+	END
+	END
+	END
+	END
+	END
+	END
+	END
+	END
+	END
+	END
+	END
+	END
+	END
+	END
+	END
+	END
+	END
+	END
+	END
+	END
+	END
+	END
+	END
+	END
+	END
+	jumpIfNOT; Target is Player Character -> 0x24210
+	END
+	: 00
+	END
+	END
+	END
+	END
+	
+	
+	
+	END
+	END
+	
+	END
+	callForHelp
+	END
+	
+	END
+	
+	END
+	END
+	END
+	END
+	END
+	END
+	END
+	END
+	END
+	END
+	END
+	END
+	END
+	
+	END
+	
+	END
+	END
+	END
+	END
+	
+	
+	
+	END
+	END
+	
+	END
+	END
+	END
+	END
+	scriptBreakable: 5e
+	END
+	animationLong
+	END
+	END
+	END
+	END
+	END
+	END
+	END
+	END
+	END
+	END
+	END
+	END
+	END
+	END
+	END
+	END
+	END
+	END
+	END
+	END
+	END
+	END
+	END
+	END
+	END
+	END
+	END
+	END
+	scriptBreakable: 5e
+	10 (unknown)
+	animationLong
+	Subroutine -> 0x24215
+	END
+	END
+	END
+	scriptBreakable: 5e
+	END
+	animationLong
+	END
+	END
+	END
+	END
+	: 5e
+	END
+	animationLong
+	jumpIfNOT; Attacker & Target Alive -> 0x24115
+	END
+	END
+	END
+	: 5e
+	END
+	animationRun
+	repeatTimes; 1
+	Subroutine -> 0x24711
+	animationLong
+	animationSimple
+	callForHelp
+	escapeBattle
+	animationFreeze
+	playSound: Beam
+	readPSI: 1c
+	Target Enemy Team Leader
+	repeatTimes; 4
+	jumpIfNOT; Attacker & Target Alive -> 0x2daf3
+	animationBeam
+	animationLong
+	Effect: Blind
+	Target Next
+	END
+	END
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+

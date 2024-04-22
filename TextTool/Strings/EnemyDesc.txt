@@ -1,0 +1,386 @@
+0x76811
+01 # Big Woodoh
+\b * Resists Status
+\b => Drops PSI Stone
+\bIt gives good money
+and Exp.
+02 # Dragon
+ - Resists Light
+\b * Immune to Status
+\bIt holds a melody.
+04 # Elephant
+\bIt's got high HP. Hit
+it with Defense Down!
+05 # Bear
+\bDrops a lot of money.
+when defeated.
+06 # Bigfoot
+\bShocked? It really
+does exist!
+07 # Mad Truck
+\b * Immune to Status
+\bIts attacks deal set
+damage!
+08 # Old Robo
+\b * Immune to Status
+\bHits harder than the
+Scrapper.
+09 # Mega Borg
+ - Resists Light
+\b * Immune to Status
+\bThe weakest Borg.
+0A # Gargoyle
+\b * Resists Status
+\bIt carries the Stone
+Spray...
+0B # Gabilan
+\bIt can blind and use
+combo attacks!
+0C # Gorilla
+\bIt can steal food...
+0D # Bison
+\bA stronger version of
+the Buffalo. Harder to
+status.
+0E # Tiger
+\bIt\'s fast but lost its
+ability to combo\...
+0F # Mad Car
+\b - Immune to Status
+\bIts attacks deal set
+damage!
+10 # Raeb Yddet
+\bExtremely weak, but it
+can call its valuable
+friend!
+11 # Magisnail
+\bIt can Rage to boost
+its low Offense.
+12 # Titany
+\b - Resists Status
+\bA master of Hypnosis.
+It can also petrify...
+14 # Eagle
+\bRepel Rings completely
+block them.
+15 # Wolf
+\b => Drops Flea Bag
+\bHunts in packs\...
+16 # Seagull
+\bLoves to steal food...
+17 # Crocodile
+\bDangerous if it Rages.
+18 # Atomic Robo
+\b * Immune to Status
+\bIt uses atomic power
+to fuel its allies.
+19 # CavernMaster
+\bIt appears to be
+protecting something.
+1A # Fugitive
+\bHe drops a ton\ofcash.
+$350, to be exact.
+1C # Barbot
+\b * Immune to Status
+\b => Drops Laser Beam
+\bA malnourished robot?
+1D # Jane
+ - Resists Light
+\b * Immune to Status
+\bHope she doesn't use
+PK Freeze <Gamma>...
+1E # Starman
+\b => Drops PSI Stone
+\bA man from a distant
+star.
+1F # Miraco
+\bAn extremely weak
+enemy.
+20 # Brainga
+ - Resists Light
+\b * Immune to Status
+\bIt uses many status
+moves. PSI Block it!
+21 # Mook
+\b * Resists Status
+\bIt uses many status
+moves and attacks
+with Freeze <Beta>.
+22 # Armor
+ - Resists Light
+\b * Immune to Status
+\bIt'd be nice to have
+some armor of your
+own...
+23 # Woodoh
+\b * Resists Status
+\bIt can only attack or
+try to spread...
+24 # Redneck
+\b => Drops Sports Drink
+\bHe can Rage to boost
+his Offense.
+25 # Hippie
+\b => Drops Megaphone
+\bHope he drops his
+Megaphone! It sells!
+26 # Bag Lady
+\b => Drops Hamburger
+\bShe can combo attack,
+but it's really weak.
+27 # B.B. Gang
+\bDrops no EXP or money.
+A heinous crime fit
+for a delinquent...
+28 # Dr.Distorto
+\bCareful if he Rages!
+2A # Gang Zombie
+\bIts nasty words can
+lower your Fight.
+2B # PseudoZombie
+\bA bit faster, but less
+tanky than its big
+counterpart.
+2C # Crow
+\bWatch your items! This
+smoker is a thief...
+2D # Snake
+\b => Drops Peace Coin
+\bAn extremely weak foe.
+2E # Hyena
+\bAlthough they come in
+packs, they are very
+weak and love to run\...
+2F # Lynx
+\b => Drops Flea Bag
+\bIt's extremely fast,
+at 70 Speed. Otherwise
+not threatening.
+30 # Centipede
+\bThe weakest enemy. Use
+Repels. It literally
+gives 1 Exp!
+31 # Dust Ghost
+\bIt does nothing but
+play dead... until it
+is actually dead.
+32 # Fly
+\bA waste of time. Gives
+1 Exp and Money.
+33 # Spider
+\bIt's speedy and can
+poison or call allies.
+Has low Force.
+34 # Scorpion
+\bIts Stinger inflicts
+illness. Arthropods
+have low Force.
+35 # Rope
+\bExtremely dangerous if
+it Ropes you.
+36 # Fireball
+\bIt only spams Fire <Alpha>.
+37 # Swoosh
+\bThe weakest of
+Magicant\'s inhabitants.
+38 # Bonus Swoosh
+\bIt may decide to greet
+you with Exp. Or not.
+39 # Ghost
+\bThey like to run away.
+3A # Lil Saucer
+\b * Immune to Status
+\b => Drops Meteotite
+\bAbout as big as a
+dinner plate.
+3B # Mr. Batty
+\bApparently, life is
+a puzzle to him.
+3C # Starman Jr.
+\bWatch out for his
+PK Beam <Alpha>!
+3D # Skunk
+\bThey have high Fight.
+Watch out for crits!
+3E # BloodyZombie
+\bHas extremely low
+Force, like a\ll undead.
+3F # Rat
+\bIt\'s the weakest enemy,
+yet it gives 3 Exp.
+...I guess it's just a
+fat rat.
+40 # Bomber
+\b * Immune to Status
+ => Drops Bomb
+Hope that it doesn't
+Bomb you...
+42 # Doll
+\bIt glares at you from
+afar...
+43 # Lamp
+\bIt\'s flying all around!
+46 # Biopede
+\bIt can poison and has
+decent Defense.
+47 # Bioscorp
+\bIt can petrify 1/4th
+of the time!
+4A # Red Snake
+\b => Drops Magic Coin
+\bIt gives 1500 Exp!!!
+Sleep or Paralyze it!
+4B # Lone Wolf
+\bStronger than Silver
+Wolves.
+4C # Polar Bear
+\bPretty slow and open
+to status moves.
+51 # Rattlesnake
+\b => Drops Prot. Coin
+\bIt's dangerous if it
+builds up its Rage!
+52 # Tarantula
+\bLike all Arthropods,
+its got low Force.
+53 # Strong Croc
+\bIf it builds its Rage,
+it can be dangerous...
+Has low Force.
+55 # Buffalo
+\bIt's got low Strength
+and even lower Force.
+57 # Biobat
+\bIt learned how to
+confuse you!
+It still ponders about
+its life decisions,
+though\...
+58 # Stray Dog
+\b => Drops Flea Bag
+\bIt only attacks with
+weak bites.
+59 # Devil Car
+\b * Immune to Status
+\bIts attacks deal set
+damage!
+5A # Devil Truck
+\b * Immune to Status
+\bIts attacks deal set
+damage!
+5B # Death Truck
+\b * Immune to Status
+\bThe strongest vehicle.
+Still isn't that
+strong.
+5C # Alarm Ghost
+\bLike a proper alarm,
+it's way too tanky and
+difficult to shut off.
+5E # WhooshSwoosh
+\bAppears alone. Maybe
+that's why it Rages
+so easily...
+5F # Papa Swoosh
+\bSlower and Rages
+easily. Is this some
+kind of stereotype?
+60 # Swooshette
+\bSpeedy and combos, but
+no problem if you
+bought armor.
+63 # Sky Yddet
+\b => Drops PSI Stone
+\bA great source of
+exp and money!
+65 # Giga Borg
+ - Resists Light
+\b * Immune to Status
+\bHe attacks with his
+quarterstaff and
+occasiona\lly PK Beam <Beta>.
+66 # Last Borg
+ - Resists Light
+\b * Immune to Status
+\bThis guy is devilishly
+strong...
+67 # Scrapper
+\b * Immune to Status
+\b => Drops Laser Beam
+\bCompared to the
+Old Robo, it Beams
+slightly more often.
+68 # Death Barbot
+\b * Immune to Status
+\b => Drops Death Beam
+\bIf it drops its Beam,
+that wimp will finally
+have a weapon...
+69 # OmegaSaucer
+\b * Immune to Status
+\b => Drops Meteotite
+\bProtects its allies
+with PSI Shield <Beta> and
+PSI Block.
+6A # Caroline
+ - Resists Light
+\b * Immune to Status
+\bHope it goes for
+Thunder <Beta>, not <Gamma>...
+6B # Star Miner
+\b * Immune to Status
+\b => Drops Super Bomb
+\bIts rare physical
+attack is FAR scarier
+than its Bombs...
+6C # Nuclear Robo
+\b * Immune to Status
+\b => Drops Super Bomb
+\bAll that power makes
+it a pretty decent
+source of Exp.
+6D # Suzie
+ - Resists Light
+\b * Immune to Status
+\bShe's got extremely
+high Fight and knows
+PK Fire <Gamma>. Run away!
+6E # BlueStarman
+\bOnly has 42 Speed and
+100 HP.
+6F # Satania
+\b * Resists Status
+\bA potent user of
+Freeze and Brainshock.
+70 # Titanian
+\b * Resists Status
+\bIts shell is way
+tougher...
+71 # Mook Senior
+\b * Resists Status
+\bNot only does it use
+crippl\ing status moves,
+it knows PK Freeze <Omega>!
+73 # Zombie
+\bHe loves to laugh and
+confuse others!
+Has low Force.
+74 # ViolentZomb
+\bHe only knows how to
+say nasty words\...
+75 # Silver Wolf
+\bHunts in packs to make
+up for their weakness.
+76 # R7037
+ - Resists Light
+\b * Immune to Status
+\bThis thing is HUGE!
+77 # Grizzly
+\bHe can't combo or
+final blow, but he's
+still capable of
+obliterating anyone
+not guarding.
+79 # LastStarman
+\bThe strongest Starman.
+Gives a ton of Exp!

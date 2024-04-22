@@ -1,0 +1,7938 @@
+# 0001 #
+*Brother!
+ (I')m so scared!
+\b My lamp suddenly
+ started going crazy!
+
+# 0002 #
+*Brother! It('s) like
+ our house is about to
+ fa(ll) apart!
+
+# 0003 #
+*Waah!
+
+# 0004 #
+*Here('s) some juice,
+ big brother!
+
+# 0005 #
+
+
+# 0006 #
+*Whew,that was scary.
+\b*Oh! I think I see
+ something inside the
+ do(ll)!
+
+# 0007 #
+
+# 0008 #
+*(I')m Mimmie.
+ Don('t) mix me up with
+ Minnie!
+
+# 0009 #
+*Are you okay,{Ninten}?
+\b*What on earth is
+ happening to our
+ home?
+ (I')m so scared(...)
+\b*If only your father
+ were here now(...)
+
+# 000a #
+*You('r)e much braver
+ than I ever imagined.
+\b*(...)But I can('t) send
+ you on a journey so
+ famished.
+
+# 000b #
+*Oh,my! You('r)e hurt!
+
+# 000c #
+*Let('s) see(...) To get
+ to the next level,
+ you need(...)
+
+# 000d #
+*Come back home
+ whenever you want
+ more {Food}.
+
+# 000e #
+*Hmm,I see.
+\b Sounds like it must
+ be a poltergeist of
+ some sort.
+*(I')m not sure what to
+ do about it,either.
+\b*But your great-
+ grandfather did study
+ PSI at one point.
+*Perhaps there('s)
+ something in the
+ basement that could
+ help make sense of
+ things.
+\b*I know I put the
+ key somewhere(...) but I
+ can('t) remember where.
+*Anyway,you('r)e our
+ only hope.
+\b Now is the time for
+ an adventure.
+\b Go forth,{Ninten}!
+ Protect us a(ll)!
+
+# 000f #
+
+# 0010 #
+
+# 0011 #
+
+# 0012 #
+
+# 0013 #
+*(Click! Beep-beep-
+ beep(...))
+
+# 0014 #
+*{Ninten}?
+ It('s) your father.
+
+# 0015 #
+*(I')ve deposited ${Money Gain}
+ into your account.
+\b*Your balance should
+ be ${Balance}.
+ Use it wisely.
+
+# 0016 #
+*I realize this isn('t)
+ any of my business,
+\b but why don('t) you
+ take a little break?
+
+# 0017 #
+*I see.Then (I')(ll)
+ make a record of
+ your progress.
+
+# 0018 #
+*I see.We(ll),I guess
+ the Earth IS in
+ danger and a(ll).
+
+# 0019 #
+
+# 001a #
+
+# 001b #
+*Okay.[repeat -> a00c]
+\b*Your dear old dad was
+ also thinking about
+\b hitting the hay for
+ the night.
+\b*(I')ve created a record
+ of your adventure to
+ this point.
+\b*Good night,sleep
+ tight.
+
+# 001c #
+*We('r)e a great team,
+ aren('t) we?
+\b*We(ll),you should turn
+ the power OFF now.
+ A(ll) right?
+
+# 001d #
+*{Ninten},you like to
+ work hard,just like
+ your mom.
+*But,I don('t) think
+ it('s) good to work too
+ hard.
+
+# 001e #
+*Anyway,what do you
+ need from me?
+
+# 001f #
+
+# 0020 #
+
+# 0021 #
+*Good luck![repeat -> a007]
+
+# 0022 #
+
+# 0023 #
+*He(ll)o.
+\b {Pippi} and I are
+ feeling just dandy
+ now!
+
+# 0024 #
+*You didn('t) come from
+ the cemetery to the
+ south,did you?
+ Please te(ll) me you
+ didn('t)!
+
+# 0025 #
+*You('r)e rea(ll)y amazing.
+
+# 0026 #
+*Please te(ll) me you('r)e
+ not a zombie!
+\b (...)Are you?
+
+# 0027 #
+*Oh,yeah? W-w-we(ll)(...)
+\b You('r)e a big stupid
+ zombie head! Waaaah!
+ Eek!
+
+# 0028 #
+*Are you rea(ll)y a
+ human?
+
+# 0029 #
+*(I')m amazed you made
+ it this far.
+
+# 002a #
+*I knew it(...)
+
+# 002b #
+*(I')m so scared (I')m
+ about to wet my
+ pants(...)
+
+# 002c #
+*Boy,that was scary(...)
+
+# 002d #
+*ZOMBIE!
+
+# 002e #
+*Heheheh(...)!
+ You get to be a
+ zombie too!
+
+# 002f #
+*There must be someone
+ contro(ll)ing the
+ dead(...)
+
+# 0030 #
+*Not too shabby,
+ youngster!
+
+# 0031 #
+*Are the zombies going
+ to take over our town
+ too?
+
+# 0032 #
+*Oh,that('s) a baby
+ canary.
+\b Did you find it in
+ Canary Vi(ll)age?
+
+# 0033 #
+*Hmm.You don('t) say.
+
+# 0034 #
+*The birds of Canary
+ Vi(ll)age do sing such
+ lovely songs.
+
+# 0035 #
+*I rea(ll)y admire the
+ man living in Canary
+ Vi(ll)age.
+
+# 0036 #
+*The town mayor is
+ looking for someone
+ brave to help him.
+
+# 0037 #
+*I heard a little girl
+ got lost in the
+ cemetery.
+ I wonder if she('s)
+ been rescued yet(...)
+
+# 0038 #
+*Say(...) You('r)e not
+ honestly thinking of
+\b going to the
+ cemetery,are you?
+
+# 0039 #
+*I thought you were
+ a sensible boy.
+
+# 003a #
+*Animals have suddenly
+ turned violent,
+\b and the dead have
+ come back as zombies
+ to attack us(...)
+\b*What are we supposed
+ to do?
+\b (I')m so scared I can
+ hardly breathe(...)
+ (gasp gasp)
+
+# 003b #
+*You('r)e so awesome!
+
+# 003c #
+
+# 003d #
+*Did a poltergeist
+ attack your house?
+ It tore mine apart.
+
+# 003e #
+*I hear they locked
+ the zoo up to keep
+\b any more animals from
+ escaping.
+\b*They've a(ll) gone
+ berserk,you see(...)
+
+# 003f #
+*Bread is great for
+ when you('r)e hungry,
+\b but I bet you could
+ also use its crumbs
+ to mark your trail.
+*(...)I guess it('s)
+ rea(ll)y none of my
+ business,though.
+
+# 0040 #
+*I don('t) know,
+\b this task might be
+ too much for you to
+ handle,
+ but I sti(ll) have high
+ hopes for you anyway.
+
+# 0041 #
+*We(ll),you see(...)
+\b*A child has strayed
+ into the cemetery.
+*And,as luck would
+ have it,(I')m up for
+ re-election soon.
+*So(...) please help me!
+
+# 0042 #
+*Oh! You('ll) do it?!
+ You('ll) go and rescue
+ her?!
+
+# 0043 #
+*Oh,is this {Pippi},the
+ girl who got lost?
+*Stunning work,lad!
+*I knew from the start
+ that you showed
+ promise!
+ (clap clap applause)
+\b*You('r)e so lucky,
+ {Pippi}.
+ Adorable,too.
+*Now remember to te(ll)
+ your mother that the
+ mayor rescued you.
+*And for you,
+ {Leader}(...)
+ A ${PRICE} reward.Here.
+
+# 0044 #
+
+# 0045 #
+
+# 0046 #
+*Say,since you('r)e
+ here and everything,
+\b won('t) you help with
+ the zoo problem too?
+
+# 0047 #
+*Oh,you('ll) go check
+ it out?
+ That('s) wonderful!
+ {Leader},
+ you certainly do love
+ to play games!
+*Have my assistant
+ Abbot give you a key
+ to the zoo.
+
+# 0048 #
+*Here you go.This is
+ the key to the zoo.
+
+# 0049 #
+*Come back alive and
+ you('ll) be a hero!
+\b*(I')d go with you,but
+ (I')m,umm,not feeling
+ we(ll)(...)
+
+# 004a #
+*Oh,it('s) {Leader},the
+ hero!
+\b*You have tiger
+ droppings a(ll) over
+ your clothes,y'know.
+*Oh,(I')m just kidding!
+\b*Sorry,I don('t) have
+ anything to give you
+ this time(...)
+ Wahahaha!
+
+# 004b #
+*Everyone('s) talking
+ about a girl with
+ special powers.
+ Have you heard about
+ her?
+\b*I bet she'd be a
+ great help to you on
+ your journey.
+
+# 004c #
+*I have plenty of
+ extra zoo keys.
+\b*Here,have another.
+
+# 004d #
+*As you can see,a(ll)
+ our animals have
+ escaped.
+
+# 004e #
+*A(ll) we have left is
+ this canary chick.
+\b Interested in buying
+ it?
+
+# 004f #
+*Then how about for
+ ${PRICE}?
+
+# 0050 #
+*Yeah,I don('t) blame
+ you.
+\b It doesn('t) even know
+ any songs.
+
+# 0051 #
+*Thanks! Take extra
+ good care of it!
+
+# 0052 #
+*How about for free,
+ then? C'mon,take it.
+
+# 0053 #
+*Say,how('s) that
+ canary doing?
+
+# 0054 #
+*(I')m almost certain
+ that something is
+\b contro(ll)ing a(ll) the
+ animals(...)
+
+# 0055 #
+*Animals are so cute.
+ Don('t) you agree?
+
+# 0056 #
+*Teehee.
+
+# 0057 #
+*Stupid head!
+
+# 0058 #
+*Se(ll) somethin' wi(ll) ya!
+
+# 0059 #
+*Something is speaking
+ into {Leader}('s) mind.
+
+# 005a #
+*Whew,what a relief.
+
+# 005b #
+*Thanks! (giggle)
+# 005c #
+*It('s) nice that
+ there('s) a machine
+\b on the first floor of
+ the department store
+ that lets you
+\b withdraw cash from
+ your bank account,
+\b but you need a PTA
+ card or something to
+ use it.
+\b That('s) not very
+ convenient,if you
+ ask me.
+
+# 005d #
+
+# 005e #
+*It('s) such nice
+ weather out.
+\b But what does it
+ matter?
+
+# 005f #
+*Oh,that canary is
+ Laura the songbird('s)
+ baby!
+*Go take it to her!
+
+# 0060 #
+*You seem to have
+ forgotten something
+ important about life.
+ How sad.
+
+# 0061 #
+*Now where did I last
+ see Laura(...)?
+
+# 0062 #
+*It sounds like Laura
+ the songbird has
+ remembered her song.
+*Have you learned her
+ melody,too?
+
+# 0063 #
+*We(ll),that('s) no good.
+
+# 0064 #
+*In song there is
+ strength.
+ True words,indeed.
+
+# 0065 #
+*(I')m {Pippi}.(I')m lost.
+ You('r)e rea(ll)y brave,
+ huh?
+
+# 0066 #
+*You('r)e such a
+ goofba(ll)! Hahaha!
+
+# 0067 #
+*You('r)e rea(ll)y brave.
+ I hope we meet again
+ sometime,don('t) you?
+
+# 0068 #
+*Oh,(I')m so happy!
+\b*Here,this badge can
+ be a symbol of our
+ bond.
+ Take it with you.
+
+# 0069 #
+*I guess you already
+ have a special
+ someone,huh(...)
+
+# 006a #
+*We(ll),I guess this is
+ bye for now.
+\b*Come by my house
+ later to pick up an
+ item of mine.
+\b*By the way(...) do you
+ think my socks are
+ too short?
+
+# 006b #
+
+# 006c #
+*Oh,you didn('t) have
+ to answer.
+\b You('r)e such a
+ cutie(...)
+
+# 006d #
+*Kyakyakya!
+ (You('r)e a big doo-doo
+ head!)
+
+# 006e #
+*{Leader} heard a
+ voice(...)
+\b*"Where is the god('s)
+ tail?"
+
+# 006f #
+*Whoa,those are some
+ weird clothes you
+ have on there.
+\b*I bet you('ll) attract
+ monsters dressed like
+ that!
+
+# 0070 #
+
+# 0071 #
+*Happiness won('t) just
+ walk into your life
+ on its own.
+\b*But neither wi(ll)
+ unhappiness.
+\b*Wouldn('t) you agree?
+
+# 0072 #
+*So if you don('t) want
+ trouble in your
+ life(...)
+\b then you'd best stay
+ sti(ll) and never move
+ a muscle.
+
+# 0073 #
+*Rea(ll)y? Unhappiness
+ CAN walk?
+\b I had no idea.
+
+# 0074 #
+*So,you admit I have
+ good taste?
+\b*Then I take it you
+ want a cool nickname,
+ too?
+
+# 0075 #
+*Okay,I got it.
+\b*From now on,your
+ name wi(ll) be Stupid
+ Face {Leader}.
+\b*It just oozes class.
+
+# 0076 #
+*Oh,that('s) too bad.
+
+# 0077 #
+*Heya,Stupid Face
+ {Leader}!
+
+# 0078 #
+*Have you met the guy
+ who philosophizes
+ about happiness?
+
+# 0079 #
+*He('s) a master
+ nicknamer.He('s) got a
+ real knack for names.
+
+# 007a #
+*People cannot part if
+ they have not yet
+ met.
+
+# 007b #
+*Have you met a guy
+ who talks about how
+\b you can('t) part if you
+ haven('t) met?
+
+# 007c #
+*I agree with him,
+ actua(ll)y.
+
+# 007d #
+*You rea(ll)y should
+ meet him.You('ll) be a
+ better person for it!
+
+# 007e #
+*I feel completely
+ refreshed after
+\b stopping by Queen
+ Mary('s) fountain!
+
+# 007f #
+*Getting to Queen
+ Mary('s) fountain is
+ rea(ll)y tough.
+\b Not only is it far
+ away,but it('s) hard
+ to find,too.
+
+# 0080 #
+*(I')m going to take
+ this broken earring
+ to the fountain
+\b to turn it into a
+ magic earring.
+
+# 0081 #
+*I feel so relaxed
+ just listening to the
+\b mysterious sound of
+ the fountain.
+
+# 0082 #
+*Oh,are you lost?
+ Just keep going
+ south.
+\b*Oops,sorry.
+\b I thought you were
+ looking for a
+ restroom.
+\b*If you('r)e looking for
+ Queen Mary('s)
+ fountain,
+\b then just go west
+ from the castle.
+
+# 0083 #
+
+# 0084 #
+*I bent my spoon,and
+ now it('s) hard to eat
+ with.
+\b*Can you bend it back
+ for me?
+
+# 0085 #
+*Please hurry.
+\b*({Ninten} used the
+ power of PSI to fix
+ the spoon.)
+\b*Thanks!
+ (munch munch chomp
+ chomp)
+\b*Do you wanna stay the
+ night here tonight?
+
+# 0086 #
+*Why not?!
+
+# 0087 #
+*You('r)e very strange,
+ you know that?
+\b But I also think I
+ might like you(...)
+
+# 0088 #
+*Great!
+
+# 0089 #
+*Waaah! You('r)e
+ supposed to accept
+ people('s) kindness!
+
+# 008a #
+*Oh,a traveler!
+ Why don('t) you eat
+ with us?
+\b*Here,can you guess
+ what we('r)e having
+ today?
+
+# 008b #
+*Huh? Why can('t) you
+ te(ll)? You('r)e rea(ll)y
+ suspicious!
+
+# 008c #
+*That('s) right,
+ {Food}.
+\b*I read your mind and
+ decided to make
+ {Food}.
+\b*How does it taste?
+ Do you like it?
+
+# 008d #
+
+# 008e #
+
+# 008f #
+*I used to run a
+ musical instrument
+ store,
+\b but the ocarina I
+ ordered never
+ arrived.
+\b*So (I')ve given up.
+
+# 0090 #
+*Oh.I see.
+
+# 0091 #
+*Thanks!
+\b*Your bed is ready.
+ Pleasant dreams!
+
+# 0092 #
+*Stop by again
+ anytime!
+
+# 0093 #
+*You don('t) fit in with
+ this place,you know
+ that?
+
+# 0094 #
+*I finished the
+ Ocarina of Hope.
+\b*It can play the
+ melodies that you
+ know.
+\b*Do you want it?
+
+# 0095 #
+
+# 0096 #
+*Ahahaha.You('r)e a
+ real straightforward
+ guy.
+\b*Here you go.
+
+# 0097 #
+*Ahahaha! "I want it!"
+ is written a(ll) over
+ your face.
+\b*Go ahead,take it
+ with you.
+
+# 0098 #
+*Hi,kid!
+ How('s) it going?
+
+# 0099 #
+*Leave Magicant?
+ That'd be the day!
+\b*Ahahaha!
+
+# 009a #
+*Outside?
+\b What is this
+ "outside" you speak
+ of?
+
+# 009b #
+*(I')m so embarrassed I
+ wish I could crawl
+ into a hole.
+\b*If only there were
+ holes to crawl
+ into(...)
+
+# 009c #
+*(I')m the goods-keeper.
+ Want help?
+
+# 009d #
+*(I')m great at
+ impressions,you
+ know!
+
+# 009e #
+*There('s) a whole bunch
+ of holes east of
+ town.
+\b*(I')m not sure which
+ hole it is,
+\b but you can hear
+ otherworldly sounds
+ coming from one.
+
+# 009f #
+
+# 00a0 #
+
+# 00a1 #
+*If you pu(ll) out a
+ Red Grass and put it
+ in the fountain,
+\b it('ll) turn into a
+ Magic Herb(...) just
+ like magic!
+
+# 00a2 #
+*Could I interest you
+ in a Big Bag?
+
+# 00a3 #
+*In that case,
+\b could I borrow your
+ ATM Card for a short
+ while?
+
+# 00a4 #
+*It has 30 Magic Herbs
+ inside it,in case
+ you didn('t) know.
+
+# 00a5 #
+*Thanks.I promise
+ (I')(ll) give it back.
+\b*It just seems(...)
+ rea(ll)y cool.
+
+# 00a6 #
+*You don('t) trust
+ others.
+\b*That might be for the
+ best.We(ll),maybe(...)
+
+# 00a7 #
+*Oh,right,I need to
+ return your ATM Card.
+
+# 00a8 #
+*The queen isn('t)
+ feeling very we(ll)
+ right now(...)
+
+# 00a9 #
+*You look suspicious.
+\b*But (I')(ll) let you
+ through if you can
+\b solve my little
+ riddle(...)
+
+# 00aa #
+*That('s) right.
+ The answer is
+ "two a(ll)igators".
+\b*I haven('t) thought up
+ the question yet,
+ though.
+\b Heheh.
+
+# 00ab #
+*Take care!
+
+# 00ac #
+
+# 00ad #
+*I wish I could hear
+ the queen('s) song
+ again(...)
+
+# 00ae #
+*Oh,he(ll)o!
+\b*I was just in the
+ middle of pondering
+\b philosophical
+ questions.
+\b*It('s) hard for me to
+ focus with a(ll) this
+ guitar music,though.
+\b*Oh! Whoops!
+\b I didn('t) realize I
+ was the one playing
+ the guitar!
+\b How careless of me!
+\b*(...)
+\b*This is a secret
+ between just you and
+ me:
+\b come back here when
+ you('r)e stronger.
+\b*You should probably
+ make a note of this
+ now so you don('t)
+\b forget later.
+
+# 00af #
+
+# 00b0 #
+*You tried to ignore
+ me,didn('t) you?
+\b*I get so lonely,
+ being out here a(ll) by
+ myself.
+\b*If there('s) anything I
+ can do,(I')(ll) do it.
+\b*Here!
+
+# 00b1 #
+*(I')m so happy you
+ came!
+\b*I know just what you
+ want.
+\b*Here you go!
+
+# 00b2 #
+*I fina(ll)y wrote a
+ song!
+\b Give it a listen,
+ you music-loving
+ adventurer!
+\b*Oh,baby do(ll),why do
+ you weep?
+\b*The saddened canary
+ won('t) utter a peep.
+\b*The monkey can sing,
+ the piano - it
+ chimes.
+ Though ghosts wi(ll)
+ play out on its
+ keyboard sometimes.
+\b*Each night in the
+ desert,the lone
+ cactus croons.
+*The dragon,when
+ beaten,wi(ll) carry
+ some tunes.
+*While scaling the
+ mountain,EVE sings
+ along.
+*Wi(ll) Queen Mary ever
+ hear the XX Stone('s)
+ last song?
+*Lalala,what a
+ mysterious lu(ll)aby.
+\b Lu(ll)aby,bye-bye,and
+ goodbye.
+\b*What do you think?
+ Nice song,huh?
+*It is,isn('t) it?
+
+# 00b3 #
+*Deep in the forest is
+ a guitar player who
+ loves solitude.
+*He('s) kind of
+ handsome(...) and a
+ great poet,too.
+
+# 00b4 #
+*(I')ve heard about a
+ man who was
+ forgotten(...)
+*But I forget what his
+ story was.
+
+# 00b5 #
+*Though you may not
+ believe it,(I')m a
+ healer.
+*I can restore your
+ PP or heal friends
+ turned to stone.
+*So,what can I do
+ for you?
+
+# 00b6 #
+*(...)That('s) what I
+ figured.
+
+# 00b7 #
+*Don('t) carry so much
+ cash with you.
+\b*Go think things
+ over.See you later.
+
+# 00b8 #
+*(I')m an unsinging
+ monkey.
+\b*But monkeys don('t)
+ norma(ll)y sing,
+ anyway.
+*Any questions?
+
+# 00b9 #
+*(I')m sure it('s) a dumb
+ question,too.
+
+# 00ba #
+*Whew,what a relief.
+\b*I was worried you
+ were going to ask me
+ something tough.
+\b*Say,you look kind of
+ like Queen Mary.
+\b*I wonder why that is.
+
+# 00bb #
+*I wanted to te(ll) you
+ this as soon as I saw
+ you(...)
+\b*The train tracks have
+ been fixed,
+\b so the train can run
+ through here again.
+
+# 00bc #
+*Just once,(I')d like
+ to go inside the
+ castle and see what
+\b Queen Mary looks
+ like.
+
+# 00bd #
+*Queen Mary often has
+ nightmares.
+\b*She talks like she('s)
+ punishing a naughty
+ child
+\b and then cries out
+ about being afraid.
+\b*Then she starts to
+ sing a song,but only
+ a short bit of it.
+\b*The fact she can('t)
+ remember it seems to
+ bring her pain.
+\b*Then she wakes up
+ covered in sweat.
+\b*Something rea(ll)y sad
+ must've happened
+\b to Queen Mary a long
+ time ago(...)
+
+# 00be #
+*But it('s) for girls
+ only.
+
+# 00bf #
+*Zzzzz(...)
+
+# 00c0 #
+
+# 00c1 #
+*You rotten liar!
+
+# 00c2 #
+*We a(ll) know you('r)e
+ not from here,
+\b but we consider you
+ one of us just the
+ same.
+\b*With the Onyx Hook,
+ you can come back
+ here any time.
+
+# 00c3 #
+*Don('t) hesitate to
+ come visit us again
+\b whenever you('r)e
+ having a hard time.
+\b*Everyone here loves
+ you.
+
+# 00c4 #
+*Welcome,{Leader}.
+\b*Here in the land of
+ Magicant,everyone is
+ your friend
+\b and you can have as
+ much as you like of
+ whatever you want.
+\b*Oh? You want to hear
+ my song?
+\b*(I')m sorry.I don('t)
+ know why,
+\b but I just can('t) seem
+ to remember it.
+\b*(I')m sure (I')(ll) be able
+ to remember it
+ someday(...)
+\b*If I can just sing it
+ again,something wi(ll)
+ happen(...)
+\b I just know it.
+
+# 00c5 #
+
+# 00c6 #
+
+# 00c7 #
+
+# 00c8 #
+
+# 00c9 #
+
+# 00ca #
+*(...)
+
+# 00cb #
+*Let me hear the
+ melodies you've
+ learned(...)
+
+# 00cc #
+*Yes(...) That('s) it(...)
+ That('s) the song(...)
+
+# 00cd #
+*Oh(...) Giegue(...)
+
+# 00ce #
+
+# 00cf #
+*I had a dream that
+ Magicant vanished
+ into thin air.
+\b*My heart('s) sti(ll)
+ pounding,even now.
+
+# 00d0 #
+
+# 00d1 #
+*(I')m a cat that swims
+ in the ground.
+\b*Can you guess what
+ (I')m holding in my
+ paw?
+
+# 00d2 #
+*Did you see what (I')m
+ holding in my paw?
+\b*That('s) right.
+ A ribbon.
+\b*This ribbon is
+ overflowing with a
+ special power.
+
+# 00d3 #
+*(I')(ll) only give this
+ Magic Ribbon to a
+ girl.
+
+# 00d4 #
+*(I')m a swimming cat.
+\b*Have you heard of a
+ candy that gives
+ courage and strength
+ to weaklings?
+
+# 00d5 #
+*I see.But you('r)e
+ strong,so I doubt you
+ would need any.
+
+# 00d6 #
+*That boy with the
+ glasses seems pretty
+ weak.
+\b (I')(ll) give the candy
+ to him.
+
+# 00d7 #
+
+# 00d8 #
+*Pretty tasty candy,
+ huh?
+
+# 00d9 #
+*If you need to see
+ the helpful old man,
+\b go to Queen Mary('s)
+ Fountain.
+\b*He('ll) come if he
+ hears a cry from the
+ heart.
+\b*Remember,a cry from
+ the heart!
+
+# 00da #
+
+# 00db #
+*(The crowd grows
+ restless.)
+\b*We didn('t) come to see
+ no lousy rocks with
+ hats on 'em!
+\b Boo! Boo!
+
+# 00dc #
+*Need something?
+
+# 00dd #
+*Oh,okay.Goodbye.
+
+# 00de #
+*Do you need money?
+
+# 00df #
+*How is it? Are you
+ finding it helpful?
+
+# 00e0 #
+*You have ${Balance}.
+\b*How much do you want?
+
+# 00e1 #
+*Hocus-pocus,
+ a(ll)akazam!
+*Use it wisely.Bye!
+
+# 00e2 #
+*You can('t) withdraw
+ that much.
+\b*You('ll) have to try
+ again.Goodbye.
+
+# 00e3 #
+*(I')m a forgotten man.
+ I might as we(ll) not
+ exist.
+\b*You didn('t) have to
+ notice me,you
+ know(...)
+\b*Just go ahead and
+ ignore me.
+
+# 00e4 #
+*(I')m a nowhere man.
+\b*It('s) best if you
+ don('t) give me words
+ of kindness.
+\b*I can('t) live on like
+ this if I start to
+ miss people(...)
+
+# 00e5 #
+*My conversations are
+ always a monologue.
+\b*(I')ve always been
+ alone,from the
+ moment I was born.
+
+# 00e6 #
+*Good luck,bad
+ luck(...)
+\b None of it makes a
+ difference to me.
+\b*Sometimes just
+ breathing is almost
+\b too much for me to
+ handle.
+
+# 00e7 #
+*Why do you insist on
+ talking to me?
+\b*Are you a forgotten
+ man,too?
+
+# 00e8 #
+*Liar! I know there('s)
+ a girl waiting for
+ you!
+\b Just leave me alone
+ and go back to her!
+
+# 00e9 #
+*Yeah.That('s) what I
+ figured.Yep.
+\b*Now just hurry and
+ ignore me already.
+
+# 00ea #
+*Good.Thanks.
+
+# 00eb #
+*You seem to be
+ holding too much
+ stuff.
+\b*Come back for it
+ later.
+
+# 00ec #
+*I heard some rea(ll)y
+ weird stuff is
+\b happening over in
+ Mother('s) Day(...)?
+
+# 00ed #
+*Something about a
+ kidnapped zombie
+\b and animals doing
+ something or other(...)
+\b It sounds absolutely
+ nuts.
+
+# 00ee #
+ Welcome to the town
+ of Thanksgiving!!
+\b
+ Advertisement:Cheap,
+ fast,and handsome!
+\b Big Ben Casey can
+ heal what ails you!
+\b Visit now for a
+ super-discount
+ checkup!
+\b Protect your life(...)
+ to the death!
+
+# 00ef #
+
+# 00f0 #
+
+# 00f1 #
+*First show me some
+ money.Then (I')(ll) heal
+ you.
+\b*Otherwise (I')(ll) have
+ to charge you my own
+ price.
+\b*I can heal you for
+ ${PRICE}.
+\b*This is my special
+ deal just for you.
+\b (I')m actua(ll)y losing
+ money doing this.
+
+# 00f2 #
+
+# 00f3 #
+*Thanks for the
+ ${PRICE}.
+\b*Okay,you('r)e a(ll)
+ better now.
+\b*Please come back
+ sometime.
+\b (I')(ll) give you another
+ nice deal.
+
+# 00f4 #
+*Oh,I see.
+\b*In that case,
+\b (I')(ll) ca(ll) a mortician
+ and give them advance
+ notice.
+
+# 00f5 #
+*By mayor('s) orders,
+\b no one('s) to cross
+ this bridge until
+ martial law('s) lifted.
+\b*I suggest you use the
+ bridge to the east of
+ the zoo instead.
+
+# 00f6 #
+*Hey,why aren('t) you
+ in school,kid?
+\b*(I')m pretty sure
+ today('s) a school day.
+
+# 00f7 #
+*I swiped a battery
+ from Duncan('s) Factory
+ north of here.
+
+# 00f8 #
+*This factory is Mr.
+ Duncan('s) private
+ property.
+\b*Do you have a pass?
+
+# 00f9 #
+*Sorry,but this is
+ expired,kid.
+\b*You swiped it,didn('t)
+ you?
+\b*You('r)e suspicious(...)
+\b*Look me in the eye!
+
+# 00fa #
+
+# 00fb #
+*Some rea(ll)y strong
+ monsters beat me up.
+\b*If you('r)e headed for
+ the train station,
+\b (I')d watch out if I
+ were you(...)
+
+# 00fc #
+
+# 00fd #
+*I heard they lifted
+ the order for martial
+ law in Mother('s) Day.
+\b*Which means we can
+ cross that bridge
+ now(...)
+\b*Get my drift?
+
+# 00fe #
+
+# 00ff #
+
+# 0100 #
+*I was teasing that
+ wimp {Lloyd} just
+ now,but he got away.
+
+# 0101 #
+*Hey,you weakling,
+ stinkling {Lloyd}!
+
+# 0102 #
+*You've been picking
+ on that weakling
+ {Lloyd},haven('t) you?
+
+# 0103 #
+*What?! That was just
+ a joke?!
+
+# 0104 #
+*I heard that {Lloyd}
+ ran off with some
+ explosives.
+\b*He('s) in big trouble
+ if a teacher finds
+ him(...)
+
+# 0105 #
+*{Lloyd}.Your glasses
+ are slipping.
+
+# 0106 #
+*(I')m Suzy.I won the
+ Miss Middle of
+ Nowhere pageant.
+ Do you think (I')m
+ pretty?
+
+# 0107 #
+*You('r)e rea(ll)y cute,
+ too.
+
+# 0108 #
+*You('r)e way uglier
+ than me!
+\b*Stupid Face is what
+ they should ca(ll) you!
+
+# 0109 #
+*The door to the roof
+ is locked.
+\b*I was plannin' to
+ ditch class and
+\b listen to the radio
+ on the roof,too!
+\b Weren('t) you?!
+
+# 010a #
+*Geez,you don('t) talk
+ much,do you?
+
+# 010b #
+*The gym teacher hit
+ me.
+*Maybe I should drop
+ out and become a
+ thug(...)
+
+# 010c #
+*Getting lost in your
+ own school(...)
+\b*Can you get any more
+ lame?!
+
+# 010d #
+*Oh,the door to the
+ roof is locked?
+
+# 010e #
+
+# 010f #
+*A(ll) she does is get
+ fatter and fatter.
+\b*Isn('t) she a terrible
+ woman?
+
+# 0110 #
+*A kid like you
+ wouldn('t) understand
+\b the sorrows of
+ life(...)
+
+# 0111 #
+*How dare you talk
+ about my wife like
+ that!
+\b*Get out!
+
+# 0112 #
+*She was pretty when
+ she was young.
+\b*Yeah,come to think
+ of it,she has her
+ good points,too.
+\b*Say,how about some
+ tea?
+
+# 0113 #
+
+# 0114 #
+*You('r)e a pretty smart
+ kid.
+\b*Oh,that('s) right,you
+ want to go up to the
+ roof.
+\b*A(ll) right,then.
+ Fo(ll)ow me.
+
+# 0115 #
+*Cherish your elders
+ or you('ll) be sorry
+ when YOU grow old!
+
+# 0116 #
+*Hold on.What are you
+ doing with something
+ as dangerous as that?
+\b*I think (I')(ll) hold on
+ to this for you.
+
+# 0117 #
+*Say,you should stay
+ a while and have some
+ tea.
+
+# 0118 #
+*No running in the
+ ha(ll)s!
+
+# 0119 #
+*Hey! I haven('t) seen
+ you before,kid!
+\b*Do you even go to
+ this school?
+
+# 011a #
+*Oh,okay.Just don('t)
+ run in the ha(ll)s.
+
+# 011b #
+*Show me what you
+ have.
+\b*You better not be
+ carrying anything
+ dangerous(...)
+
+# 011c #
+
+# 011d #
+*Who('s) there?!
+\b*(I')m not coming out!
+\b*You('r)e just gonna
+ pick on me if I do!
+
+# 011e #
+*You want to be my
+ friend?!
+\b*Then do you promise
+ not to te(ll) that I
+ took explosives
+\b from the science lab?
+
+# 011f #
+*(I')m coming out now.
+
+# 0120 #
+*(I')m {Lloyd}.
+\b*I heard they make
+ Pencil Rockets at the
+\b Sweet Little Factory
+ south of here(...)
+\b I wanna launch one
+ rea(ll)y bad!
+
+# 0121 #
+*You must be
+ exhausted.You should
+ stay the night!
+
+# 0122 #
+
+# 0123 #
+*Wow!
+\b*So this is a Pencil
+ Rocket! I heard so
+ much about them!
+\b*I should be able to
+ make more of these
+ now.
+\b*Come with me to the
+ science lab.
+
+# 0124 #
+*You flipped the
+ switch on the rocket.
+
+# 0125 #
+*{Lloyd}:I may be a
+ wimp,but now it('s) my
+ turn to fight!
+\b*{Teddy}! You can take
+ it easy in here.
+
+# 0126 #
+*(I')m a weird teacher
+ who secretly lives in
+ this school.
+\b Yes,I admit (I')m
+ weird.
+\b*I need funding for my
+ research.
+\b*Would you be wi(ll)ing
+ to buy one of my
+ inventions?
+
+# 0127 #
+
+# 0128 #
+*Then have a look at
+ my goods.
+
+# 0129 #
+*Come on,you gotta
+ have at least SOME
+ a(ll)owance money(...)
+
+# 012a #
+
+# 012b #
+*Come back anytime.
+\b*(I')(ll) have some more
+ nice stuff ready for
+ you.
+
+# 012c #
+*I haven('t) made any
+ progress with my
+\b inventions since your
+ last visit.
+\b*Would you like to see
+ my older items?
+
+# 012d #
+*I heard on the radio
+ just now that major
+\b panics are breaking
+ out everywhere.
+\b*I WILL protect this
+ train station,no
+ matter what!
+
+# 012e #
+
+# 012f #
+*I can('t) guarantee
+ this train('ll) go very
+ far,
+\b but you('ll) sti(ll) need
+ to pay.
+\b*Are you gonna ride
+ the train?
+
+# 0130 #
+*({Leader}('s) weapon
+ was confiscated.)
+
+# 0131 #
+
+# 0132 #
+
+# 0133 #
+
+# 0134 #
+*That('ll) be ${PRICE},
+ then.
+
+# 0135 #
+
+# 0136 #
+
+# 0137 #
+*It looks like that
+ hat you have belongs
+\b to a girl named
+ {Ana} in Snowman.
+\b*You should go and
+ return it to her.
+
+# 0138 #
+*May you live a long
+ life.
+
+# 0139 #
+*I was on my way to
+ the town of Easter to
+ find my wife.
+\b*But with the train
+ tracks busted,
+\b I have no way to get
+ there now(...)
+
+# 013a #
+*Poking your nose into
+ other people('s)
+ business
+ is what makes playing
+ games so fun!
+
+# 013b #
+
+# 013c #
+*Here you go.
+
+# 013d #
+*Have you seen a man
+ with a sinister
+ mustache?
+
+# 013e #
+*Sounds like he got
+ away.
+\b*Guess (I')(ll) just go
+ and catch me some
+\b more parking
+ violators then.
+
+# 013f #
+*He('s) a big-time scam
+ artist.
+\b*If you see him,let
+ me know immediately!
+
+# 0140 #
+*Whoa,hey,kid!
+\b Hold on to this money
+ for me,wi(ll) ya?
+\b*If you run into any
+ cops,act like you
+ never saw me.
+
+# 0141 #
+*Don('t) run off with
+ it,now!
+
+# 0142 #
+*You('ll) do what I say!
+
+# 0143 #
+*Quit bugging me!
+\b (I')m trying to make a
+ getaway here!
+
+# 0144 #
+*Have you seen a man
+ with a huge gut?
+
+# 0145 #
+*Looks like he got
+ away.
+\b*Guess (I')(ll) just go
+ and catch some
+ speeders then(...)
+
+# 0146 #
+*He ate five orders of
+ {Food}
+\b and then ran off
+ without paying.
+\b*If you see him,let
+ me know immediately!
+
+# 0147 #
+*Oof,my stomach('s) so
+ fu(ll).(belch)
+
+# 0148 #
+*Things've gotten
+ mighty dangerous in
+ this town.
+\b*But it('s) sti(ll) a
+ whole lot better
+\b than the city of
+ Valentine,that('s) for
+ sure.
+
+# 0149 #
+*Oh,yeah!!
+ You feelin' it?!
+
+# 014a #
+*Right on!
+\b You wanna hear me
+ sing?!
+
+# 014b #
+*(I')m feelin' glum.
+
+# 014c #
+*It('s) time to say
+ goodbye already?
+
+# 014d #
+
+# 014e #
+*Have you heard the
+ dragon('s) lu(ll)aby?
+
+# 014f #
+*I heard that there('s)
+ a h-h-haunted house
+\b in the town of
+ Ha(ll)oween.
+\b*I dunno about you,
+\b but (I')d never go
+ anywhere near that
+ place!
+
+# 0150 #
+
+# 0151 #
+*Give me something.
+ Anything.
+\b*Gimme.
+\b*Please.
+\b*Pretty please?
+
+# 0152 #
+*(I')(ll) give you
+ something in return,
+ of course.
+
+# 0153 #
+*I was gonna give you
+ something good in
+ return,too(...)
+
+# 0154 #
+*What wi(ll) you give
+ me?
+
+# 0155 #
+*Thanks.In return,
+ here are some fleas
+ and lice.
+\b*Take them with you.
+
+# 0156 #
+*A cold('s) been going
+ around lately(...)
+\b*Achoo!
+\b*Argh! This sucks!
+
+# 0157 #
+*I heard there('s) a
+ prophetic old man in
+ the mountains
+\b who('s) lived for 300
+ years without ever
+ catching a cold.
+
+# 0158 #
+*A aann aak eey e(ll)
+ iiow ma ennas.
+
+# 0159 #
+*Not even I can hold a
+ normal conversation
+ with him like this(...)
+
+# 015a #
+*Oh! In exchange for
+ finding my dentures,
+\b (I')(ll) share with you
+ my secret to living a
+ long life.
+\b*And that secret is(...)
+\b (...)to gargle a(ll) the
+ time.
+\b*If you catch a cold,
+ go and gargle until
+ it('s) gone.
+\b*Here.Take some of my
+ special mouthwash
+ with you.
+
+# 015b #
+
+# 015c #
+*Want more mouthwash?
+ It costs {PRICE}.
+
+# 015d #
+*(I')ve heard that some
+ people have died from
+ catching a cold.
+\b Just a cold!
+
+# 015e #
+*Have you heard about
+ Ha(ll)oween('s) haunted
+ house?
+
+# 015f #
+*They say you can hear
+ a piano melody coming
+ from inside,
+\b even though the house
+ is empty.
+
+# 0160 #
+*In that case,it('s)
+ best that you don('t)
+ know.
+
+# 0161 #
+*Heh heh heh heh.
+
+# 0162 #
+*No one('s) home.
+ Keeheehee(...)
+
+# 0163 #
+*This is a nightmare.
+\b*A bad dream you('ll)
+ never,ever wake
+ from(...)
+\b*Hee hee hee(...)
+
+# 0164 #
+*G O  B A C K
+
+# 0165 #
+*Gyaaaa!
+
+# 0166 #
+*{Leader}.
+\b*You('r)e going to die.
+\b*Heeheehee hehehe!
+\b (...)Keeheeheehee!
+
+# 0167 #
+*A suspicious rat(...)
+ I am not.
+\b*The room with the
+ piano(...)
+\b*Heheheh(...)!
+
+# 0168 #
+*The haunted house
+ belongs to the
+ Rosemarys.
+
+# 0169 #
+*A ghost started
+ showing up at my
+ house,too.
+\b*It fina(ll)y left
+ 'cause it hated how
+ cramped it was.
+
+# 016a #
+*(I')m more like a game
+ assistant than a
+ citizen of this town.
+\b*Surely there are
+ things you've
+\b forgotten to jot down
+ notes about,right?
+\b*I can give you a hint
+ for ${PRICE}.
+ What do you say?
+
+# 016b #
+
+# 016c #
+*Oh.You('r)e rea(ll)y
+ confident about
+ yourself.
+\b*Then (I')(ll) make sure
+ we never meet again.
+
+# 016d #
+*I can give you up to
+ three hints.
+\b*Everything else is a
+ S-E-C-R-E-T.
+
+# 016e #
+*(I')m the most upbeat
+ person here in
+ Ha(ll)oween.
+\b*Everyone else seems
+ so gloomy,wouldn('t)
+ you say?
+
+# 016f #
+*Yeah,huh.
+\b*To be honest,(I')m not
+ that cheerful a
+ person either(...)
+
+# 0170 #
+*I dunno.
+\b*Maybe (I')M actua(ll)y
+ the gloomy one.
+
+# 0171 #
+*Our home turned into
+ a hive for ghosts and
+ monsters(...)
+\b*So now we live out
+ here.
+
+# 0172 #
+*{Lloyd}:I can use
+ the fuel from your
+ rocket and(...)
+\b Then,if I use it
+ with this(...)
+\b*Pretty cool,huh?
+\b Ahh!
+
+# 0173 #
+
+# 0174 #
+*It('s) too dark to see
+ much,
+\b but aren('t) you that
+ girl from the church
+ in Snowman?
+\b*{Ana},was it?
+\b*Your mom is being
+ held in a room in the
+ back.
+\b*But you can('t) save us
+ right now.
+\b*You gotta find a way
+ to deal with the
+ mothership first(...)
+
+# 0175 #
+*Oh! It flew off into
+ outer space.
+\b*A great success(...)
+ sort of.
+
+# 0176 #
+*Oh! You('r)e such a
+ charming boy!
+\b*Why,I could just
+ gaze at you
+ forever(...)
+\b*If anyone can turn
+ our mansion back to
+ normal,
+\b (I')m sure it('s) you.
+\b*Here.This is the key
+ to get in.
+\b (giggle)
+
+# 0177 #
+*My name is {Ninten}.
+\b*It used to be
+ Bugerror Rosemary,
+ though.
+
+# 0178 #
+*{Ninten}! You big
+ dummy!
+\b*Oh,sorry,I was
+ talking to my son,
+ not you.
+
+# 0179 #
+*The ghosts haven('t)
+ quite left yet,
+\b but you('r)e such a
+ brave boy!
+\b*In fact,I even
+ renamed my son after
+ you.
+
+# 017a #
+*This is Snowman
+ Station,the last
+ stop.
+
+# 017b #
+*I heard a(ll) the
+ citizens of Easter
+ were spirited away.
+
+# 017c #
+*My mother('s) in the
+ town of Easter.
+\b*We haven('t) heard from
+ her in days,
+\b so father and I are
+ going there to look
+ for her.
+
+# 017d #
+*Have you been to the
+ haunted house in
+ Ha(ll)oween?
+
+# 017e #
+*You HAVE to te(ll) me
+ a(ll) about it
+ sometime.
+\b*I just love scary
+ stories!
+
+# 017f #
+*I don('t) wanna visit
+ it,but you probably
+ should.
+
+# 0180 #
+*It('s) freezing here in
+ Snowman.
+\b Be careful not to
+ catch a cold.
+\b*And be sure to brush
+ your teeth,too.
+\b*(cough cough)
+
+# 0181 #
+
+# 0182 #
+*Life is a game.
+\b*Sometimes it('s)
+ important to rest
+\b and pick up where you
+ left off later.
+
+# 0183 #
+*{Ana} hasn('t) been
+ at school lately.
+\b (I')m rea(ll)y worried.
+
+# 0184 #
+*(I')m so worried about
+ {Ana} that I can('t)
+ sleep at night.
+
+# 0185 #
+
+# 0186 #
+*You don('t) have enough
+ money.
+
+# 0187 #
+*Oh,my! Your nose is
+ running!
+
+# 0188 #
+*Say,could I speak to
+ the person playing
+ this game?
+
+# 0189 #
+*It('s) rea(ll)y
+ important.
+
+# 018a #
+*He(ll)o,this is
+ {Ninten}('s) father.
+\b Thank you for always
+ looking after him.
+\b*I thought it would be
+ nice to at least know
+ your name.
+\b*So,if you could te(ll)
+ me,that'd be great.
+
+# 018b #
+*Thank you for your
+ time.
+\b*(I')m a busy man
+ myself,so I must be
+ going now.Goodbye!
+
+# 018c #
+*{Leader}(...) right?
+
+# 018d #
+*Come on,quit joking
+ around.
+
+# 018e #
+*(I')ve been waiting for
+ you.
+\b*I need your help to
+ find my mom.
+\b*Let('s) start by seeing
+ what('s) happening in
+ the town of Easter.
+
+# 018f #
+*You know,I had a
+ dream about someone
+\b who looked just like
+ you(...)
+
+# 0190 #
+*{Ninten}(...)
+ Please stay with me.
+
+# 0191 #
+*No! Stay with me(...)
+\b Please(...)
+
+# 0192 #
+*It('s) so quiet here.
+\b*Would you like to
+ dance?
+
+# 0193 #
+*(...)You('r)e right.
+ This isn('t) the time
+ for that(...)
+\b (I')m sorry for asking(...)
+
+# 0194 #
+*{Ninten}(...)
+\b*Do you(...) like me?
+
+# 0195 #
+*What('s) wrong,
+ {Lloyd}?
+
+# 0196 #
+*The dragon is asleep.
+\b*{Leader} can('t) wake it
+ up just yet.
+
+# 0197 #
+*The dragon sensed
+ {Leader}('s) presence
+ and awoke.
+\b*"NO ONE WEAKER THAN
+ ME CAN HAVE THIS
+ SHEET MUSIC."
+
+# 0198 #
+
+# 0199 #
+*My daughter {Ana}
+ is timid,
+\b but she has a kind
+ heart and mysterious
+ power.
+
+# 019a #
+*You children WILL be
+ victorious.
+\b*I have faith that our
+ prayers wi(ll) be heard
+ soon.
+\b*For now,get some
+ rest.
+
+# 019b #
+*{Leader} found a pass
+ that someone dropped.
+
+# 019c #
+*{Leader}('s) party
+ climbed into the
+ rocket.
+
+# 019d #
+*My grandpa lives in
+ the Advent Desert.
+\b*If you see him,te(ll)
+ him I say hi.
+
+# 019e #
+*(I')m a nice guy('s)
+ corpse.
+\b*So don('t) worry,I
+ won('t) attack you or
+ anything like that.
+
+# 019f #
+*I make a useful
+ signpost,
+ wouldn('t) you say?
+
+# 01a0 #
+*You('r)e one gutsy kid,
+ talking to dead
+ bodies(...)
+
+# 01a1 #
+*(I')m a camel('s) bones.
+\b*Would you like some
+ tips for walking
+ through the desert?
+
+# 01a2 #
+*Move your left foot
+ before your right
+ foot sinks.
+\b*Move your right foot
+ before your left foot
+ sinks.
+\b*It took me 100 years
+ to figure this out.
+
+# 01a3 #
+*Oh,but I wanna te(ll)
+ you.
+\b*Wouldn('t) you like to
+ know?
+
+# 01a4 #
+*Advent Desert is the
+ most boring part of
+ this game.
+\b*But watch out for
+ land mines(...)
+
+# 01a5 #
+ "Advent Desert"
+ Why not take a
+ sightseeing flight?
+
+# 01a6 #
+*I laid land mines in
+ this desert during
+ the war before last.
+\b*I thought I dug 'em
+ a(ll) up,
+\b but I just can('t) seem
+ to find the last one.
+\b*Best be careful out
+ there.
+
+# 01a7 #
+*Oh,do you want to
+ ride in my plane?
+
+# 01a8 #
+*Then it('ll) cost
+ ${PRICE} for the lot
+ of ya.
+\b*Be sure to hang on to
+ your ticket stubs.
+\b*Co(ll)ect ten of 'em
+ and you('ll) earn a
+ ride in my tank!
+\b*Hahaha! You sure seem
+ happy to hear that!
+
+# 01a9 #
+*It IS rather pricey,
+ so I can('t) say I
+ blame ya.
+
+# 01aa #
+*Oh! You co(ll)ected ten
+ ticket stubs!
+\b*A(ll) right,then! (I')(ll)
+ lend you my tank!
+\b*Hahaha! You sure seem
+ happy to hear that!
+
+# 01ab #
+*You wrecked my tank.
+ My precious,precious
+ tank(...) (weep)
+\b*You better pay me the
+ money to have it
+ fixed.
+\b*It comes to ${PRICE}.
+\b*Wi(ll) you pay right
+ now?
+
+# 01ac #
+
+# 01ad #
+*Oh,that('s) great.
+ We(ll),be seein' ya!
+
+# 01ae #
+*Now (I')m mad!
+ Grrrrrrr(...)
+
+# 01af #
+
+# 01b0 #
+*Mommy and Daddy are
+ gone.
+
+# 01b1 #
+*I gard this gate.
+\b Hoo goes there?!
+
+# 01b2 #
+*Y-you('r)e suspishus!
+\b D-don('t) make me beet
+ you up(...)!
+ (shiver shiver)
+
+# 01b3 #
+*The Garricksons' baby
+ is weird.Like,
+ REALLY weird.
+
+# 01b4 #
+*Let('s) see(...)
+ Two plus three is
+ five.
+\b Eight minus four is
+ four(...)
+\b I study a(ll) the time.
+
+# 01b5 #
+*Mommy! I miss you!
+
+# 01b6 #
+*Daddy! I miss you!
+
+# 01b7 #
+*A big flying ship
+ took a(ll) the grownups
+ away.
+
+# 01b8 #
+*It('s) great having no
+ grownups around!
+\b (sniffle sob)
+
+# 01b9 #
+*I want milk!
+
+# 01ba #
+*I want milk,too!
+
+# 01bb #
+*Milk!
+
+# 01bc #
+*Bring my mommy and
+ daddy back.Please.
+
+# 01bd #
+*Oh,he(ll)o there.
+ My name is Tom
+ Garrickson.
+\b*Introducing myself is
+ my hobby.
+
+# 01be #
+*Mommy told me this
+ baby has a special
+ power.
+
+# 01bf #
+
+# 01c0 #
+*Gaga googoo.
+
+# 01c1 #
+*I am this baby('s)
+ consciousness.
+\b*I have psychic
+ powers,just as you
+ do.
+\b*I possess the ability
+ to teleport.
+\b*With it,you can
+ return to anywhere
+ you've been before.
+\b*(The baby('s) mind
+ taught you how to use
+ teleportation PSI.)
+
+# 01c2 #
+
+# 01c3 #
+
+# 01c4 #
+
+# 01c5 #
+
+# 01c6 #
+*I think I heard the
+ voices of my dad and
+\b the others coming
+ from the mountains.
+\b*But the mountains are
+ way past the town of
+ Valentine.
+\b*It('s) too far away for
+ me to go there.
+
+# 01c7 #
+*Aww,man.I can('t)
+ give it to you.
+\b You('r)e holding too
+ much stuff.
+
+# 01c8 #
+*Time has passed,
+ but you('r)e sti(ll)
+ underage.
+
+# 01c9 #
+*You rea(ll)y oughtta
+ watch where you('r)e
+ walking.
+\b*Heheheh(...)
+
+# 01ca #
+*Oh,that blasted
+ Black Blood Gang(...)
+
+# 01cb #
+*"Black Blood Gang" is
+ a long name,
+\b so everyone just
+ ca(ll)s it the BB Gang.
+
+# 01cc #
+*You('r)e not with the
+ BB Gang,I hope(...)
+
+# 01cd #
+*Everything('s) been
+ nuts ever since black
+ clouds appeared
+ over the mountains.
+\b The town and its
+ people have a(ll)
+ started to go crazy.
+
+# 01ce #
+*Hey! You!
+\b*You two,there!
+ Are you two
+ sweethearts?
+
+# 01cf #
+*You love each other?
+ Hurray!
+
+# 01d0 #
+*I dunno,are you sure
+ love isn('t) budding
+\b deep inside your
+ hearts?
+
+# 01d1 #
+*Hey,I got concert
+ tickets.
+\b*They cost ${PRICE}.
+ Want some?
+
+# 01d2 #
+*Here you go!
+\b*You('r)e lucky.They('r)e
+ a(ll) sold out at the
+ department store.
+
+# 01d3 #
+*Geez,you kids are
+ cheap.
+
+# 01d4 #
+*I have some secret
+ info you might find
+ interesting.
+\b*Want to hear it?
+
+# 01d5 #
+*The BB Gang('s) boss('s)
+ fu(ll) name is {Teddy}
+ Junior the 3rd.
+\b*It('s) only a rumor,
+ though.
+
+# 01d6 #
+*(I')m sure you('ll)
+ regret it later.
+
+# 01d7 #
+*No peeking in the
+ dressing room.
+\b*You('ll) wind up in a
+ world of trouble if
+ you do.
+
+# 01d8 #
+
+# 01d9 #
+*You('r)e so cute.
+\b*Oh,your name is
+ {Leader}?
+\b*Here,this beer('s) on
+ me.Drink up!
+
+# 01da #
+*Oh,you('r)e sti(ll) a
+ kid?
+\b*Come back when you('r)e
+ older,then.
+
+# 01db #
+*Forget it.No more
+ drinks from me.
+
+# 01dc #
+*Now do you regret
+ what you did?
+
+# 01dd #
+*If you promise not to
+ do it again,then you
+ can go.
+\b*But I think (I')(ll) hold
+ on to your dangerous
+ items.
+
+# 01de #
+*Then you can spend
+ another day in there
+ to cool off.
+
+# 01df #
+*Heheheh.
+\b*I got my hands on
+ some {Item}s
+ the other day.
+\b*Want one for ${PRICE}?
+
+# 01e0 #
+*You don('t) got enough
+ money.
+\b*Grrrr(...)
+
+# 01e1 #
+*{Teddy}('s) parents
+ were ki(ll)ed by
+\b monsters in the
+ mountains.
+\b*He had always been
+ such a nice boy
+ before then.
+
+# 01e2 #
+*I wish {Teddy} would
+ go back to his old,
+ gentle self.
+
+# 01e3 #
+*You gonna sing too?
+
+# 01e4 #
+*A(ll) right! Do
+ something with lots
+ of pizzaz!
+
+# 01e5 #
+*I guess you('r)e a shy
+ kid,huh?
+
+# 01e6 #
+
+# 01e7 #
+*{Ana}!
+\b*Oh,nothing.I saw
+ your name written on
+ your hat,that('s) a(ll).
+
+# 01e8 #
+*That girl you brought
+ with you sure was
+ cute.
+
+# 01e9 #
+*Thanks,that was a
+ great song.
+\b*Say,are you the guys
+ who've been messin'
+ with my buddies?
+
+# 01ea #
+*You('r)e goin' down!
+
+# 01eb #
+*I know it was you!
+
+# 01ec #
+*Ahahaha,you('r)e
+ rea(ll)y somethin'!
+\b*{Ninten},was it?
+\b*Whadya say we ca(ll) it
+ a draw?
+\b*I rea(ll)y wanna avenge
+ my parents.
+\b*How about we go to
+ the mountains
+ together?
+
+# 01ed #
+
+# 01ee #
+*Please give my
+ {Ninten} a(ll) the help
+ you can.
+
+# 01ef #
+*{Leader} used the
+ Phone Card.
+
+# 01f0 #
+*Great! (I')m sure we('ll)
+ make a great team of
+ punks! Cheers!
+
+# 01f1 #
+
+# 01f2 #
+
+# 01f3 #
+*Please! I know I can
+ help you guys!
+
+# 01f4 #
+*He(ll)o,this is your
+ father.
+\b*I don('t) mean to butt
+ in or anything(...)
+\b But what('s) your
+ problem?!
+\b*Just press the
+ A Button already!
+
+# 01f5 #
+*Hey,you.Four-eyes.
+\b*You('r)e not cut out
+ for fightin'.
+\b*Rest here and take it
+ easy.
+\b*(I')(ll) take your stuff,
+ too.
+
+# 01f6 #
+
+# 01f7 #
+*There('s) no way we can
+ beat 'em with brute
+ strength alone.
+\b*But we CAN bring
+ peace back to the
+ world.
+\b*I just know it.
+
+# 01f8 #
+*{Teddy}:What('r)e you
+ two blushin' for?
+\b*Let('s) get goin'
+ already!
+
+# 01f9 #
+*(I')m changing my
+ clothes! You pervert!
+
+# 01fa #
+*(I')m {Lloyd}('s) father.
+\b*{Ninten}('s) dad asked
+ for your name
+ earlier.
+\b Did you give him the
+ right name?
+
+# 01fb #
+*Okay,great.
+\b*Please keep {Lloyd}
+ safe,okay?
+\b*He IS a weakling,
+ after a(ll)(...)
+
+# 01fc #
+*Then let('s) go through
+ the process again.
+
+# 01fd #
+*You should visit the
+ harbor before you go
+\b to Mt.Itoi.
+\b*I rea(ll)y mean it.
+
+# 01fe #
+*(...)Have you ever had
+ strawberry-flavored
+ tofu before?
+
+# 01ff #
+*If you ever find any
+ more,could you bring
+ it to me?
+\b (I')(ll) give you
+ something nice in
+ return.
+
+# 0200 #
+*Oh.I wish they'd
+ start se(ll)ing it out
+ here(...)
+
+# 0201 #
+*Oh,strawberry-
+ flavored tofu!
+ Thank you!
+\b*Now let me give you a
+ nice gift in return.
+
+# 0202 #
+
+# 0203 #
+
+# 0204 #
+*Stop by if you ever
+ get hurt.
+\b*It('s) not much,but I
+ have food,medicine,
+\b and some plain beds
+ here.
+
+# 0205 #
+
+# 0206 #
+*Say,{Lloyd}.
+\b*Looks like it('s)
+ fina(ll)y time to use
+\b what little courage
+ you have.
+
+# 0207 #
+*He(ll)o,kids.
+\b*What do you need?
+
+# 0208 #
+*MY NAME IS EVE.
+\b I HAVE BEEN WAITING
+ FOR YOU.
+\b*MY FATHER WAS GEORGE.
+\b HE WAS TAKEN TO THE
+ ENDS OF THE UNIVERSE,
+\b AND THEN HE RETURNED
+ HERE.
+\b*MY DUTY IS TO PROTECT
+ YOU.
+
+# 0209 #
+
+# 020a #
+
+# 020b #
+
+# 020c #
+
+# 020d #
+*Surely it must be
+ hard carrying so much
+ stuff(...)
+
+# 020e #
+*{Ninten}! {Ninten}!
+\b*It looks like you got
+ your head handed to
+ you.
+\b*So,how about giving
+ it another shot?
+
+# 020f #
+*{Ninten} decided to
+ return
+\b after summoning a(ll)
+ the courage and
+ energy he had.
+\b*Good luck,{Ninten}!
+
+# 0210 #
+*{Ninten} realized it
+ had only been a bad
+ dream.
+\b*Good luck,{Ninten}!
+
+# 0211 #
+*Give to who?
+
+# 0212 #
+*That person can('t)
+ carry any more
+ stuff.
+\b*Give it to someone
+ else?
+
+# 0213 #
+*You sti(ll) have some
+ stuff left here,so
+ come get it later.
+
+# 0214 #
+*Are you a friend of
+ {Ninten}?
+\b*Rea(ll)y? I see.
+\b*But these items
+ belong to {Ninten},
+\b so I can('t) give
+ them to anyone
+ else.
+
+# 0215 #
+*Has that weakling
+ {Lloyd} kicked the
+ bucket?
+
+# 0216 #
+ Welcome to
+   Mother('s) Day
+
+# 0217 #
+ Cream Puff Zoo
+   Manager('s) Office
+
+# 0218 #
+ Ocean Overlook
+
+# 0219 #
+*I don('t) think
+ there('s) anyone here
+ by that name,
+\b but perhaps (I')m
+ mistaken(...)
+
+# 021a #
+*The grass energized!
+
+# 021b #
+*There('s) no one like
+ that here!
+
+# 021c #
+*{Item},right?
+\b Thanks! I rea(ll)y
+ appreciate it!
+
+# 021d #
+*It is easy to lose
+ items in the vicinity
+ of this sign,
+\b so please be careful.
+
+# 021e #
+*Incredibly enough,
+ you found dentures
+ under the sign!
+
+# 021f #
+*Hi! Need healing?
+
+# 0220 #
+*Come to the science
+ lab.
+
+# 0221 #
+
+# 0222 #
+*The mysterious
+ phenomenon has
+ stopped,for now(...)
+
+# 0223 #
+*Listen closely,now.
+ (I')m going to explain
+ how to use this.
+\b*A(ll) right.Whatever
+ you do,don('t)
+ press(...)
+\b*Oh,crap! I pressed
+ it!
+
+# 0224 #
+*(I')(ll) make you some
+ {Food}.
+\b*Eat some and scoot up
+ to bed.
+
+# 0225 #
+
+# 0226 #
+
+# 0227 #
+
+# 0228 #
+*Oh me,oh my!
+  Oh me,oh my!
+   Oh me,oh my!
+\b*My dear {Pippi}('s)
+ gotten lost.
+\b*If you('r)e going into
+ town,please te(ll) the
+ mayor for me,okay?
+\b (sniffle sniffle sob
+ sob)
+
+# 0229 #
+
+# 022a #
+*(I')(ll) buy it for ${PRICE}.
+
+# 022b #
+*{Leader} took out his
+ great-grandfather('s)
+ diary
+\b and read these words
+ aloud:
+\b "(...)That which was
+ left behind
+\b by the ship that
+ soars the heavens."
+
+# 022c #
+
+# 022d #
+
+# 022e #
+*You('r)e lying.
+\b*I can see right
+ through your tricks.
+
+# 022f #
+*(The audience is
+ unhappy.)
+\b*You said there'd be
+ a trio! There ain('t)
+ three people here!
+\b Boo! Boo!
+
+# 0230 #
+*Which item wi(ll) you
+ leave with me?
+
+# 0231 #
+
+# 0232 #
+*The dragon was in a
+ very deep sleep.
+
+# 0233 #
+
+# 0234 #
+*Can I help you?
+
+# 0235 #
+
+# 0236 #
+*Done.Anything else?
+
+# 0237 #
+*Okay,then.Be careful
+ out there.
+
+# 0238 #
+*Here! Anything else?
+
+# 0239 #
+*There was a landslide
+ up by Union Station,
+\b so the train can('t)
+ get through.
+
+# 023a #
+*The {Item},yes?
+
+# 023b #
+*It looks you can('t)
+ hold any more items.
+
+# 023c #
+
+# 023d #
+*Oh.You don('t) seem to
+ have enough money.
+
+# 023e #
+*Oh,my.It looks like
+ you can('t) hold any
+ more items.
+
+# 023f #
+*You don('t) have enough
+ money.
+\b*Come back again when
+ you do.
+
+# 0240 #
+*Bye! Take care!
+
+# 0241 #
+
+# 0242 #
+*Oh,my.You can('t)
+ carry any more
+ things.
+\b*In that case,(I')(ll)
+ give it to you the
+ next time I see you.
+
+# 0243 #
+*Here you go!   
+ Medicine!
+
+# 0244 #
+*Okey-doke![repeat -> a006]
+ Good night!
+
+# 0245 #
+
+# 0246 #
+*WITHDRAW HOW MUCH?
+
+# 0247 #
+*DEPOSIT HOW MUCH?
+
+# 0248 #
+*Okay! Let('s) go back
+ to town now!
+
+# 0249 #
+*Oh,no.It looks like
+ you can('t) carry any
+ more items.
+\b*That('s) too bad.
+
+# 024a #
+*You can('t) carry any
+ more stuff?
+\b*That('s) too bad.
+
+# 024b #
+*Looks like you can('t)
+ carry any.Come by
+ later when you can.
+
+# 024c #
+
+# 024d #
+*Which course would
+ you like?
+
+# 024e #
+
+# 024f #
+
+# 0250 #
+*I can('t) talk very
+ we(ll) without my
+ dentures.
+
+# 0251 #
+*Looks like you sti(ll)
+ don('t) have enough.
+
+# 0252 #
+
+# 0253 #
+
+# 0254 #
+
+# 0255 #
+
+# 0256 #
+
+# 0257 #
+
+# 0258 #
+*You seem to be having
+ a tough time(...)
+\b (I')m so worried(...)
+
+# 0259 #
+*Good luck!
+
+# 025a #
+*Who('s) your leader?!
+\b (I')m gonna teach 'im
+ a lesson!!
+
+# 025b #
+*The BB Gang members
+ are doing just fine.
+
+# 025c #
+
+# 025d #
+*Please don('t) make me
+ angry.
+
+# 025e #
+*{Leader} secretly
+ pocketed it.
+
+# 025f #
+*Oh,you don('t) seem to
+ have enough money.
+
+# 0260 #
+*Oh,it looks like you
+ can('t) carry any more
+ things.
+
+# 0261 #
+*I am the professor('s)
+ Assistant A.
+\b*I,too,would love to
+ try some strawberry-
+ flavored tofu.
+
+# 0262 #
+*Oh,it looks so good!
+\b*Thanks,I appreciate
+ it.
+\b As a token of my
+ gratitude,
+\b (I')(ll) share some
+ information I heard.
+\b*There('s) an amazing
+ robot at the bottom
+\b of a lake on
+ Mt.Itoi.
+\b*I bet it sti(ll) works,
+ too!
+
+# 0263 #
+*I realize I look like
+ Assistant A,but (I')m
+ actua(ll)y Assistant B.
+\b*I rea(ll)y,truly want
+ to try strawberry-
+ flavored tofu too.
+
+# 0264 #
+*Oh! Oh! (I')m so happy!
+\b*Please,take this
+ with you!
+
+# 0265 #
+  Medicine Sleep
+# 0266 #
+*You can('t) hold any
+ more stuff(...)
+\b*Come get it later,
+ then.Don('t) forget!
+
+# 0267 #
+*You('r)e here for your
+ Big Bag,right?
+\b (I')ve been expecting
+ you.
+
+# 0268 #
+*Here,this is for
+ you.It('s) a Big Bag.
+
+# 0269 #
+*It('s) no big deal.
+\b*The real problem is
+ my wife.
+\b*She sleeps until noon
+ every day and she
+\b never packs me a
+ lunch.
+\b*Isn('t) that just
+ terrible?
+
+# 026a #
+*Oh! {Ana} is dead!
+
+# 026b #
+*Thank you for
+ everything.
+\b*As a token of my
+ gratitude(...)
+\b (I')(ll) be praying for
+ your success.
+
+# 026c #
+*(I')m Laura.
+
+# 026d #
+
+# 026e #
+
+# 026f #
+
+# 0270 #
+*Oh,my! It('s) {Ninten},
+ the hero!
+\b I never expected you
+ to return a(ll)
+ alone(...)
+\b*Are you taking a
+ break?
+
+# 0271 #
+*Oh,little girl.
+\b*This is no place for
+ a child like you.
+
+# 0272 #
+
+# 0273 #
+*Oh,{Leader}!
+ How are you doing?
+
+# 0274 #
+*Good morning.It
+ looks like you slept
+ we(ll).
+
+# 0275 #
+*Please come again,
+ okay? Promise?
+
+# 0276 #
+*Good morning!
+
+# 0277 #
+*Be careful.A lot of
+ the monkeys here like
+ to lie.
+
+# 0278 #
+*Heheh.Do I look like
+ a monkey?
+
+# 0279 #
+*(...)(I')m actua(ll)y a
+ tanuki,also known as
+ a racoon dog.
+\b*(I')m in disguise.
+
+# 027a #
+*Darn.
+\b*You have rea(ll)y good
+ eyes,you know that?
+
+# 027b #
+*You should quit
+ playing.
+
+# 027c #
+*Are you rea(ll)y sure
+ about that?
+
+# 027d #
+*Oh.Oh,we(ll),then.
+
+# 027e #
+*You managed to catch
+ me.
+\b You('r)e rea(ll)y
+ something.
+\b*Here('s) something nice
+ for you.
+
+# 027f #
+*Turn right and then
+ left to find
+ something nice.
+
+# 0280 #
+*It seems peaceful in
+ here,but it('s) also
+ way too dark.
+
+# 0281 #
+*Straight!
+ Just walk straight!
+\b The truth is
+ somewhere straight
+ ahead.
+
+# 0282 #
+*(I')m a lady,you know.
+\b*You shouldn('t) walk up
+ to a lady so casua(ll)y
+ and start talking.
+\b Don('t) you agree?
+
+# 0283 #
+*Actua(ll)y,(I')m a man.
+
+# 0284 #
+
+# 0285 #
+*La-la la la-la,la la
+ la la la(...)
+\b*Oh,don('t) pay any
+ attention to this
+ melody.
+
+# 0286 #
+*How long has it taken
+ you to get this far?
+\b*Oh,I just thought
+ (I')d ask.
+
+# 0287 #
+*I got some good
+ information for you.
+ You interested?
+
+# 0288 #
+*We(ll),basica(ll)y(...)
+ Treasure your
+ friends.
+\b*That('s) a(ll) I have to
+ say.
+
+# 0289 #
+*Fine,then!
+\b*You have no
+ inte(ll)ectual
+ curiousity at a(ll)!
+
+# 028a #
+*Stop! You must not go
+ this way!
+
+# 028b #
+*I don('t) trust any of
+ the monkeys here.
+\b A(ll) they ever do is
+ lie.
+\b*Go right,left,left,
+ and then right.
+
+# 028c #
+*Turn back!
+\b*Or,if you don('t) feel
+ like turning back,
+ then just keep going!
+
+# 028d #
+*I think you('ll) meet a
+ new friend in a city
+ with an ocean view.
+
+# 028e #
+*(I')m a shy monkey.
+\b*Talking isn('t) rea(ll)y
+ my thing.
+\b*(...)Okay?
+\b*(...)
+
+# 028f #
+*Hubba hubba.Heaven
+ must be missing an
+ angel.
+
+# 0290 #
+*Don('t) assume that a(ll)
+ monkeys are liars.
+
+# 0291 #
+*(I')m the boss monkey.
+\b It annoys me how the
+ others lie a(ll) the
+ time.
+\b*Go straight ahead and
+ you('ll) find the exit
+ to your right.
+
+# 0292 #
+*Boy,did I mess up(...)
+\b*I must've made a
+ serious mistake to
+ wind up here.
+
+# 0293 #
+*Help!
+
+# 0294 #
+*Oh,the phone!
+ Could you get it,
+ {Ninten}?
+
+# 0295 #
+*(I')m Abbot,the
+ mayor(...)('s) assistant.
+\b*The mayor is right
+ over there.
+
+# 0296 #
+*I have a secret to
+ share with you later.
+
+# 0297 #
+*Oh,you came to stay
+ the night again?
+
+# 0298 #
+*Oh,a traveler!
+
+# 0299 #
+*If you think you('r)e
+ supposed to bust the
+\b ghosts in the haunted
+ house(...)
+\b you('r)e gravely
+ mistaken.
+\b*No,there('s) actua(ll)y
+ a melody there.
+
+# 029a #
+
+# 029b #
+*I have faith that
+ {Ana} is doing we(ll)
+ somewhere out there.
+
+# 029c #
+*Hey,you('r)e underage.
+ (I')m taking you into
+ custody.
+
+# 029d #
+
+# 029e #
+
+# 029f #
+*Say,I heard you
+ stepped on a land
+ mine.
+\b*I stepped in dog crap
+ once myself.
+
+# 02a0 #
+*I heard you stepped
+ in dog crap
+\b in some place ca(ll)ed
+ the Advent Desert.
+\b*Could you get any
+ lamer?!
+
+# 02a1 #
+ Certificate
+\b This hereby certifies
+ that:
+    {Player}
+\b has stepped on the
+ land mine in the
+ Advent Desert.
+\b Please keep this
+ location a secret
+ from other players.
+\b   -Shigesato Itoi
+
+
+# 02a2 #
+*It looks like you
+ slept we(ll).
+\b*Where are you off to
+ today?
+\b*We(ll),take care!
+
+# 02a3 #
+*Oh,you('r)e not here
+ to visit someone?
+\b*If you are the
+ patient,come into
+ the back room.
+
+# 02a4 #
+*We don('t) have anyone
+ named that in our
+ hospital.
+
+# 02a5 #
+*The cold this year is
+ especia(ll)y bad.
+\b*It('s) made me so
+ scrawny(...)
+
+# 02a6 #
+*I don('t) have a cold.
+\b Cough cough.
+\b*Oh,that wasn('t) a
+ cough.
+\b It('s) just something I
+ say out of habit.
+\b*Cough cough.
+
+# 02a7 #
+*Exhausted? Go to the
+ hotel.
+\b*Sleepy? Go to the
+ hotel.
+\b*That('s) a(ll) there is
+ to say,rea(ll)y.
+
+# 02a8 #
+*Oh,hi.Heh heh.
+
+# 02a9 #
+*This is a restaurant,
+ tra-la-la!
+\b*A happy restaurant,
+ ha-ha-ha!
+\b*Are you feeling
+ happy?
+
+# 02aa #
+*Are restaurant owners
+ everywhere so
+ musical,I wonder?
+
+# 02ab #
+*I think {Food}
+ is great,too.
+
+# 02ac #
+*The hotels around
+ here are rea(ll)y no
+ different from the
+\b ones in Mother('s) Day,
+ yet they cost so much
+ more.
+\b (mutter grumble)
+
+# 02ad #
+*This hotel is cheap.
+\b*But that('s) about the
+ only thing it has
+ going for it.
+
+# 02ae #
+*There was a landslide
+\b and now big rocks are
+ blocking the railroad
+ tracks.
+\b*The train can('t) get
+ through.
+
+# 02af #
+*You understand animal
+ talk,right?
+\b*Then (I')(ll) give you a
+ hint:try checking
+ me.
+\b*Woof!
+
+# 02b0 #
+*You don('t) have enough
+ money.That('s) too
+ bad.
+\b*Please come again
+ some other time.
+
+# 02b1 #
+*Welcome! 
+ Please have a look at
+ our menu.
+
+# 02b2 #
+*Here! An order to go!
+
+# 02b3 #
+
+# 02b4 #
+
+# 02b5 #
+*He(...)
+\b (...)might never come
+ again.
+
+# 02b6 #
+*Have fun!
+
+# 02b7 #
+*Hey,waiter!
+ Where('s) the wine list
+ I asked for?
+
+# 02b8 #
+*I want to try some
+ {Food}.
+
+# 02b9 #
+
+# 02ba #
+
+# 02bb #
+*(I')d like to help the
+ zombies become
+ friendly
+\b by teaching them
+ about God.
+\b*But(...)
+ Zombies freak me out!
+
+# 02bc #
+*It('s) me,{Pippi}!
+\b*We rea(ll)y did meet
+ again,{Leader}!
+\b*I went out to play
+ again.
+ That('s) why (I')m here.
+\b Don('t) te(ll) my mom,
+ though.
+
+# 02bd #
+*Oh,aren('t) you
+ {Leader},
+\b that snot-nose kid
+ who sat next to me
+ in kindergarten?
+\b*Or are you someone
+ else?
+
+# 02be #
+*Please don('t)
+ dine-and-dash.
+\b Sorry if that comes
+ off as distrustful(...)
+
+# 02bf #
+*You know,you look
+ like you have a big
+ appetite.
+
+# 02c0 #
+
+# 02c1 #
+*With the tracks
+ ruined,the train has
+ stopped running.
+\b*Quit with a(ll) the
+ pesky questions,wi(ll)
+ ya?
+\b*Geez,you('r)e
+ persistent.
+\b*You('r)e gonna make me
+ cry with a(ll) your
+ questions.
+
+# 02c2 #
+*Don('t) just stand
+ there! Get moving!
+
+# 02c3 #
+*You look like you've
+ been through a lot.
+\b*We(ll),now you can sit
+ back,relax,and
+ regret it a(ll).
+
+# 02c4 #
+*(I')ve heard about a(ll)
+ the great things
+ you've been up to.
+\b*You must rea(ll)y be
+ brave,huh?
+
+# 02c5 #
+*Canary Vi(ll)age is
+ north and west of
+ here.
+\b*You should definitely
+ go visit it -
+ admission is free!
+
+# 02c6 #
+*There('s) this rea(ll)y
+ pretty secretary at
+ the town ha(ll).
+\b*She('s) the first floor
+ receptionist.
+
+# 02c7 #
+*(I')m starving.
+
+# 02c8 #
+*It('s) like I told my
+ son,
+\b "If you have time to
+ play Nintendo
+ games(...)
+\b then you should be
+ studying instead!"
+
+# 02c9 #
+*You have a rea(ll)y
+ cheerful look on your
+ face.
+
+# 02ca #
+*Duncan is trying to
+ open a strip club in
+ this town.
+\b*(I')m absolutely
+ against it!
+
+# 02cb #
+*Someday I wanna be a
+ doctor so I can help
+ people.
+\b*And so I can make
+ loads of money.
+
+# 02cc #
+*Huh? Rea(ll)y?
+\b This is a respectable
+ survey,though(...)
+
+# 02cd #
+*Go to school,you!
+\b*You('r)e a student,
+ aren('t) you?!
+
+# 02ce #
+*How are we going to
+ get the rocks off the
+ train tracks?
+\b*If we let city ha(ll)
+ take care of it,
+\b they('ll) be there we(ll)
+ into next year!
+
+# 02cf #
+*I heard there('s) a
+ gigantic rocket in
+\b the Duncan Factory
+ way up north.
+
+# 02d0 #
+*Don('t) assume (I')m just
+ an ordinary old guy.
+\b*Although I actua(ll)y
+ am.
+
+# 02d1 #
+*You know(...)
+\b*If it were up to
+ me(...)
+\b*(I')d probably use a
+ Duncan Factory rocket
+\b to blow up the rocks
+ on the tracks.
+
+# 02d2 #
+*My husband is an
+ important man at
+ Twinkle Elementary.
+\b*He('s) so important
+\b that he doesn('t) eat
+ packed lunches from
+ home.
+
+# 02d3 #
+*Have you been to the
+ Sweet Little Factory?
+
+# 02d4 #
+*You know how there
+ are scary monsters
+ a(ll) outside town?
+\b*(I')m worried to death
+ that they('ll) steal my
+ money.
+
+# 02d5 #
+*La-la-laaa(...)
+\b Into the wide blue
+ sky(...)
+\b dandelion fuzz does
+ fly(...)
+\b La-la-laaa!
+\b*I love music more
+ than anything else!
+
+# 02d6 #
+*The school janitor
+ has the key to the
+ roof,
+\b but he won('t) give it
+ to anyone.
+
+# 02d7 #
+*The old fortune-
+ te(ll)ing man on top of
+\b the mountain is
+ rea(ll)y friendly.
+\b*He('ll) give you as
+ much stuff as you can
+ possibly carry!
+
+# 02d8 #
+*I walked through the
+ tunnel once when I
+ was young.
+\b*I went to see a dead
+ body.
+
+# 02d9 #
+*This is a residental
+ area.
+\b Try to keep the noise
+ level down when you
+ are walking around.
+
+# 02da #
+*I bet you've thrown
+ food into the fields
+\b to get rid of it,
+ huh?
+\b*We(ll),I guess it
+ can('t) be helped,
+\b since this IS a game
+ and a(ll).
+
+# 02db #
+*Whoa(...)!!!
+\b*(I')m(...) doing research
+ about baths.
+\b*It('s) for a university
+ project.
+\b*(...)It('s) the truth!
+ I swear!
+
+# 02dc #
+*Man,having a bike
+ would be so
+ convenient.
+
+# 02dd #
+*(I')m starving(...)
+\b (...)Is what you
+ expected me to say,
+ huh?
+\b*We(ll),don('t) worry,I
+ won('t).
+\b I AM starving,
+ though.
+
+# 02de #
+*I love the city.
+\b*I love the trendy,
+ fashionable
+ lifestyle.
+
+# 02df #
+*I don('t) believe in
+ psychic powers at
+ a(ll).
+
+# 02e0 #
+*(I')m an overshadowed
+ man.
+\b*Sometimes it seems
+ like (I')ve disappeared
+ completely.
+
+# 02e1 #
+*I love this town.
+\b*Ha(ll)oween,the next
+ town over,is scary,
+ though.
+
+# 02e2 #
+*Do you believe in
+ God?
+
+# 02e3 #
+*If you have rea(ll)y
+ strong cold medicine,
+\b they('ll) buy it for a
+ lot at the store.
+
+# 02e4 #
+*(I')m a cheery mailman,
+ la-la-la!
+\b*Do you know where the
+ Rosemarys moved to,
+ la-la-la?
+
+# 02e5 #
+*The mailman is trying
+ to find the Rosemary
+ family('s) new address.
+\b*If you see him,te(ll)
+ them they live much
+ further to the east.
+\b*La-la-la!
+
+# 02e6 #
+*That Rosemary girl
+ gives me the creeps!
+
+# 02e7 #
+*The whole downtown
+ area was so fu(ll) of
+ monsters that
+\b everyone fled here.
+
+# 02e8 #
+*Can I help you?
+
+# 02e9 #
+*(I')m a fortunete(ll)er
+ in training.
+\b*I can see you
+ returning to Union
+ Station from
+ this train station.
+\b*(I')m not 100% sure
+ about that,though.
+
+# 02ea #
+*{Ana} lives in a
+ temple(...) Err,I mean
+ a church.
+\b*Oh,you already knew
+ that?
+
+# 02eb #
+*There('s) a church in
+ the mountains further
+ to the east.
+\b*(cough(...) cough(...))
+
+# 02ec #
+*You kids sure are
+ energetic and
+ carefree,
+\b wearing such light
+ clothes out here!
+\b (cough(...) cough(...))
+
+# 02ed #
+*If you run into some
+ camel bones in the
+ Advent Desert,
+ te(ll) them I say hi.
+\b*That camel and I go
+ way back.
+
+# 02ee #
+*I can treat minor
+ injuries here.
+\b*But if you('r)e sick,
+\b you('ll) need to visit
+ an actual hospital,
+ okay?
+
+# 02ef #
+*I bet {Lloyd}('ll) have
+ a computer-related
+ job in the future.
+
+# 02f0 #
+*Shh! Keep quiet in
+ the library!
+\b*A-a-a-CHOO!
+
+# 02f1 #
+*Oh,you must be here
+ because you heard (I')m
+\b the world('s) greatest
+ fisherman.
+\b*We(ll),I wouldn('t) say
+ (I')m THAT great, but(...)
+\b*Oh,how about I te(ll)
+ you about some of my
+\b great exploits for an
+ hour or so?
+
+# 02f2 #
+*Get outta my face,
+ twerps!
+
+# 02f3 #
+*Hey,you!
+
+# 02f4 #
+*My HP may be low,but
+ (I')m gonna give this
+ everything I got!
+
+# 02f5 #
+*In a fight between
+ you and me(...)
+\b (I')m pretty sure I
+ would lose.
+
+# 02f6 #
+*(I')m tough.
+\b*But (I')m mostly a(ll)
+ talk.
+
+# 02f7 #
+*Our boss {Teddy}
+ could tota(ll)y beat
+ you with just his
+\b pinkie if he wanted
+ to!
+
+# 02f8 #
+*Did you make sure to
+ read the sign?
+
+# 02f9 #
+*If you ever come
+ across a cactus with
+\b a face on it in a
+ desert somewhere(...)
+\b (...)that would be
+ utterly terrifying.
+
+# 02fa #
+*Talk to the fisherman
+ and he('ll) wind up
+\b talking your ears
+ off.
+
+# 02fb #
+*Any first-grader can
+ do a cartwheel,
+ wouldn('t) you say?
+
+# 02fc #
+*Please take this
+ elevator up to the
+ observation deck.
+
+# 02fd #
+*I saw smoke rising
+ from an island you
+\b can see from the
+ observation deck.
+\b*I wonder if someone
+ lives there.
+\b*Man,if only (I')d
+ looked through the
+ telescope(...)
+
+# 02fe #
+*I can('t) do a
+ cartwheel.
+
+# 02ff #
+*I sti(ll) don('t) know
+ how to carry numbers
+ in subtraction.
+
+# 0300 #
+*I hear strawberry
+ tofu is a(ll) the rage
+ in big cities.
+\b*(I')d love to try some.
+
+# 0301 #
+*(I')m hungry.
+
+# 0302 #
+*Don('t) assume (I')m an
+ ordinary old guy.
+\b*(...)Is what my dad
+ likes to say a(ll) the
+ time.
+
+# 0303 #
+*You('r)e late for
+ class!
+
+# 0304 #
+*Did you see a
+ strange teacher in
+ the science lab?
+*(...)Because I did.
+
+# 0305 #
+*Have you played
+ Dragon Quest 4?
+\b*(I')m sti(ll) having a
+ hard time with the
+ third one.
+
+# 0306 #
+*Buy somethin' wi(ll) ya!
+
+# 0307 #
+*(I')m very sorry.That
+ item is currently
+ sold out.
+
+# 0308 #
+*Oh,you've changed
+ your mind?
+\b*That('s) too bad,but I
+ hope you('ll) come back
+ soon!
+
+# 0309 #
+*Thanks!   
+
+# 030a #
+*Oh,you've changed
+ your mind?
+\b*We(ll),please come
+ again.
+
+# 030b #
+*(I')m so glad that you
+ recovered,{Chara 2}.
+\b*Come back any time
+ you need.
+
+# 030c #
+*Oh,isn('t) that your
+ friend,though?
+\b*They rea(ll)y could
+ die,you know(...)
+
+# 030d #
+*Yes,yes.
+\b*I can examine you for
+ ${PRICE} per person.
+\b*Is that agreeable
+ with you?
+
+# 030e #
+*You rea(ll)y don('t) need
+ treatment?
+\b*A(ll) right,then.
+
+# 030f #
+*I can find nothing
+ wrong with that
+ person.
+
+# 0310 #
+*There,a(ll) better!
+
+# 0311 #
+
+# 0312 #
+*Though you may not
+ believe it,(I')m a
+ healer.
+\b*What do you want me
+ to do?
+
+# 0313 #
+*Oh,okay.
+ If you say so.
+
+# 0314 #
+*I need to charge you
+ ${PRICE}.Okay?
+
+# 0315 #
+*Welcome.
+*It('s) ${PRICE} per night
+ here.
+\b*Wi(ll) you be staying?
+
+# 0316 #
+*Oh,that('s) too bad.
+\b*We(ll),come back
+ again.
+
+# 0317 #
+*Pleasant dreams!
+
+# 0318 #
+*Good morning.
+\b*Please come back
+ again.We look
+ forward to it.
+
+# 0319 #
+*{Chara 2} was just
+ brought in,and is
+ sti(ll) unconscious.
+\b*Please pay ${PRICE}
+ for the doctor('s) fee.
+
+# 031a #
+*Who are you here to
+ see?
+
+# 031b #
+
+# 031c #
+*Dad('s) not home.
+\b*I don('t) understand
+ money,but I can do
+ other stuff.
+\b*So don('t) worry.You
+ can stay here tonight
+ if you want.
+
+# 031d #
+*Good morning.
+\b*Stay again sometime,
+ okay?
+\b*It gets lonely here
+ a(ll) by myself.
+
+# 031e #
+*Oh? You('r)e not going
+ to stay?
+\b*But I can do this
+ work just fine even
+ when Dad('s) gone(...)
+
+# 031f #
+*Oh,I can('t) let you
+ in without tickets.
+
+# 0320 #
+*But(...)
+ There was nothing
+ there.
+
+# 0321 #
+
+# 0322 #
+  Store    Take
+# 0323 #
+*You don('t) have any
+ items.
+
+# 0324 #
+*You haven('t) left any
+ items with me.
+
+# 0325 #
+*Hold on(...)
+\b*The storeroom is
+ fu(ll),
+\b so I can('t) store any
+ more stuff.
+
+# 0326 #
+*WELCOME
+
+# 0327 #
+*INSUFFICIENT FUNDS
+
+# 0328 #
+
+# 0329 #
+*NOT ENOUGH MONEY
+
+# 032a #
+*SORRY,BUT YOUR
+ WITHDRAWAL AMOUNT
+\b HAS EXCEEDED YOUR
+ ACCOUNT BALANCE
+
+# 032b #
+*THANK YOU
+
+# 032c #
+*There('s) an old music
+ box hidden inside the
+ do(ll).
+\b*{Leader} opened the
+ music box.
+\b*A broken melody began
+ to play.
+
+# 032d #
+* ???
+
+# 032e #
+*Thank you.
+
+# 032f #
+*I have a great source
+ for weapons.
+\b*One of these days,
+\b I might get ahold of
+ some rea(ll)y amazing
+ ones(...)
+
+# 0330 #
+
+# 0331 #
+*{Leader}('s) party won
+ the battle.
+
+# 0332 #
+  WITHDRAW DEPOSIT
+# 0333 #
+*CURRENT BALANCE: 
+ ${Balance}
+
+# 0334 #
+*It('s) locked.
+
+# 0335 #
+*The key doesn('t) fit.
+
+# 0336 #
+*{Leader} unlocked
+ the door and went
+ inside.
+
+# 0337 #
+  Save     Nothing
+# 0338 #
+  Continue End
+# 0339 #
+*{Leader} picked up the
+ telephone.
+
+# 033a #
+*(I')m sorry,but you
+ don('t) seem to have
+ enough money.
+
+# 033b #
+*Oh,(I')m so sorry.
+ You don('t) have enough
+ money.
+
+# 033c #
+*This is only my
+ humble opinion,
+\b but you probably
+ shouldn('t) carry any
+ more things.
+
+# 033d #
+*Okay! A(ll) better!
+\b*Amazing,huh?
+
+# 033e #
+*(I')m very sorry.I
+ can('t) buy your
+ {Item}.
+
+# 033f #
+*Laura the songbird
+ was so happy to see
+ her baby again
+ that she began
+ singing.
+
+# 0340 #
+*{Leader} learned the
+ melody.
+
+# 0341 #
+*The canary is
+ singing.
+
+# 0342 #
+*The monkey stole the
+ Zoo Key.
+
+# 0343 #
+*The robot is old and
+ rusted.
+
+# 0344 #
+*The instant it sensed
+ {Ninten},the robot
+ sprang to life.
+
+# 0345 #
+*<NOP>{Chara 2}:{PRICE} EXP.
+\p
+# 0346 #
+*Good luck.
+
+# 0347 #
+
+# 0348 #
+*Touching the
+ fountain('s) water
+ revitalized you.
+
+# 0349 #
+
+# 034a #
+*{Pippi}!
+\b*Oh,thank goodness!
+ She('s) a(ll) right!
+\b*I think the mayor
+ is looking for her
+ too.
+\b*You should probably
+ go and see him.
+
+# 034b #
+*Someone('s) in here!
+ (...)Wait,this isn('t) a
+ bathroom.
+\b*I have my hands fu(ll)
+ at the moment.Come
+ back later.
+
+# 034c #
+*Who('s) been poisoned?
+
+# 034d #
+*Who sha(ll) I soften?
+
+# 034e #
+*They haven('t) been
+ poisoned!
+
+# 034f #
+*Wait,they haven('t)
+ been turned to stone!
+
+# 0350 #
+*They used to make
+ loads of Pencil
+ Rockets there.
+
+# 0351 #
+*My wife was the very
+ first Miss Middle of
+ Nowhere.
+
+# 0352 #
+*Okay,I unlocked the
+ door.
+\b*The view from the
+ roof is rea(ll)y nice,
+ by the way.
+
+# 0353 #
+*Let('s) go visit
+ Duncan('s) Factory
+ later.
+\b*I hear there('s) a
+ rea(ll)y incredible
+ rocket there.
+
+# 0354 #
+*I bet people have
+ been spreading rumors
+\b about how (I')m a
+ "weakling stinkling"
+ or a "stupid head"(...)
+
+# 0355 #
+*Oh(...) It('s) morning
+ now.
+
+# 0356 #
+*Cherish your elders,
+ you hear?
+\b (cough cough)
+
+# 0357 #
+*Hey,pipsqueak!
+\b Who said you could
+ talk to me?!
+
+# 0358 #
+*I heard there('s) a
+ Famicom game ca(ll)ed
+ "MOTHER" now.
+\b*They tota(ll)y copied
+ that from John
+ Lennon,didn('t) they?
+
+# 0359 #
+
+# 035a #
+*An old lady at the
+ Reindeer train
+ station has something
+\b very important to
+ give you.
+\b*Have you met her yet?
+
+# 035b #
+*This is my final
+ hint.
+\b*You know the guitar
+ player in Magicant?
+\b Be sure you listen to
+ his song!
+
+# 035c #
+*If something ever
+ seems strange,
+\b be sure to "Check"
+ a(ll) around.
+
+# 035d #
+*The singing monkey
+ sang with passion.
+
+# 035e #
+*The cactus sang.
+\b*For some reason,it
+ sang.
+\b*It continued to sing
+ with emotion.
+
+# 035f #
+*The keys on the piano
+ began to play a(ll) by
+ themselves.
+
+# 0360 #
+*With no hesitation at
+ a(ll),
+\b the dragon showed its
+ old sheet music.
+\b*The song went like
+ this(...)
+
+# 0361 #
+*EVE was destroyed and
+ ceased functioning.
+\b*Music began to
+ emanate from EVE('s)
+ chest area.
+
+# 0362 #
+ The world('s) only
+ singing monkey!
+\b Right here at
+ Cream Puff Zoo!
+
+# 0363 #
+*There('s) a big lock on
+ the door at the top
+ of the stairs.
+
+# 0364 #
+*(I')m going to stay
+ here and help the
+ people of Snowman.
+\b Please be careful on
+ your way(...)
+
+# 0365 #
+*You don('t) have enough
+ money.
+
+# 0366 #
+*(I')m too scared.
+\b*You lead the way,
+ {Ninten}.
+
+# 0367 #
+*Upon closer look,
+ the gate('s) lock was
+ broken.
+\b*{Leader} opened the
+ gate.
+
+# 0368 #
+*Oh! {Teddy}!
+ What('s) up?
+
+# 0369 #
+*You better hurry and
+ get {Teddy} back on
+ his feet!
+
+# 036a #
+*Oh,whoops.
+\b*I can('t) hold on to
+ your {Item}.
+\b*(I')m selfish like
+ that.
+
+# 036b #
+ Here rests
+ Flying Man,
+\b the courageous
+ warrior and eternal
+ servant to {Ninten}.
+
+# 036c #
+ Here rests
+ Flying Man,
+\b the courageous
+ warrior and inner
+ strength of {Ninten}.
+
+# 036d #
+ Here rests
+ Flying Man,
+\b the courageous
+ warrior and virtuous
+ heart of {Ninten}.
+
+# 036e #
+ Here rests
+ Flying Man,
+\b the courageous
+ warrior and great
+ sorrow of {Ninten}.
+
+# 036f #
+ Here rests
+ Flying Man,
+\b the courageous
+ warrior and flesh
+ and blood of {Ninten}.
+
+# 0370 #
+*No one('s) a(ll)owed past
+ here until the
+\b incident at the zoo
+ is resolved.
+\b*Those were the
+ mayor('s) orders.
+\b*It('s) kind of a heavy-
+ handed way of doing
+ things though,
+\b if you ask me.
+
+# 0371 #
+*There('s) a strange
+ rock in a mountain
+ cave past here.
+\b*In fact,
+\b it('s) so strange that
+ you should go check
+ it out.
+
+# 0372 #
+*Say(...) You know how
+ to use telepathy or
+ whatever,right?
+\b*Everyone('s) talking
+ about you,you know!
+\b*You('r)e a real
+ celebrity!
+
+# 0373 #
+*By any chance are you
+ on your way to
+ Snowman?
+
+# 0374 #
+*I found this hat.I
+ think it belongs to a
+ girl in Snowman.
+\b*Deliver it to her,if
+ you'd be so kind.
+
+# 0375 #
+*Oh,that('s) too bad.
+ I was hoping to ask
+ you a favor.
+
+# 0376 #
+*The cool boy sang a
+ very(...) unique song.
+\b*Not even {Leader}
+ could learn this
+ melody.
+
+# 0377 #
+*(I')m sorry to bother
+ you,
+\b but could I ask you
+ some survey
+ questions?
+
+# 0378 #
+
+# 0379 #
+*Do you feel that
+ train tickets are too
+ expensive?
+
+# 037a #
+*Have you ever used a
+ Megaphone?
+
+# 037b #
+*Thank you for your
+ cooperation.
+\b*For your time,please
+ take this Phone Card.
+
+# 037c #
+*(I')m sorry to bother
+ you,but(...) could
+ you(...)
+\b*Oh! You've already
+ taken the survey,
+ haven('t) you?
+
+# 037d #
+*Hearing the cries
+ from your heart,
+\b a helpful old man
+ appeared.
+
+# 037e #
+*{Leader} opened the
+ coffin.
+\b*Inside the casket
+ was(...)!!
+
+# 037f #
+*{Leader} peered into
+ the telescope.
+
+# 0380 #
+*The ocean was
+ beautiful.
+
+# 0381 #
+*Something sparkled on
+ the island in the
+ distance!
+
+# 0382 #
+*Something leapt out
+ of the capsule!
+
+# 0383 #
+*{Ana}:Father(...)
+ Goodbye for now(...)
+\b The next time I see
+ you,Mother wi(ll) be
+ with me!
+ (...)Please pray for
+ us.
+
+# 0384 #
+
+# 0385 #
+*Who are you talking
+ to?
+
+# 0386 #
+*What?
+
+# 0387 #
+The FitnessGram Pacer test is a multistage
+aerobic capacity test that progressively gets
+more difficult as time goes on.
+The 20 meter Pacer test will begin in 30 seconds.
+\bLine up at the start.
+\bThe running speed starts slowly but gets faster each minute after you hear this sound.
+Are you ready?
+\bOn your mark,                          
+get set...                         
+GO!
+
+
+# 0388 #
+*(The voice of Queen
+ Mary speaks)
+\b*I am the
+ consciousness of
+ Maria.
+\b*{Ninten},use my
+ last power!
+\b*Then,as the voice
+ became a whisper of
+ wind(...)
+\b*The rock
+ disintegrated.
+\b*Leaving only a
+ pile of very fine
+ sand at their feet.
+
+# 0389 #
+
+# 038a #
+
+# 038b #
+*If you('r)e looking for
+ a weapon,check these
+ out!
+
+# 038c #
+
+# 038d #
+
+# 038e #
+*{Chara 1} used the
+ {Action}.
+
+# 038f #
+*{Chara 1} can('t) use
+ the {Action}.
+
+# 0390 #
+*Please don('t) do that.
+
+# 0391 #
+*{Chara 1} equipped the
+ {Action}.
+
+# 0392 #
+*{Chara 1} can('t) equip
+ the {Action}.
+
+# 0393 #
+*The item was thrown.
+
+# 0394 #
+*Don('t) throw that.
+
+# 0395 #
+*The item was given.
+
+# 0396 #
+*The {Action}
+ can('t) be given away.
+
+# 0397 #
+*{Chara 2} can('t) hold
+ any more stuff.
+
+# 0398 #
+*Nothing happened.
+
+# 0399 #
+*{Leader} opened the
+ present.
+
+# 039a #
+*Found {Item}.
+
+# 039b #
+*{Leader} took the
+ {Item}.
+
+# 039c #
+
+# 039d #
+*But you can('t) hold
+ any more stuff.
+
+# 039e #
+
+# 039f #
+
+# 03a0 #
+
+# 03a1 #
+*It('s) empty(...)
+
+# 03a2 #
+ Cure Poison
+ Soften
+
+# 03a3 #
+ South:Mothers Day
+ North:Cream Puff Zoo
+
+# 03a4 #
+ Canary Vi(ll)age ahead
+\b
+ Let('s) nurture nature
+ together!
+
+# 03a5 #
+ Mothers Day
+  Town Ha(ll)
+
+# 03a6 #
+ West:
+ Ocean Observatory
+\b North:
+ Valentine Harbor
+\b
+ Keep our ocean clean!
+
+# 03a7 #
+ West:Valentine
+ East:Mt.Itoi
+
+# 03a8 #
+ West:
+ Healer('s) House
+\b Bridge Path:
+ Cemetery
+\b
+ Walking alone is
+ dangerous!
+
+# 03a9 #
+ West:Mothers Day
+ East:Thanksgiving
+
+# 03aa #
+ Cream Puff Zoo
+   700 meters west
+
+# 03ab #
+ Snowman Church ahead
+
+# 03ac #
+ West: Valentine
+ South:Swamp
+
+# 03ad #
+ Thanksgiving
+ Main Street
+\b South:Twinkle Elem.
+        School
+
+# 03ae #
+ {Ninten}('s) house
+
+# 03af #
+ Welcome to
+  Thanksgiving!
+
+\b West:Mothers Day
+ North:Union Station
+
+# 03b0 #
+ West:Healer('s)
+      House
+\b East:Reindeer
+      Station
+\bSouth:Reindeer
+
+# 03b1 #
+ West:Downtown
+      Ha(ll)oween
+\b East:Ha(ll)oween
+      residential
+      area
+
+# 03b2 #
+ East:Swamp
+
+# 03b3 #
+ Private property of
+ the Rosemary family
+
+# 03b4 #
+ Valentine Police
+ Department
+
+# 03b5 #
+ Coming soon:
+ Strip Theater
+
+\b       -Duncan
+        Construction
+
+# 03b6 #
+*I HEARD MY BROTHER
+ FELL HONORABLY IN
+ COMBAT.
+\b*HE WAS BURIED AND
+ GIVEN A HEARTFELT
+ FUNERAL.
+\b*IT'S MY TURN NEXT.
+
+# 03b7 #
+*I CAN'T WAIT TO
+ SERVE YOU.
+
+# 03b8 #
+*I AM Flying Man.
+\b*I WIll BE YOUR
+ STRENGTH.
+\b THAT IS WHY I WAS
+ BORN.
+
+# 03b9 #
+*They fina(ll)y lifted
+ the orders for
+ martial law.
+\b*They overreacted a
+ little bit,if you
+ ask me.
+
+# 03ba #
+*There('s) an old rocket
+ here.
+
+# 03bb #
+*You came to get
+ your items,right?
+\b*Okay,here you go!
+
+# 03bc #
+*I gave you a(ll) your
+ items.
+\b But come see me
+ again sometime!
+
+# 03bd #
+*(I')m Minnie.
+
+# 03be #
+  Refresh  Soften
+# 03bf #
+*{Teddy}:You two
+ probably wanna be
+ alone,huh?
+\b (I')(ll) just be catchin'
+ some Zs over here,
+ then.
+
+# 03c0 #
+*Oh no! (I')m too late!
+
+# 03c1 #
+*(...)(I')m so glad.
+
+# 03c2 #
+*{Teddy}:Whoa! What
+ the heck was that
+ sound?!
+
+# 03c3 #
+*{Teddy}:You gotta be
+ kiddin' me!
+
+# 03c4 #
+*The boat('s) engine(...)
+\b (...)is in pristine
+ condition.
+
+# 03c5 #
+
+# 03c6 #
+*{Leader} managed 
+ to get it running.
+
+# 03c7 #
+*Sent! Anything else?
+
+# 03c8 #
+*What are we trapped
+ inside these cramped
+ things for?
+*What('s) going to
+ happen to us?
+
+# 03c9 #
+ Sweet Little Factory
+
+# 03ca #
+*The mothership
+ brought us to the top
+ of the mountain,
+ and when we came to,
+ we were stuck in
+ these things(...)
+*Please,do something!
+
+# 03cb #
+*Are you sure it('s)
+ spe(ll)ed right?
+
+# 03cc #
+*The strange sound
+ driving the animals
+ crazy stopped.
+*The zoo is safe once
+ more.
+
+# 03cd #
+
+# 03ce #
+*This tank is my
+ prized possession.
+\b Try not to break it,
+ okay?
+
+# 03cf #
+*A key to the basement
+ is hanging from the
+ dog('s) co(ll)ar.
+
+# 03d0 #
+*Heh heh heh! (I')m a
+ meddlesome mouse!
+\b*In towns,there are
+ some houses you can
+ go inside and some
+ you can('t).
+\b*Houses with round
+ doors or signs on
+ them are the ones
+ you can go into.
+\b*If you try to go into
+ any of the other
+ ones,
+\b you('ll) just hit your
+ head.
+\b*We(ll),bye!
+
+# 03d1 #
+
+# 03d2 #
+*Remember,
+\b teleportation isn('t)
+ something to be toyed
+ with.
+
+# 03d3 #
+*I had loved him as if
+ he were my own child,
+ too(...)
+
+# 03d4 #
+*He would always wag
+ his tail as a baby(...)
+\b*I would sing him a
+ lu(ll)aby,but then(...)
+
+# 03d5 #
+*Oh,George!
+\b This is your wife,
+ Maria.
+\b*I know you've been
+ waiting(...)
+\b (I')m on my way to join
+ you in heaven now(...)
+
+# 03d6 #
+*PLEASE INSERT
+ ATM CARD
+
+# 03d7 #
+*You shouldn('t) carry
+ around that much
+ cash.
+
+# 03d8 #
+*This('ll) return you
+ back to your previous
+ save data.
+\b Is that a(ll) right?
+
+# 03d9 #
+*You said yes,but
+ you don('t) have a
+ save file!
+\b Ahahaha!
+
+# 03da #
+*His breathing is
+ rough.He looks like
+ he('s) in pain.
+
+# 03db #
+*You don('t) have any
+ friends to give
+ items to yet.
+
+# 03dc #
+*Here! Anything else?
+
+# 03dd #
+*Hey,your bag is fu(ll)!
+ Anyone else want it?
+
+# 03de #
+*The storeroom is
+ fu(ll).
+
+# 03df #
+*Once Queen Mary
+ finished speaking to
+ {Ninten},
+\b she disappeared into
+ the wind.
+\b And then the land of
+ Magicant itself
+\b vanished without a
+ trace.
+\b*Magicant had actua(ll)y
+ been an i(ll)usion
+\b born of Mary('s)
+ conciousness.
+
+# 03e0 #
+*It was I who ca(ll)ed
+ you here.
+\b*{Ninten}!
+\b {Ana}!
+\b {Lloyd}!
+\b {Teddy}!
+\b*And a(ll) courageous
+ children out there(...)
+\b*The time is now!
+
+# 03e1 #
+*Shh! (I')m just like
+ you! (I')m from the
+ other world!
+\b*For some money,(I')(ll)
+ share some souvenirs
+ of Magicant with you.
+\b*Hee hee hee!
+
+# 03e2 #
+*You('ll) end up like me
+ if you don('t) take the
+ train(...)
+
+# 03e3 #
+*Anything else?
+
+# 03e4 #
+*Welcome,{Leader}(...)
+\b*I always had faith
+ that you would make
+ it this far.
+\b*Long ago,your great-
+ grandmother Maria
+\b fi(ll)ed her eight
+ melodies with a(ll) the
+ love she could
+\b and scattered them
+ around as gifts for
+ you,
+\b even though she had
+ never seen you
+ before(...)
+
+# 03e5 #
+
+# 03e6 #
+
+# 03e7 #
+
+# 03e8 #
+
+# 03e9 #
+"Big Bag"
+\bFi(ll)ed with 30 Magic
+Herbs.Disappears when
+emptied.
+# 03ea #
+"Phone Card"
+Use on a public phone.
+It has 50 uses.
+You could also se(ll) it.
+# 03eb #
+"Bread Crumbs"
+\bIts trail can be used
+to backtrack,even
+when unconscious.
+Each character has
+their own crumbs.
+\bThe trail head is
+restarted after TPing
+or riding vehicles.
+# 03ec #
+"Repel Ring"
+\bConsumable.It
+completely prevents
+weaker encounters.
+# 03ed #
+
+# 03ee #
+
+# 03ef #
+
+# 03f0 #
+
+# 03f1 #
+
+# 03f2 #
+"Knife"
+>Offense:15
+\bIt se(ll)s for a good
+price.
+# 03f3 #
+
+# 03f4 #
+"Ashigaru Sword"
+>Offense:46
+\bAshigaru,the lowest
+level of infantry.
+\bSe(ll) it! It('s) worth
+a ton!
+# 03f5 #
+"Katana"
+>Offense:58
+\bThe best weapon
+{Teddy} has seen.
+# 03f6 #
+
+# 03f7 #
+"Air Gun"
+>Offense:42
+\bIt('s) strong,but is it
+worth that price???
+# 03f8 #
+"Wornout Bat"
+>Offense:3
+\bBetter than nothing,
+I guess(...)
+# 03f9 #
+"Ordinary Bat"
+>Offense:12
+\bA substantial upgrade
+over the Wornout Bat.
+# 03fa #
+"Good Bat"
+>Offense:30
+\bIts got great power
+for the cost.
+# 03fb #
+"Supreme Bat"
+>Offense:48
+A spectacular bat with
+a famous athlete('s)
+autograph on it.
+# 03fc #
+
+# 03fd #
+
+# 03fe #
+"Iron Frying Pan"
+>Offense:36
+\bIts weight gives it an
+extra pow for someone
+not used to bashing.
+# 03ff #
+"Slingshot"
+>Offense:7
+A good starter weapon.
+# 0400 #
+"Boomerang"
+>Offense:32
+\bReal boomerangs don('t)
+come back.
+\bPsychic power
+can fix that issue.
+# 0401 #
+"Bug Spray"
+*Breakable.
+\bIt exterminates a(ll)
+insects on use.Works
+on arthropods as we(ll).
+# 0402 #
+"Super Spray"
+It exterminates a(ll)
+bugs and arthropods.
+It doesn('t) break,
+which gives it a
+high se(ll)ing price.
+# 0403 #
+"Flea Bag"
+A one-time use item
+that lowers a single
+target('s) Offense and
+Defense by 50%.
+\bFails vs mechanical
+enemies.
+# 0404 #
+
+# 0405 #
+
+# 0406 #
+"Sticky Machine"
+Breakable.Tries to
+paralyze 1 target.
+Unlike PSI,this can
+hit mechanical foes.
+\bIt takes a bit of
+wisdom to use.
+# 0407 #
+"Flashdark"
+\bReusable by anyone.
+Tries to blind one
+enemy.
+# 0408 #
+"Stone Spray"
+\bA one-time use item
+that petrifies a
+single target.
+Fails vs mechanical
+enemies.
+\bPetrified targets have
+double Defense.
+# 0409 #
+
+# 040a #
+"Flamethrower"
+Breakable.Deals 100
+fire damage to a(ll).
+It takes Wisdom to
+operate.
+# 040b #
+"Bomb"
+Consumable.Deals 60
+fire damage to a(ll).
+It takes Wisdom to
+utilize it in battle.
+# 040c #
+"Super Bomb"
+Consumable.Deals
+fire-type OHKO to a(ll),
+but also causes the
+user to take 31
+damage as recoil.
+It takes Wisdom to
+utilize it in battle.
+# 040d #
+"Laser Beam"
+Breakable.Deals 40
+light damage to one.
+It takes Wisdom to
+utilize it in battle.
+# 040e #
+"Death Beam"
+Breakable.Deals 80
+light damage to one.
+It takes Wisdom to
+utilize it in battle.
+# 040f #
+"Confusion Ray"
+\bReusable by anyone.
+Tries to confuse a
+single target.
+Unlike PSI,this can
+hit mechanical foes.
+# 0410 #
+"Rope"
+\bConsumable.Ties a
+single enemy.It
+works on a(ll) foes.
+Tied foes have a 1/4
+chance of breaking
+free each turn.
+# 0411 #
+"Mystical Gloves"
+Gloves from another
+world.
+\bWhen used in battle,
+they make you(...) want
+to move to the beat?
+A good fit for
+{Ninten}.
+# 0412 #
+
+# 0413 #
+
+# 0414 #
+
+# 0415 #
+"Coin of Peace"
+>Defense:5
+\bWearing it gives you
+a slight feeling of
+tranquility.
+# 0416 #
+"Coin of Protection"
+>Defense:11
+\bSome low level armor
+that guarantees a bit
+of protection.
+# 0417 #
+"Magic Sealing Coin"
+>Defense:20
+\bIt('s) some kind of
+magic talisman.
+# 0418 #
+"Fairy Bracelet"
+>Defense:8
+\bA bracelet blessed by
+fairies.
+# 0419 #
+"Angel Bracelet"
+>Defense:14
+\bA bracelet blessed by
+angels.
+# 041a #
+"Goddess Bracelet"
+>Defense:28
+\bA bracelet blessed by
+the goddesses.
+# 041b #
+"Flame Pendant"
+Cuts fire damage
+by half.
+# 041c #
+"Ice Pendant"
+Cuts ice damage
+by half.
+# 041d #
+
+# 041e #
+"Sea Pendant"
+\bCuts fire,ice,
+and electric damage
+by half.
+# 041f #
+"Raindrop Pendant"
+Cuts fire and ice
+damage by half.
+# 0420 #
+"Horus Bandana"
+>Defense:35
+\bA bright,gold bandana
+worthy of a legend.
+\bOccupies the top
+slot.
+# 0421 #
+"Goddess Ribbon"
+>Defense:32
+\bA hagoromo fit for
+a goddess.
+\bOccupies the top
+armor slot.
+# 0422 #
+
+# 0423 #
+
+# 0424 #
+"Orange Juice"
+>HP:10
+\bAt least it('s)
+refreshing.
+# 0425 #
+"French Fries"
+>HP:20
+\bIt('s) fine without
+ketchup.
+# 0426 #
+"Magic Herb"
+>HP:30
+\bIt('s) much better when
+stored in a Big Bag(...)
+# 0427 #
+"Hamburger"
+>HP:60
+\bBetter than wasting
+power on Lifeup <Alpha>.
+\b{Ninten} can better
+use that power on
+fighting.
+(...)or is that just a
+poor excuse for eating
+them?
+# 0428 #
+"Sports Drink"
+>HP:100
+\bGreat to pop both in
+and out of battle.
+# 0429 #
+"Medicine"
+Restores one target('s)
+HP to max.
+# 042a #
+"Inhaler"
+# 042b #
+"Remedy"
+Cures i(ll)ness.
+# 042c #
+"Mouthwash"
+Cures i(ll)ness.It
+fetches a high price.
+# 042d #
+"Strawberry Tofu"
+>HP:10
+\bA delicacy.You get
+the feeling that a
+doctor and his
+Assistant B wants it,
+and is wi(ll)ing to give
+items for it.
+# 042e #
+"Cup of Lifenoodles"
+Cures a(ll) statuses.
+# 042f #
+"Bread"
+>HP:20
+You can eat it in
+desperate times,but
+its best use is to
+leave waypoints.
+# 0430 #
+
+# 0431 #
+"PSI Stone"
+Breakable.When used,
+it restores 20 PP.
+# 0432 #
+
+# 0433 #
+"Magic Ribbon"
+Increases Force
+by 6.
+# 0434 #
+"Magic Candy"
+\bA candy meant for the
+wimpy boy,but anyone
+can EAT a candy(...)
+Increases Fight
+by 6.
+# 0435 #
+
+# 0436 #
+"Speed Capsule"
+Increases Speed
+by 6.
+# 0437 #
+"Wisdom Capsule"
+Increases Wisdom
+by 6.
+# 0438 #
+"Strength Capsule"
+Increases Strength
+by 6.
+# 0439 #
+"Force Capsule"
+Increases Force
+by 6.
+# 043a #
+"Fight Capsule"
+Increases Fight
+by 6.
+# 043b #
+
+# 043c #
+
+# 043d #
+"Basement Key"
+Needed to enter
+the basement.
+# 043e #
+"Zoo Key"
+The key to the zoo.
+# 043f #
+"Haunted Mansion Key"
+The key to the
+Rosemarys' mansion.
+# 0440 #
+"GGF('s) Diary"
+It probably contains
+useful text.Read it!
+# 0441 #
+"Duncans' Pass"
+It('s) an employee pass.
+# 0442 #
+"Live House Ticket"
+A ticket to enter the
+live house.
+# 0443 #
+
+# 0444 #
+
+# 0445 #
+
+# 0446 #
+
+# 0447 #
+"Baby Canary"
+Sadness (is) (in) its eyes.
+\bIt must've gotten
+lost from the Canary
+Vi(ll)age.
+# 0448 #
+
+# 0449 #
+"Pencil Rocket"
+A certain wimpy boy is
+interested in them,
+even though they only
+deal 30 fire damage.
+# 044a #
+"{Ana}('s) Hat"
+{Ninten}('s) telepathy
+te(ll)s him(...)
+{Ana} lives in the
+far east of Snowman.
+# 044b #
+"Dentures"
+Return it to the old
+man for a prize!
+# 044c #
+"Ticket Stub"
+Save 10 of them for
+a tank ride!
+# 044d #
+
+# 044e #
+"Ocarina of Hope"
+You can play the
+melodies you know.
+Not actua(ll)y useful.
+# 044f #
+
+# 0450 #
+"Frank(li)n Badge"
+\bReflects any strong
+(li)ght that causes a
+KO.
+# 0451 #
+"Friendship Ring"
+# 0452 #
+"Wimperizer"
+\bReusable.Lowers a
+single target('s) Off
+and Def by 50%.
+It works by spreading
+the user('s) wimpiness
+to the target.
+(...)so that means the
+only one who can use
+it is(...)
+# 0453 #
+"Onyx Hook"
+Warps you to Magicant.
+It('s) reusable.
+# 0454 #
+"Final Weapon"
+(...)What does it even do?
+# 0455 #
+"Ruler"
+Completely useless.
+# 0456 #
+"Cash Card"
+For use at an ATM.
+# 0457 #
+"Red Grass"
+There('s) probably a way
+to make it edible(...)
+Maybe someone in
+Magicant knows.
+# 0458 #
+"Megaphone"
+\bA 50-50 item that
+either lowers Fight
+or raises Offense.
+(...)A better use for
+it is to se(ll) it.
+# 0459 #
+
+# 045a #
+"Meteotite"
+It can be sold for a
+very high price.
+A good explanation is
+kind of tough(...)
+# 045b #
+
+# 045c #
+
+# 045d #
+
+# 045e #
+
+# 045f #
+
+# 0460 #
+
+# 0461 #
+
+# 0462 #
+
+# 0463 #
+
+# 0464 #
+
+# 0465 #
+
+# 0466 #
+
+# 0467 #
+
+# 0468 #
+
+# 0469 #
+
+# 046a #
+
+# 046b #
+
+# 046c #
+
+# 046d #
+
+# 046e #
+
+# 046f #
+
+# 0470 #
+
+# 0471 #
+
+# 0472 #
+
+# 0473 #
+
+# 0474 #
+
+# 0475 #
+
+# 0476 #
+
+# 0477 #
+
+# 0478 #
+
+# 0479 #
+
+# 047a #
+
+# 047b #
+
+# 047c #
+
+# 047d #
+
+# 047e #
+
+# 047f #
+
+# 0480 #
+
+# 0481 #
+
+# 0482 #
+
+# 0483 #
+
+# 0484 #
+
+# 0485 #
+
+# 0486 #
+
+# 0487 #
+
+# 0488 #
+
+# 0489 #
+
+# 048a #
+
+# 048b #
+
+# 048c #
+
+# 048d #
+
+# 048e #
+
+# 048f #
+
+# 0490 #
+
+# 0491 #
+
+# 0492 #
+
+# 0493 #
+
+# 0494 #
+
+# 0495 #
+
+# 0496 #
+
+# 0497 #
+
+# 0498 #
+
+# 0499 #
+
+# 049a #
+
+# 049b #
+
+# 049c #
+
+# 049d #
+
+# 049e #
+
+# 049f #
+
+# 04a0 #
+
+# 04a1 #
+
+# 04a2 #
+
+# 04a3 #
+
+# 04a4 #
+
+# 04a5 #
+
+# 04a6 #
+
+# 04a7 #
+
+# 04a8 #
+
+# 04a9 #
+
+# 04aa #
+
+# 04ab #
+
+# 04ac #
+
+# 04ad #
+
+# 04ae #
+
+# 04af #
+
+# 04b0 #
+
+# 04b1 #
+
+# 04b2 #
+
+# 04b3 #
+
+# 04b4 #
+
+# 04b5 #
+
+# 04b6 #
+
+# 04b7 #
+
+# 04b8 #
+
+# 04b9 #
+
+# 04ba #
+
+# 04bb #
+
+# 04bc #
+
+# 04bd #
+
+# 04be #
+
+# 04bf #
+
+# 04c0 #
+
+# 04c1 #
+
+# 04c2 #
+
+# 04c3 #
+
+# 04c4 #
+
+# 04c5 #
+
+# 04c6 #
+
+# 04c7 #
+
+# 04c8 #
+
+# 04c9 #
+
+# 04ca #
+
+# 04cb #
+
+# 04cc #
+
+# 04cd #
+
+# 04ce #
+
+# 04cf #
+
+# 04d0 #
+
+# 04d1 #
+
+# 04d2 #
+
+# 04d3 #
+
+# 04d4 #
+
+# 04d5 #
+
+# 04d6 #
+
+# 04d7 #
+
+# 04d8 #
+
+# 04d9 #
+
+# 04da #
+
+# 04db #
+
+# 04dc #
+
+# 04dd #
+
+# 04de #
+
+# 04df #
+
+# 04e0 #
+
+# 04e1 #
+
+# 04e2 #
+
+# 04e3 #
+
+# 04e4 #
+
+# 04e5 #
+
+# 04e6 #
+
+# 04e7 #
+
+# 04e8 #
+
+# 04e9 #
+
+# 04ea #
+
+# 04eb #
+
+# 04ec #
+
+# 04ed #
+
+# 04ee #
+
+# 04ef #
+
+# 04f0 #
+
+# 04f1 #
+
+# 04f2 #
+
+# 04f3 #
+
+# 04f4 #
+
+# 04f5 #
+
+# 04f6 #
+
+# 04f7 #
+
+# 04f8 #
+
+# 04f9 #
+
+# 04fa #
+
+# 04fb #
+
+# 04fc #
+
+# 04fd #
+
+# 04fe #
+
+# 04ff #
+
+# 0500 #
+
+# 0501 #
+
+# 0502 #
+
+# 0503 #
+
+# 0504 #
+
+# 0505 #
+
+# 0506 #
+
+# 0507 #
+
+# 0508 #
+
+# 0509 #
+
+# 050a #
+
+# 050b #
+
+# 050c #
+
+# 050d #
+
+# 050e #
+
+# 050f #
+
+# 0510 #
+
+# 0511 #
+
+# 0512 #
+
+# 0513 #
+
+# 0514 #
+
+# 0515 #
+ * Resists Status
+ => Drops PSI Stone
+\bIt gives good money
+and Exp.
+\b
+# 0516 #
+ - Resists Light
+ * Immune to Status
+\bIt holds a melody.
+\b
+# 0517 #
+Is there any way
+to defeat it?
+# 0518 #
+ => Drops Hamburger
+\bIt('s) got high HP.Hit
+it with Defense Down!
+\b
+# 0519 #
+Drops a lot of money.
+when defeated.
+\b
+# 051a #
+ => Drops Hamburger
+\bShocked? It rea(ll)y
+does exist!
+\b
+# 051b #
+ - Immune to Status
+ => Drops Megaphone
+\bHypnosis probably
+fails on trucks,right?
+\b
+# 051c #
+ * Immune to Status
+ => Drops Laser Beam
+\bHits harder than the
+Scrapper.
+\b
+# 051d #
+ - Resists Light
+ * Immune to Status
+\bHe climbed down the
+mountains and learned
+how to use his staff(...)
+\b
+# 051e #
+ * Resists Status
+\bA potent user of Fire.
+It can also petrify(...)
+\b
+# 051f #
+It can dehydrate and
+blind you!
+\b
+# 0520 #
+It can steal food(...)
+\b
+# 0521 #
+A stronger version of
+the Buffalo.Harder to
+status.
+\b
+# 0522 #
+ => Drops Hamburger
+\bIt('s) fast and has
+combo attacks!
+\b
+# 0523 #
+ - Immune to Status
+ => Drops Megaphone
+\bHypnosis probably
+fails on cars,right?
+\b
+# 0524 #
+He has strong friends.
+\b
+# 0525 #
+Snails get enraged?
+\b
+# 0526 #
+ - Resists Status
+\bA master of Hypnosis.
+It can also petrify(...)
+\b
+# 0527 #
+
+# 0528 #
+Repel Rings completely
+block them.
+\b
+# 0529 #
+ => Drops Flea Bag
+\bHunts in packs to make
+up for their weakness.
+\b
+# 052a #
+Loves to steal food(...)
+\b
+# 052b #
+ => Drops Hamburger
+\bWhen Crocs get angry(...)
+\b
+# 052c #
+ => Drops Bomb
+\bIt uses atomic power
+to fuel its a(ll)ies.
+\b
+# 052d #
+It appears to be
+protecting something.
+\b
+# 052e #
+He drops a ton of
+cash.$350,to be exact.
+\b
+# 052f #
+
+# 0530 #
+ * Immune to Status
+ => Drops Laser Beam
+\bA malnourished robot?
+\b
+# 0531 #
+ - Resists Light
+ * Immune to Status
+ => Drops PSI Stone
+\bA specialist (in) Freeze.
+Hope she doesn('t) use
+Freeze <Gamma>(...)
+\b
+# 0532 #
+ => Drops PSI Stone
+\bA man from a distant
+star.
+\b
+# 0533 #
+Spams PK Flash.
+\b
+# 0534 #
+ - Resists Light
+ * Immune to Status
+\bIt uses many status
+moves.Block it!
+\b
+# 0535 #
+ * Resists Status
+ => Drops PSI Stone
+\bThese aliens are users
+of Freeze and status
+moves.
+\b
+# 0536 #
+ - Resists Light
+ * Immune to Status
+ => Drops Magic Coin
+\bIt'd be nice to have
+some armor of your
+own(...)
+\b
+# 0537 #
+ * Resists Status
+\bIt can only attack or
+try to spread(...)
+\b
+# 0538 #
+ => Drops SportsDrink
+\bHe can Rage to boost
+his Offense.
+\b
+# 0539 #
+ => Drops Megaphone
+\bHope he drops his
+Megaphone! It se(ll)s!
+\b
+# 053a #
+ => Drops Hamburger
+\bShe can combo attack,
+but it('s) rea(ll)y weak.
+\b
+# 053b #
+Drops no EXP or money.
+A heinous crime fit
+for a delinquent(...)
+\b
+# 053c #
+ => Drops Laser Beam
+\bCareful if he Rages!
+\b
+# 053d #
+
+# 053e #
+It('s) nasty words
+lowers Fight.
+\b
+# 053f #
+A bit faster,but less
+tanky than his big
+counterpart.
+\b
+# 0540 #
+ => Drops Bread
+Watch your items!This
+smoker is a thief(...)
+\b
+# 0541 #
+ => Drops Peace Coin
+\bAn extremely weak foe.
+\b
+# 0542 #
+ => Drops Flea Bag
+Although they come in
+packs,they are very
+weak and love to run(...)
+\b
+# 0543 #
+ => Drops Flea Bag
+\bIt('s) extremely fast,
+but extremely weak.
+\b
+# 0544 #
+It('s) good at dodging
+and running.
+\b
+# 0545 #
+It does nothing but
+play dead(...)
+\b
+# 0546 #
+Just evades and runs.
+\b
+# 0547 #
+It('s) speedy and can
+poison or ca(ll) a(ll)ies.
+Has low Force.
+\b
+# 0548 #
+Watch for its Stinger!
+\b
+# 0549 #
+ => Drops Rope
+Extremely dangerous if
+it Ropes you.
+\b
+# 054a #
+It only spams Fire <Alpha>.
+\b
+# 054b #
+The weakest of
+Magicant('s) inhabitants.
+\b
+# 054c #
+It may decide to greet
+you with Exp.Or not.
+\b
+# 054d #
+Tends to run away(...)
+\b
+# 054e #
+ * Immune to Status
+ => Drops Meteotite
+\bAbout as big as a
+dinner plate.
+\b
+# 054f #
+Apparently,life is
+a puzzle to him.
+\b
+# 0550 #
+It('s) small,but
+obviously a spaceman.
+\b
+# 0551 #
+They have high Fight.
+Watch out for crits!
+\b
+# 0552 #
+Can dehydrate or use
+a desperate attack.
+\b
+# 0553 #
+It('s) the weakest enemy,
+yet it gives 3 Exp.
+(...)I guess it('s) just a
+fat rat.
+\b
+# 0554 #
+ * Immune to Status
+ => Drops Bomb
+\bHope that it doesn('t)
+Bomb you(...)
+\b
+# 0555 #
+
+# 0556 #
+It glares at you from
+afar(...)
+\b
+# 0557 #
+It('s) flying a(ll) around!
+\b
+# 0558 #
+
+# 0559 #
+
+# 055a #
+It can poison and has
+decent Defense.
+\b
+# 055b #
+It can petrify 1/4th
+of the time!
+\b
+# 055c #
+
+# 055d #
+
+# 055e #
+ => Drops Magic Coin
+\bIt gives 1500 Exp!
+Sleep or Paralyze it!
+\b
+# 055f #
+Stronger than Silver
+Wolves.
+\b
+# 0560 #
+Pretty slow and open
+to status moves.
+\b
+# 0561 #
+
+# 0562 #
+
+# 0563 #
+
+# 0564 #
+
+# 0565 #
+\b => Drops Prot.Coin
+\bIt('s) dangerous if it
+builds up its Rage!
+\b
+# 0566 #
+Like a(ll) Arthropods,
+its got low Force.
+\b
+# 0567 #
+If it builds its Rage,
+it can be dangerous(...)
+Has low Force.
+\b
+# 0568 #
+
+# 0569 #
+It('s) got low Strength
+and even lower Force.
+\b
+# 056a #
+
+# 056b #
+It sti(ll) confuses
+itself,but can also
+confuse you!
+\b
+# 056c #
+ => Drops Flea Bag
+\bIt only attacks with
+weak bites.
+\b
+# 056d #
+ * Immune to Status
+ => Drops Megaphone
+\bWhat happens when a
+reckless driver is
+blinded?
+\b
+# 056e #
+ * Immune to Status
+ => Drops Megaphone
+\bWhat happens when a
+reckless truck misses?
+\b
+# 056f #
+ * Immune to Status
+ => Drops Death Beam
+\bIt('ll) bring death for
+sure(...) either to you
+or itself.
+\b
+# 0570 #
+Like a proper alarm,
+it('s) way too tanky and
+difficult to shut off.
+\b
+# 0571 #
+
+# 0572 #
+Appears alone.Maybe
+that('s) why it Rages
+so easily(...)
+\b
+# 0573 #
+Slower and Rages
+easily.Is this some
+kind of stereotype?
+\b
+# 0574 #
+Speedy and combos,but
+no problem if you
+bought armor.
+\b
+# 0575 #
+
+# 0576 #
+
+# 0577 #
+ => Drops PSI Stone
+\bIts combo attacks
+hit hard!
+\b
+# 0578 #
+
+# 0579 #
+ - Resists Light
+ * Immune to Status
+ => Drops PSI Stone
+\bHe scaled down the
+mountains to inhabit
+the swamp.
+\b
+# 057a #
+ - Resists Light
+ * Immune to Status
+ => Drops Horus Bandana
+\bThis guy is devilishly
+strong(...)
+\b
+# 057b #
+ * Immune to Status
+ => Drops Laser Beam
+\bIt may trip over,but
+its sti(ll) durable.
+\b
+# 057c #
+ * Immune to Status
+ => Drops Death Beam
+\bIf it drops its Beam,
+that wimp wi(ll) fina(ll)y
+have a weapon(...)
+\b
+# 057d #
+ * Immune to Status
+ => Drops Meteotite
+\bWhat happens if flying
+saucers miss their ram?
+\b
+# 057e #
+ - Resists Light
+ * Immune to Status
+ => Drops PSI Stone
+\bA specialist in Light.
+She('s) also got
+status moves!
+\b
+# 057f #
+ * Immune to Status
+ => Drops Super Bomb
+\bIts rare physical
+attack is FAR scarier
+than its Bombs(...)
+\b
+# 0580 #
+ * Immune to Status
+ => Drops Super Bomb
+\bA(ll) that power makes
+it a pretty decent
+source of Exp.
+\b
+# 0581 #
+ - Resists Light
+ * Immune to Status
+ => Drops GoddessRibbon
+\bThis girl is devilishly
+strong(...)
+\b
+# 0582 #
+ => Drops PSI Stone
+\bIts sole mission is
+to guard the caves.
+\b
+# 0583 #
+ * Resists Status
+\bA potent user of
+Freeze and Bra(in)cyclone.
+\b
+# 0584 #
+ * Resists Status
+\bIf you can defeat this
+you('r)e incredible.
+\b
+# 0585 #
+ * Resists Status
+ => Drops PSI Stone
+\bNot only does it use
+cripp(li)ng status moves,
+it knows PK Freeze <Omega>!
+\b
+# 0586 #
+
+# 0587 #
+\bWatch out for its
+Confusion Ray!
+Has low Force.
+\b
+# 0588 #
+\bNasty words can
+drop your Fight.
+\b
+# 0589 #
+\bHunts in packs to make
+up for their weakness.
+\b
+# 058a #
+ - Resists Light
+ * Immune to Status
+\bThis thing is HUGE!
+\b
+# 058b #
+Not rea(ll)y a surprise
+that a Grizzly('s) got
+some bite,eh?
+\b
+# 058c #
+New and unfortunately,
+improved(...)
+# 058d #
+ => Drops PSI Stone
+The last Starman.A
+great source of Exp!
+# 058e #
+
+# 058f #
+
+# 0590 #
+
+# 0591 #
+
+# 0592 #
+
+# 0593 #
+
+# 0594 #
+
+# 0595 #
+
+# 0596 #
+
+# 0597 #
+
+# 0598 #
+
+# 0599 #
+
+# 059a #
+
+# 059b #
+
+# 059c #
+
+# 059d #
+
+# 059e #
+
+# 059f #
+
+# 05a0 #
+
+# 05a1 #
+
+# 05a2 #
+
+# 05a3 #
+
+# 05a4 #
+
+# 05a5 #
+
+# 05a6 #
+
+# 05a7 #
+
+# 05a8 #
+
+# 05a9 #
+
+# 05aa #
+
+# 05ab #
+
+# 05ac #
+
+# 05ad #
+
+# 05ae #
+
+# 05af #
+
+# 05b0 #
+
+# 05b1 #
+
+# 05b2 #
+
+# 05b3 #
+
+# 05b4 #
+
+# 05b5 #
+
+# 05b6 #
+
+# 05b7 #
+
+# 05b8 #
+
+# 05b9 #
+
+# 05ba #
+
+# 05bb #
+
+# 05bc #
+
+# 05bd #
+
+# 05be #
+
+# 05bf #
+
+# 05c0 #
+
+# 05c1 #
+
+# 05c2 #
+
+# 05c3 #
+
+# 05c4 #
+
+# 05c5 #
+
+# 05c6 #
+
+# 05c7 #
+
+# 05c8 #
+
+# 05c9 #
+
+# 05ca #
+
+# 05cb #
+
+# 05cc #
+
+# 05cd #
+
+# 05ce #
+
+# 05cf #
+
+# 05d0 #
+
+# 05d1 #
+
+# 05d2 #
+
+# 05d3 #
+
+# 05d4 #
+
+# 05d5 #
+
+# 05d6 #
+
+# 05d7 #
+
+# 05d8 #
+
+# 05d9 #
+
+# 05da #
+
+# 05db #
+
+# 05dc #
+
+# 05dd #
+
+# 05de #
+[setPos -> 0806][repeat -> a010][setPos -> 0807][repeat -> a010]
+# 05df #
+{Name} attacked!
+# 05e0 #
+{Name} attacks!
+# 05e1 #
+{Name} fired the
+tank cannon!
+# 05e2 #
+ {Target} dodged!
+# 05e3 #
+Combo attack!
+# 05e4 #
+{Name} bites!
+# 05e5 #
+{Name} claws!
+# 05e6 #
+{Name} bores down!
+# 05e7 #
+  (SMASH!)
+# 05e8 #
+ {Target}:-{Num} HP
+# 05e9 #
+
+       (YOU WIN!)
+
+# 05ea #
+
+{Ninten} was
+defeated(...)
+
+# 05eb #
+ Defeated the
+ {Target}!
+# 05ec #
+ {Target} got tired and
+ co(ll)apsed(...)
+# 05ed #
+ Whiffed!
+# 05ee #
+ {Target}('s) immune!
+# 05ef #
+{Name} drives
+forward and back!
+# 05f0 #
+ {Name} ran out
+ of strength!
+# 05f1 #
+{Name}('s) final
+desperation attack!
+# 05f2 #
+You can('t) grasp the
+form of {Name}('s)
+attack!
+# 05f3 #
+ Barriered {Target}!
+# 05f4 #
+ "You('r)e a disgrace
+  to your mother!"
+# 05f5 #
+ Petrified {Target}!
+# 05f6 #
+{Name} spews!
+# 05f7 #
+ Blinded {Target}!
+# 05f8 #
+{Name} is bound(...)
+# 05f9 #
+{Name} let out a
+strange howl!
+# 05fa #
+{Name} exploded!
+# 05fb #
+{Name} burst
+into flames!
+# 05fc #
+ {Target}('s) Offense
+ went up by {Num}!
+# 05fd #
+ {Target}('s) Offense
+ went down by {Num}!
+# 05fe #
+ {Target}('s) Defense
+ went up by {Num}!
+# 05ff #
+ {Target}('s) Speed
+ went up by {Num}!
+# 0600 #
+> Offense {Num}.
+# 0601 #
+> Defense {Num2}.
+# 0602 #
+ {Target}('s) Fight
+ went down by {Num}!
+# 0603 #
+ {Target}('s) Defense
+ went down by {Num}!
+# 0604 #
+{Name} smiled boldly!
+# 0605 #
+
+# 0606 #
+{Name} raged!
+# 0607 #
+Its venom took effect!
+# 0608 #
+{Name} used the
+Confusion Ray!
+# 0609 #
+{Name} ca(ll)ed
+for help!
+# 060a #
+{Name} sowed seeds!
+# 060b #
+ For some reason,
+ {Target} got EXP!
+# 060c #
+{Name} laughs!
+# 060d #
+The tank was scrapped(...)
+# 060e #
+{Name} said
+something scary!
+# 060f #
+{Name} said
+something nasty!
+# 0610 #
+{Name} plays dead(...)
+# 0611 #
+ It was effective!
+# 0612 #
+ It wasn('t) convincing(...)
+ {Target} became angry!
+# 0613 #
+{Name} stings!
+# 0614 #
+ Cryoed {Target}!
+# 0615 #
+ Confused {Target}!
+# 0616 #
+{Name}('s) confused(...)
+# 0617 #
+ Sleeped {Target}!
+# 0618 #
+{Name} sleeps(...)
+# 0619 #
+ {Target}:+{Num} PP
+# 061a #
+ {Target}:+{Num} HP
+# 061b #
+{Name} fuels!
+# 061c #
+ (...)no one came(...)
+# 061d #
+ (silence(...))
+# 061e #
+ {Target} joined!
+# 061f #
+{Name} runs!
+# 0620 #
+(...)It didn('t) work out.
+# 0621 #
+{Name} tripped!
+# 0622 #
+{Name}('s) paraed(...)
+# 0623 #
+{Name}('s) petrified(...)
+# 0624 #
+ {Target}:-{Num} PP
+# 0625 #
+ Paraed {Target}!
+# 0626 #
+{Name} vented
+exhaust fumes!
+# 0627 #
+ {Target} was poisoned!
+# 0628 #
+ Dehydrated {Target}!
+# 0629 #
+ Blocked {Target}!
+# 062a #
+ Bound {Target}!
+# 062b #
+ Shielded {Target}
+# 062c #
+ Missed!
+# 062d #
+ It was blocked!
+# 062e #
+ {Target}('s) badge
+ reflected the light!
+# 062f #
+Reflected off {Target}!
+# 0630 #
+ Not enough PP!
+# 0631 #
+ There was no effect
+ on {Target}!
+# 0632 #
+{Name} got asthma!
+# 0633 #
+{Name} is praying!
+# 0634 #
+{Name} greeted
+everyone politely
+and left.
+# 0635 #
+{Name} tried to
+steal,but failed!
+# 0636 #
+{Name} sang!
+# 0637 #
+{Name} guards.
+# 0638 #
+{Name} edged
+closer!
+# 0639 #
+ {Target} was cured!
+# 063a #
+ {Target} went
+ back to normal!
+# 063b #
+ Hit {Target}!
+# 063c #
+{Target} can move!
+# 063d #
+ {Target} woke up!
+# 063e #
+ {Target} was revived!
+# 063f #
+{Name} used the
+{Move}!
+# 0640 #
+{Name} tried
+{Move}!
+# 0641 #
+{Name} can('t) use
+{Move}!
+# 0642 #
+{Name} is sizing
+up the situation(...)
+# 0643 #
+{Name} did
+something strange!
+# 0644 #
+{Name} is puzzled(...)
+# 0645 #
+ {Target}('s) shield
+ broke!
+# 0646 #
+{Name} checked
+{Target}!
+# 0647 #
+ - Resists Fire
+# 0648 #
+ - Resists Freeze
+# 0649 #
+ - Resists Thunder
+# 064a #
+ - Resists Light
+# 064b #
+ - Weak to Bug Spray
+# 064c #
+ {Target}('s) asthma
+ cured!
+# 064d #
+ {Target} was cured!
+# 064e #
+{Name} drives
+recklessly!
+# 064f #
+{Name} kept
+going and crashed!
+# 0650 #
+ {Target} had an
+ asthma attack!
+# 0651 #
+ The {Move}
+ broke(...)
+# 0652 #
+
+# 0653 #
+{Name} rams!
+# 0654 #
+ The {Move} lost
+ its power(...)
+# 0655 #
+{Target} went
+back to normal!
+# 0656 #
+Tamed {Target}!
+# 0657 #
+Defeated {Target}!
+# 0658 #
+Destroyed {Target}!
+# 0659 #
+Dusted {Target}!
+# 065a #
+{Target} stopped
+moving!
+# 065b #
+Scrapped {Target}!
+# 065c #
+{Target} vanished!
+# 065d #
+{Name} stole
+{Target}('s) {Move}!
+# 065e #
+{Name} leveled up!
+\b\p
+# 065f #
+{Name} learned a PSI!
+\b\p
+# 0660 #
+ Max HP went up [lvl stat]!
+\p
+# 0661 #
+ Max PP went up [lvl stat]!
+\p
+# 0662 #
+ Fight went up {Fight}!
+\p
+# 0663 #
+ Speed went up {Speed}!
+\p
+# 0664 #
+ Wisdom went up {Wisdom}!
+\p
+# 0665 #
+ Strength went up {Strength}!
+\p
+# 0666 #
+ Force went up {Force}!
+\p
+# 0667 #
+{Name} escaped!
+# 0668 #
+Picked up {Item}!
+\b\p
+# 0669 #
+ {Target}('s)
+ confusion went away!
+# 066a #
+{Name} woke up!
+# 066b #
+{Name} tore a
+hole through space!
+# 066c #
+ But there was no
+ effect!
+# 066d #
+ The {Move} was
+ fu(ll)y emptied(...)
+# 066e #
+No end to the battle
+is in sight(...)
+
+# 066f #
+(From somewhere,
+\b{Leader} heard Queen
+Mary('s) voice(...))
+\bYou can('t) beat Giegue
+with brute strength(...)
+\bI doubt any weapon can
+defeat him(...)
+\bBut the lu(ll)aby(...)
+\bMaybe the song I used
+to sing to him
+\bcan stop him!
+\b\p
+# 0670 #
+
+# 0671 #
+
+# 0672 #
+"{Ninten}!
+\bI owe a great deal to
+your family line!"
+\b\p
+# 0673 #
+"Maria,George('s) wife,
+raised me
+\bwhen I was very
+young(...)"
+\b\p
+# 0674 #
+"While George stole
+vital information from
+\bour planet and tried
+to turn against us(...)"
+\b\p
+# 0675 #
+"And now their
+descendant
+\bis bent on hindering
+our plan again(...)
+\b{Ninten}! I am
+referring to you!"
+\b\p
+# 0676 #
+"Now leave!
+\bMay you be destroyed
+with the rest of the
+\bdisgusting Earth
+people!"
+\b\p
+# 0677 #
+"You are too weak to
+do anything!
+\bYou are mere insects
+to me!"
+\b\p
+# 0678 #
+"{Ninten}(...) (I')m
+wi(ll)ing to let you,
+\band only you,live.
+\bBoard the mothership
+with me."
+\b\p
+# 0679 #
+"(...)Then you can
+perish here
+\bwith your friends
+and a(ll) the other
+\bhideous Earth people!"
+\b\p
+# 067a #
+"Stop singing!"
+# 067b #
+"Stop(...) singing(...)!"
+# 067c #
+"S-stop singing!"
+# 067d #
+"Stop singing!"
+# 067e #
+"You Earth insects!
+Shut up!
+Stop singing!"
+# 067f #
+"Stop(...)"
+# 0680 #
+"(...)singing!"
+# 0681 #
+"!!!"
+# 0682 #
+"Stop(...)"
+# 0683 #
+"!!!"
+# 0684 #
+"(...)"
+# 0685 #
+"HOW COULD I BE
+DEFEATED
+\bBY THIS SONG(...)?"
+\b"SOMEDAY I WILL
+RETURN(...)
+\bAND(...) MAKE YOU(...)"
+\b"{Ninten}! We wi(ll) meet
+again!"
+# 0686 #
+
+# 0687 #
+
+# 0688 #
+
+# 0689 #
+
+# 068a #
+
+# 068b #
+
+# 068c #
+
+# 068d #
+
+# 068e #
+
+# 068f #
+
+# 0690 #
+
+# 0691 #
+
+# 0692 #
+
+# 0693 #
+
+# 0694 #
+
+# 0695 #
+
+# 0696 #
+
+# 0697 #
+
+# 0698 #
+
+# 0699 #
+
+# 069a #
+
+# 069b #
+
+# 069c #
+
+# 069d #
+
+# 069e #
+
+# 069f #
+
+# 06a0 #
+
+# 06a1 #
+
+# 06a2 #
+
+# 06a3 #
+
+# 06a4 #
+
+# 06a5 #
+*Nothing was given.
+
+# 06a6 #
+*The item was given.
+
+# 06a7 #
+*The item was moved.
+
+# 06a8 #
+*The item was moved.
+
+# 06a9 #
+*The item was thrown.
+
+# 06aa #
+*The item was moved.
+
+# 06ab #
+
+# 06ac #
+
+# 06ad #
+
+# 06ae #
+
+# 06af #
+*{Chara 1} ate the
+ {Action}.
+
+# 06b0 #
+*{Chara 1} drank the
+ {Action}.
+
+# 06b1 #
+ was recovered by {PRICE}.
+
+# 06b2 #
+ went up {PRICE}.
+
+# 06b3 #
+*{Chara 1}('s) HP
+
+# 06b4 #
+*{Chara 1}('s) PP
+
+# 06b5 #
+*{Chara 1}('s) Fight
+
+# 06b6 #
+*{Chara 1}('s) Speed
+
+# 06b7 #
+*{Chara 1}('s) Wisdom
+
+# 06b8 #
+*{Chara 1}('s) Strength
+
+# 06b9 #
+*{Chara 1}('s) Force
+
+# 06ba #
+*{Chara 1} took an herb
+ from the bag.
+
+# 06bb #
+*{Chara 1} started a
+ bread crumb trail.
+
+# 06bc #
+*You need to toss your
+ old crumbs first.
+
+# 06bd #
+*{Leader} fo(ll)owed the
+ trail as far back as
+ possible.
+
+# 06be #
+*{Chara 1} put the
+ ribbon in her hair.
+
+# 06bf #
+*"Just turn the power
+ off!"
+
+# 06c0 #
+*You were able to
+ examine the lengths
+ of many things.
+
+# 06c1 #
+*The Big Bag
+ disappeared after
+ being emptied.
+
+# 06c2 #
+*You used up a(ll) the
+ ca(ll)s on your Phone
+ Card.
+
+# 06c3 #
+*{Chara 1} was cured.
+
+# 06c4 #
+*{Chara 1}('s) cold went
+ away.
+
+# 06c5 #
+*{Chara 1} gripped the
+ PSI Stone.
+
+# 06c6 #
+*The stone lost its
+ power(...)
+
+# 06c7 #
+*{Chara 1} tried
+ {Action}.
+
+# 06c8 #
+*You don('t) have enough
+ power left to try
+ that.
+
+# 06c9 #
+*{Chara 1} was revived!
+
+# 06ca #
+*Most of the diary is
+ unreadable,but one
+ part did stand out:
+\b*"The password(...)
+\b Where is the god('s)
+ tail,
+\b that which was left
+ behind by the ship
+\b that soars the
+ heavens?"
+
+# 06cb #
+*{Chara 2}('s) body
+ became soft again.
+
+# 06cc #
+*You played the
+ Ocarina of Hope.
+
+# 06cd #
+*Did you catch that?
+
+# 06ce #
+*This location is not
+ on the map.
+
+# 06cf #
+*{Leader} checked
+ the map.
+
+# 06d0 #
+*Some sort of force
+ is pushing you back.
+
+# 06d1 #
+*The Repel Ring
+ wore off.
+
+# 06d2 #
+
+# 06d3 #
+
+# 06d4 #
+
+# 06d5 #
+
+# 06d6 #
+
+# 06d7 #
+
+# 06d8 #
+
+# 06d9 #
+
+# 06da #
+
+# 06db #
+
+# 06dc #
+
+# 06dd #
+
+# 06de #
+
+# 06df #
+
+# 06e0 #
+
+# 06e1 #
+
+# 06e2 #
+
+# 06e3 #
+
+# 06e4 #
+
+# 06e5 #
+
+# 06e6 #
+
+# 06e7 #
+
+# 06e8 #
+
+# 06e9 #
+
+# 06ea #
+
+# 06eb #
+
+# 06ec #
+
+# 06ed #
+
+# 06ee #
+
+# 06ef #
+
+# 06f0 #
+
+# 06f1 #
+
+# 06f2 #
+
+# 06f3 #
+
+# 06f4 #
+"This software is an i(ll)egal
+copy of a Nintendo game.The
+use,possession or sale of
+this counterfeit cartridge
+is i(ll)egal and infringes
+Nintendo copyrights."
+          Nintendo Co.,Ltd.
+          Kyoto,Japan /
+          Redmond WA,USA.
+"This i(ll)egal copy of
+NES EARTH BOUND wi(ll)
+no longer function."
+
+# 06f5 #
+
+# 06f6 #
+
+# 06f7 #
+
+# 06f8 #
+
+# 06f9 #
+
+# 06fa #
+
+# 06fb #
+
+# 06fc #
+
+# 06fd #
+
+# 06fe #
+ 
+ 
+ 
+ 
+
+# 06ff #
+{Ana} is reunited with her
+mother as the rest of the
+freed people exit the cave.
+
+# 0700 #
+{Teddy},his health fu(ll)y
+recovered,is now a popular
+singer at the Live House.
+
+# 0701 #
+The abducted adults return
+to their children in Easter.
+You did great,kids!
+
+# 0702 #
+{Ana}:I promise (I')(ll) never
+forget you.So I won('t) say
+goodbye(...)
+Just,"'Til we meet again!"
+
+# 0703 #
+ {Lloyd} returns to a hero('s)
+ welcome at Twinkle
+ Elementary School.
+
+# 0704 #
+Welcome home,{Ninten}!
+We('r)e so glad you made it
+back safe and sound.
+You must be famished!
+
+# 0705 #
+Oh,a letter from {Ninten}.
+I miss him so much.
+I hope we can get together
+again soon(...)
+
+# 0706 #
+We(ll),now that the Earth('s)
+crisis is fina(ll)y over,I
+think (I')(ll) just lie down for
+a moment and(...) Zzzzzzz(...)
+
+# 0707 #
+Oh,this is your dad.
+I hate to wake you,but it
+might be just a little too
+soon to rest easy(...)
+
+# 0708 #
+{Player}
+# 0709 #
+SHIGESATO ITOI
+# 070a #
+MIYUKI KURE
+# 070b #
+AKIO OHMORI
+# 070c #
+RITSUO KAMIMURA
+# 070d #
+KEIICHI SUZUKI
+# 070e #
+HIROKAZU TANAKA
+# 070f #
+SHINBO MINAMI
+# 0710 #
+TATSUYA ISHII
+# 0711 #
+TOTTORI
+# 0712 #
+KAZUYA NAKATANI
+# 0713 #
+TAKAYUKI ONODERA
+# 0714 #
+MOTOO YASUMA
+# 0715 #
+MASAYUKI KAMEYAMA
+# 0716 #
+HIDEO KON
+# 0717 #
+KATSUTOMO MAEIWA
+# 0718 #
+KUNIKO SAKURAI
+# 0719 #
+MASAHIRO TATEMOTO
+# 071a #
+TAKASHI KAWAGUCHI
+# 071b #
+KEIZOH KATOH
+# 071c #
+MOTOHIRO ISHII
+# 071d #
+AKIHITO TODA
+# 071e #
+YUKARI SAITOH
+# 071f #
+PHIL SANDHOP
+# 0720 #
+TOSHIKO WATSON
+# 0721 #
+YUKA NAKATA
+# 0722 #
+HIROKO FAULKNER
+# 0723 #
+TONY HARMAN
+# 0724 #
+DAYV BROOKS
+# 0725 #
+NORIYUKI MINAMI
+# 0726 #
+BIN OHGAWARA
+# 0727 #
+YOSHIHISA WADA
+# 0728 #
+HIKONORI SUZUKI

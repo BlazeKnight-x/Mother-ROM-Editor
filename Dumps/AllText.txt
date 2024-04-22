@@ -1,0 +1,8870 @@
+# 0001 #
+*Brother, I'm so
+ scared! The lamp
+ seems to be alive!
+
+# 0002 #
+*Oh my! Brother,
+ our house is
+ falling apart!
+
+# 0003 #
+*Boo hoo!
+
+# 0004 #
+*Brother, here's
+ some juice.
+\b*You are thirsty,
+ aren't you?
+
+# 0005 #
+*Spooky!!
+ The doll walks
+ by itself!
+
+# 0006 #
+*I was scared to
+ death!!
+\b*Oh wow! CHECK out
+ what's hidden
+ inside the doll.
+
+# 0007 #
+System Error!!!
+
+# 0008 #
+*No, I'm Mimmie,
+ don't confuse me
+ with Minnie.
+
+# 0009 #
+*{Ninten}.
+ Are you alright?
+\b*Egad!
+ What is happening
+ to our house?
+\b*I wish your Dad
+ were here now.
+ Maybe...
+
+# 000a #
+*Son of mine,
+ you are braver
+ than I thought.
+\b*I can't let you
+ go on a journey
+ so famished.
+
+# 000b #
+*Oh, you have been
+ wounded.
+
+# 000c #
+*Well, the next
+ level
+ requires...
+
+# 000d #
+*When you want to
+ eat {Food}
+ again, just come
+ back here.
+
+# 000e #
+*Well...
+ It seems like a
+ poltergeist.
+\b*I'm not exactly
+ sure how to...
+\b*But, your great-
+ grand-father
+ studied PSI.
+\b*You might find
+ something in the
+ basement to help.
+\b*But, I left the
+ Basement Key
+ someplace...
+\b*...can't remember
+ exactly where...
+\b*Anyhow, son, you
+ are my only hope.
+\b*It's time for you
+ to go on a little
+ adventure,
+\b*and explore the
+ potential of your
+ powers.
+\b*Powers not be taken
+ lightly.
+\b*{Ninten}, go
+ for it!!
+\b*But remember to come
+ back and check on
+ our family.
+\b*Bye.
+\b*Oh... phone me,
+ and I will SAVE
+ your progress.
+\b*Call me whenever
+ you want.
+
+# 000f #
+System Error!!!
+
+# 0010 #
+System Error!!!
+
+# 0011 #
+System Error!!!
+
+# 0012 #
+System Error!!!
+
+# 0013 #
+*Slam.
+
+# 0014 #
+*This is your Dad.
+
+# 0015 #
+*I've transferred
+ ${MONEY EARNED}
+ into your account.
+\b*After the amount
+ you've spent,
+\b*the balance is
+ ${Balance}.
+\b*Spend your money
+ wisely.
+
+# 0016 #
+*Now son, it's not
+ my business, but
+ why not rest?
+
+# 0017 #
+*I see. 
+ I'll SAVE your
+ progress.
+
+# 0018 #
+*I see.
+ I know, the Earth
+ faces a crisis.
+
+# 0019 #
+System Error!!!
+
+# 001a #
+System Error!!!
+
+# 001b #
+*OK...But, I was
+ thinking of going
+ to sleep now.
+\b*I've SAVEd your
+ progress, so far.
+\b*Good night.
+
+# 001c #
+*See you later!
+\b*Remember, push in
+ and hold RESET,
+\b*while turning the
+ POWER off. OK?
+
+# 001d #
+*Just like your
+ Mom, you never
+ want to stop.
+\b*Please don't push
+ yourself so hard.
+
+# 001e #
+*By the way, do
+ you want to SAVE?
+
+# 001f #
+System Error!!!
+
+# 0020 #
+System Error!!!
+
+# 0021 #
+*Good luck.
+
+# 0022 #
+System Error!!!
+
+# 0023 #
+*I want to thank
+ you again for your
+ help.
+\b*Pippi is
+ fine now.
+
+# 0024 #
+*Don't tell me
+ you've been south
+ to the cemetery!
+
+# 0025 #
+*You are terrific.
+
+# 0026 #
+*Be honest,
+ you're a zombie.
+\b*Aren't you?
+
+# 0027 #
+*There is no cure
+ for zombies!
+ AAAAAAAHHH!
+
+# 0028 #
+*Are you really
+ a human?
+
+# 0029 #
+*It's amazing
+ you came here.
+
+# 002a #
+*You see...
+
+# 002b #
+*Don't tell anyone,
+ but I'm so scared,
+ I wet my pants.
+
+# 002c #
+*It was dreadful...
+
+# 002d #
+*Zombie!
+
+# 002e #
+*Ha-ha...
+ You shall become
+ a Zombieeee!
+
+# 002f #
+*Someone must be
+ controlling the
+ dead.
+
+# 0030 #
+*Young man,
+ you did well.
+
+# 0031 #
+*Zombies may be
+ anywhere in this
+ town.
+
+# 0032 #
+*Did that Canary
+ Chick come from
+ Canary Village?
+
+# 0033 #
+*Hum.
+
+# 0034 #
+*The chicks at the
+ Canary Village
+ have lovely voices.
+
+# 0035 #
+*The gentleman in
+ Canary Village
+ is my idol.
+
+# 0036 #
+*The Town Mayor is
+ looking for a
+ brave man.
+
+# 0037 #
+*Has the little
+ girl who strayed
+\b*into the cemetery
+ been rescued?
+
+# 0038 #
+*You...
+ Are you really going
+ to the cemetery?
+
+# 0039 #
+*I thought you were
+ a sensible child.
+
+# 003a #
+*The animals went
+ mad and out of
+ control.
+\b*The dead became
+ zombies and began
+ attacking people.
+\b*What can be done?
+
+# 003b #
+*You are super!
+
+# 003c #
+System Error!!!
+
+# 003d #
+*Did a poltergeist
+ visit your house?
+\b*It tore mine apart.
+
+# 003e #
+*The animals went
+ mad and began to
+ escape,
+\b*so the Zoo was
+ locked.
+
+# 003f #
+*To EAT, you'll
+ find Bread stale,
+\b*but, with its
+ Crumbs you can
+ mark your trail.
+\b*Do you think I
+ talk too much?
+ Well do I?
+
+# 0040 #
+*Citizen, I know
+ you would like to
+ help your town.
+
+# 0041 #
+*Well...
+ A child has strayed
+ into the cemetery.
+\b*And...
+ I'm up for re-
+ election soon.
+\b*You must help!
+ Please help me!
+
+# 0042 #
+*Oh!?
+ You will go there
+ and save her?
+
+# 0043 #
+*Is she the lost
+ girl, Pippi?
+\b*Well that's just
+ great.
+\b*I knew that you
+ could fulfill your
+ civic duty.
+\b*Applause,
+ applause...
+\b*Now pretty Pippi,
+ don't forget...
+\b*to tell your Mom
+ that the Mayor
+ saved you.
+\b*Here, I will give
+ {Leader} a prize of
+ {PRICE}.
+
+# 0044 #
+System Error!!!
+
+# 0045 #
+System Error!!!
+
+# 0046 #
+*By the way hero,
+\b*maybe you'd like
+ to go see what's
+ up at the Zoo?
+
+# 0047 #
+*Yes, you'll go?
+ Great, great
+ great!
+\b*Now make sure to
+ get a Key from my
+ assistant, Abbott.
+
+# 0048 #
+*This Key will open
+ the Zoo's gate.
+ Now don't lose it.
+
+# 0049 #
+*Return her to me
+ alive, and surely
+ I'll be a hero...
+\b*Er, umh, I mean
+ you'll be a hero.
+
+# 004a #
+*Why if it's not
+ our hero {Leader},
+\b*You have tiger
+ droppings on your
+ clothes.
+\b*Ha-ha, just
+ joking. Now run
+ along kid.
+
+# 004b #
+*I've heard a
+ rumor about a
+ wonder girl.
+\b*She will help you
+ on your trip.
+
+# 004c #
+*Zoo Keys are a
+ dime a dozen,
+ have another.
+
+# 004d #
+*Look for yourself,
+ all the animals
+ have escaped.
+
+# 004e #
+*Only this Canary
+ Chick is left.
+ Want to buy it?
+
+# 004f #
+*Well, how about
+ ${PRICE}?
+
+# 0050 #
+*OK kid, it's a
+ free country, you
+ know.
+
+# 0051 #
+*Take care of it.
+ Come see us again!
+
+# 0052 #
+*If it's free, do
+ you want it?
+ Then take it!
+
+# 0053 #
+*How's the Canary?
+
+# 0054 #
+*I think something
+ is controlling
+ the animals.
+
+# 0055 #
+*Ah... cute pets
+ aren't they?
+
+# 0056 #
+*Hmmm.
+
+# 0057 #
+*You stupid jerk!
+
+# 0058 #
+*How may I help?
+ Do you have some-
+ thing to return?
+
+# 0059 #
+*Wait.. A voice is
+ speaking into
+ {Leader}'s mind.
+
+# 005a #
+*Good.
+
+# 005b #
+*Thank you for
+ shopping with us
+ today.
+
+# 005c #
+*It's convenient that
+ the cash machine is
+\b*next to the
+ Service Counter,
+\b*but, why should I
+ care. I don't have a
+ card for it.
+
+# 005d #
+System Error!!!
+
+# 005e #
+*It's fine weather
+ today.
+ But, I don't care.
+
+# 005f #
+*Wow! That Canary
+ is the baby of
+ singing Laura.
+\b*Will you return her
+ baby to her.
+
+# 0060 #
+*Wait...
+\b*You just missed
+ something very
+ important.
+
+# 0061 #
+*Where is Laura?...
+
+# 0062 #
+*Laura remembered
+ her song, and began
+ to sing once more.
+\b*Did you learn
+ the melody?
+
+# 0063 #
+*That's no good.
+
+# 0064 #
+*The truth is...
+ There is power in
+ song.
+
+# 0065 #
+*Hi! I am Pippi,
+ and I'm lost.
+\b*What a brave
+ boy you are to
+ have found me.
+
+# 0066 #
+*Don't get so
+ swell headed.
+ Ha-ha-ha.
+
+# 0067 #
+*You're brave. I
+ hope we can meet
+ again sometime.
+
+# 0068 #
+*I'm so happy!  To
+ show my gratitude
+ take my gift.
+\b*This shiny Badge
+ will guard you.
+ Keep it!
+
+# 0069 #
+*You probably
+ already have
+ someone special,
+
+# 006a #
+*Now, it's time to
+ say good-bye.
+\b*Please come by my
+ house, I'll be
+ waiting there to
+\b*see you again.
+ By the way...
+\b*Do you think my
+ hair needs
+ styling?
+
+# 006b #
+System Error!!!
+
+# 006c #
+*You didn't have to
+ answer, cutie.
+
+# 006d #
+*EEE, EE EEK,
+ EEK EEK!
+
+# 006e #
+*{Leader} felt this
+ question enter 
+ his mind.
+\b*"Who has lost
+ his tail?"
+
+# 006f #
+*My! What strange
+ clothing you wear!
+\b*Surely monsters
+ will come after
+ those clothes!!
+
+# 0070 #
+System Error!!!
+
+# 0071 #
+*Are you bothered that
+ unhappiness and
+\b*misfortune search
+ you out?
+
+# 0072 #
+*If you desire to
+ never find
+ trouble...
+\b*STAY HOME!!
+
+# 0073 #
+*Is that right?
+ Trouble searches
+ after you?
+\b*Hmm, that's too
+ bad.
+
+# 0074 #
+*Then, you admit I
+ have good taste.
+\b*Huh?
+ You want a cool
+ nickname, too?
+
+# 0075 #
+*OK, I've got it!
+ From now on, you
+ are Noodlenoggin!
+\b*Sounds pretty
+ cool, doesn't it?
+
+# 0076 #
+*Is that right?
+ That's too bad.
+
+# 0077 #
+*Hello, there!
+ Noodlenoggin
+ {Leader}.
+
+# 0078 #
+*Have you ever met
+ the man who practices
+ philosophy?
+
+# 0079 #
+*He is so good at
+ nicknaming.
+\b*He uses such...
+ good taste in it.
+
+# 007a #
+*In the first
+ place, if we
+ have not met
+\b*we cannot part!
+
+# 007b #
+*Have you met a man
+ who says, that you
+ cannot part,
+\b*with someone you
+ have not met?
+
+# 007c #
+*I tend to think
+ the same way, too.
+
+# 007d #
+*You should meet
+ him.
+
+# 007e #
+*I regained my
+ strength at Queen
+ Mary's fountain.
+
+# 007f #
+*The bad thing
+ about Queen Mary's
+ fountain is...
+\b*that it is so far
+ away, and so hard
+ to find.
+
+# 0080 #
+*I am taking this
+ broken earring to
+ the fountain.
+\b*I'll bet it'll
+ change into a
+ magic earring.
+
+# 0081 #
+*The mysterious
+ sound of the
+ fountain soothes.
+
+# 0082 #
+*More to the south.
+ Are you lost?
+\b*Sorry...I was
+ directing you to
+ the rest room.
+\b*Queen Mary's
+ Fountain is west
+ of the castle.
+
+# 0083 #
+System Error!!!
+
+# 0084 #
+*I bent my spoon
+ and it's hard to
+ use like this.
+\b*Do you think
+ somehow you could
+ fix it for me?
+
+# 0085 #
+*Please fix it
+ right away.
+\b*({Ninten} fixed
+ the spoon with
+ PSI-Power.)
+\b*Thanks a million!
+ Munch, munch...
+\b*Hey, would you
+ like to spend
+ the night here?
+
+# 0086 #
+*Why not? You can
+ fix it without any
+ physical effort!
+
+# 0087 #
+*You're a strange
+ person...
+\b*but for some
+ reason, I like
+ you.
+
+# 0088 #
+*That's good.
+
+# 0089 #
+*Boo hoo hoo... You
+ should accept
+ kindness graciously.
+
+# 008a #
+*Oh, traveller! Why
+ don't you enjoy a
+ meal at our house?
+\b*Well.... Today's
+ special. Can you
+ guess what it is?
+
+# 008b #
+*Why not!? You sound
+ so suspicious!
+
+# 008c #
+*Yes, it's 
+ {Food}.
+\b*I knew you liked
+ {Food}. Do you
+ want some?
+
+# 008d #
+System Error!!!
+
+# 008e #
+System Error!!!
+
+# 008f #
+*This was to be a
+ musical instrument
+ store,
+\b*but the Ocarina
+ that we ordered
+ never arrived.
+\b*So I've given up.
+
+# 0090 #
+*Is that so?
+
+# 0091 #
+*Thanks. Your bed
+ is ready. Please
+ sleep well.
+
+# 0092 #
+*Please feel free
+ to use our bed
+ anytime.
+
+# 0093 #
+*Stranger, I can
+ tell you're not
+ from this place.
+
+# 0094 #
+*The Ocarina of
+ Hope is finally
+ completed.
+\b*Its melody
+ can now flow out
+ from it.
+\b*Do you want it?
+
+# 0095 #
+System Error!!!
+
+# 0096 #
+*You're a pretty
+ straight looking
+ dude, Go ahead.
+\b*Ha ha ha.
+
+# 0097 #
+*It's quite obvious
+ that you want it.
+ Ha ha ha.
+\b*Go ahead, take it.
+
+# 0098 #
+*Hey, kid! 
+ How are you doing?
+
+# 0099 #
+*There is no exit
+ from a place like
+ Magicant.
+\b*Ha ha ha...
+
+# 009a #
+*Outside?
+ A world outside?
+ What do you mean?
+
+# 009b #
+*I am so embarrassed!
+ I wish I could 
+ crawl into a hole.
+
+# 009c #
+*I am the
+ Mysterious
+ Goods-Keeper.
+\b*You have a need?
+
+# 009d #
+*I am the
+ Mysterious
+ Mimicker.
+
+# 009e #
+*There are a great
+ many holes east of
+ town.
+\b*The sound of
+ another world can
+ be heard from one.
+
+# 009f #
+System Error!!!
+
+# 00a0 #
+System Error!!!
+
+# 00a1 #
+*Pull out a Red
+ Weed and place it
+ into the fountain,
+\b*it will turn into
+ the Magic Herb.
+
+# 00a2 #
+*Would you like me
+ to give you the
+ Big Bag?
+
+# 00a3 #
+*Can I borrow your
+ Cash Card for a
+ while?
+
+# 00a4 #
+*It holds 30
+ Magic Herbs.
+
+# 00a5 #
+*Thank you,
+ sure, sure I'll
+ return it to you.
+\b*I thought that
+ it looked pretty
+ cool.
+
+# 00a6 #
+*You don't trust
+ anyone.
+\b*That may be a good
+ attitude,
+ possibly...
+
+# 00a7 #
+*Oh that's right, I
+ have to return
+ your Cash Card!
+
+# 00a8 #
+*The Queen isn't
+ feeling very well.
+
+# 00a9 #
+*Suspicious man....
+ I'll let you pass,
+\b*if you solve this
+ riddle...
+
+# 00aa #
+*That's right.
+ The answer is
+ "two alligators".
+\b*Although I haven't
+ come up with the
+ riddle yet.
+
+# 00ab #
+*See you later!
+
+# 00ac #
+System Error!!!
+
+# 00ad #
+*I wish I could
+ hear the Queen
+ sing again.
+
+# 00ae #
+*Hello! I didn't hear
+ you come in.
+\b*That guitar playing
+ is so loud...
+\b*I can't even
+ think.
+\b*What? I was
+ playing the guitar
+ myself!?
+\b*I should have
+ known.
+\b*..........
+\b*The story I tell
+ to you now
+ is a real secret.
+\b*When you become
+ really strong,
+ come see me.
+\b*You had better
+ write this down so
+ you don't forget.
+\b*I know if I don't
+ write things down,
+ I forget.
+
+# 00af #
+System Error!!!
+
+# 00b0 #
+*You tried to
+ ignore me, didn't
+ you?
+\b*I'm so lonesome
+ out here, all by
+ myself.
+\b*I will do
+ anything I can.
+ Here!
+
+# 00b1 #
+*How happy I am
+ that you came to
+ see me.
+\b*I know what you
+ would like me to
+ do. Here!
+
+# 00b2 #
+*Listen to my song!
+ Oh music-loving
+ adventurer {Leader}!
+\b*Why do you cry,
+ oh Cupid-Doll?
+\b*Canary sings
+ so sadly.
+\b*Monkey sings,
+ Piano plays,
+\b*maybe there
+ is a ghost?
+\b*Desert Cactus
+ so alone,
+\b*every night
+ his sad, sad tone.
+\b*The Dragon sleeps,
+ the note remains.
+\b*Eve's last song
+ has no refrain.
+\b*On the Mount
+ named Itoi,
+\b*you must climb
+ high young boy.
+\b*See the XX Stone,
+ for the last tone,
+\b*then do not leave
+ Queen Mary alone!
+\b*La la lullaby...
+ Strange lullaby...
+\b*Bye bye bye...
+ Good-bye.
+\b*Sure is a nice
+ song, isn't it?
+
+# 00b3 #
+*Deep in the woods,
+ is a guitar player
+ who is a hermit.
+\b*Not that bad
+ looking of a
+ man...
+\b*Best of all,
+ he's quite a poet.
+
+# 00b4 #
+*Someone told me
+ about a man that
+\b*everyone forgot
+ about. But, I don't
+ remember who.
+
+# 00b5 #
+*Believe it or not,
+ I am a Healer.
+\b*I can charge your
+ PP, and can cure
+ stone-illness.
+
+# 00b6 #
+*...I thought so...
+
+# 00b7 #
+*Don't carry so much
+ money with you.
+
+# 00b8 #
+*Of course I am a
+ non-singing
+ monkey.
+\b*Normal monkeys
+ don't sing.
+ So, any questions?
+
+# 00b9 #
+*Anyhow...
+ questions are so
+ ridiculous.
+
+# 00ba #
+*Good, I worried
+ that you would ask
+ a difficult one.
+\b*You look so much
+ like Queen Mary.
+\b*I wonder why?
+
+# 00bb #
+*I just had to tell
+ you about it as
+ soon as I saw you.
+\b*The rails are
+ fixed, and the
+ train is on time.
+
+# 00bc #
+*I wish I could go
+ into the castle to
+ see Queen Mary.
+
+# 00bd #
+*Queen Mary often
+ has nightmares.
+\b*As if scolding a
+ naughty child,
+ she cries out,
+\b*"I am scared!
+ I am scared!"
+\b*And then she
+ starts to sing...
+ just a little bit.
+\b*Then she forgets
+ the tune, and
+ wakes in a sweat.
+\b*I wonder what sad
+ experience has done
+ this to Queen Mary?
+
+# 00be #
+*I only give this
+ to girls.
+
+# 00bf #
+*Zzzzzzzzzzzz...
+
+# 00c0 #
+System Error!!!
+
+# 00c1 #
+*You liar!
+
+# 00c2 #
+*All of us know you
+ don't belong here,
+\b*but we consider
+ you one of us.
+\b*With the Onyx
+ Hook, you can warp
+ back here anytime.
+
+# 00c3 #
+*Promise me, that
+ if you need help,
+ you will return.
+\b*Everyone loves
+ you, {Leader}.
+
+# 00c4 #
+*Welcome, {Leader}.
+\b*Here in Magicant,
+ everyone is your
+ friend.
+\b*You can have as
+ much as you like,
+\b*of whatever you
+ want.
+\b*What? You want to
+ listen to my song?
+\b*Sorry, I don't
+ know why, but I
+ just can't sing.
+\b*I beg you to learn
+ the melody. It is
+ only 8 notes long.
+\b*When you learn
+ them all, return
+ and sing for me.
+\b*If I only could
+ hear that song...
+
+# 00c5 #
+System Error!!!
+
+# 00c6 #
+System Error!!!
+
+# 00c7 #
+System Error!!!
+
+# 00c8 #
+System Error!!!
+
+# 00c9 #
+System Error!!!
+
+# 00ca #
+*......
+
+# 00cb #
+*Please SING to me
+ the melodies that
+ you have learned.
+
+# 00cc #
+*Yes...
+ that's right.
+ That is the song.
+
+# 00cd #
+*Oh! Giegue!
+
+# 00ce #
+System Error!!!
+
+# 00cf #
+*In a bad dream,
+ Magicant vanished
+ into thin air.
+\b*My heart is still
+ pounding so hard.
+
+# 00d0 #
+System Error!!!
+
+# 00d1 #
+*Yes, I am the cat
+ who swims on the
+ ground.
+\b*Guess what is in
+ my hand.
+
+# 00d2 #
+*Do you know what I
+ have in my hand?
+\b*That is right.
+ A Ribbon...
+\b*This Magic Ribbon
+ will give
+ strength...
+
+# 00d3 #
+*Magic Ribbons are
+ only for girls.
+
+# 00d4 #
+*I am a Swimming
+ cat.
+\b*Have you heard of
+ a Magic Candy that
+ gives strength
+\b*and power to a
+ helpless child?
+
+# 00d5 #
+*I see, but you are
+ not helpless, so
+ you don't need it.
+
+# 00d6 #
+*The boy with
+ glasses can surely
+ use the Candy.
+
+# 00d7 #
+System Error!!!
+
+# 00d8 #
+*Was the Candy
+ good?
+
+# 00d9 #
+*If you need the
+ benevolent
+ old man,
+\b*go to Queen Mary's
+ Fountain for his
+ help.
+\b*He will hear your
+ soulful cry and
+ come to help.
+\b*Soulful cry,
+ remember,
+ soulful cry!
+
+# 00da #
+System Error!!!
+
+# 00db #
+*(The crowd becomes
+ restless and
+ upset.)
+\b*What in the world
+ is that stone with
+ a hat on!
+
+# 00dc #
+*Did you call me
+ up?
+
+# 00dd #
+*Is that right?
+ Bye!
+
+# 00de #
+*You need money,
+ don't you?
+
+# 00df #
+*Has it been helpful
+ to you?
+
+# 00e0 #
+*Well, your balance
+ is ${Balance}.
+\b*How much do you
+ want to withdraw?
+
+# 00e1 #
+*Here...
+ Take it with you.
+
+# 00e2 #
+*Ouch, there is not
+ that much money left
+ in your account.
+
+# 00e3 #
+*I am a forgotten
+ man. I'm not
+ really here.
+\b*You didn't have to
+ notice me....
+\b*Please ignore me.
+
+# 00e4 #
+*I am a man who
+ does not exist.
+\b*You talk so
+ kindly, I don't
+ know what to do.
+\b*If I miss people,
+ I cannot live
+ alone anymore.
+
+# 00e5 #
+*My conversation
+ is always a
+ monologue.
+\b*I've been alone
+ from the moment
+ I was born...
+
+# 00e6 #
+*Lucky, unlucky...
+ It makes no
+ difference to me.
+\b*Sometimes, even
+ breathing becomes
+ too much.
+
+# 00e7 #
+*Why do you insist
+ on talking to me?
+\b*Are you a
+ forgotten
+ man, too?
+
+# 00e8 #
+*Don't give me that
+ garbage. Just
+ leave me alone.
+
+# 00e9 #
+*That's right.
+ That is right,
+ right?
+\b*Go ahead, ignore
+ me, like everyone
+ else.
+
+# 00ea #
+*That's right.
+ Thank you.
+
+# 00eb #
+*Your load is too
+ great for more.
+ Why not come back?
+
+# 00ec #
+*I heard about some
+ weird things over
+ in Podunk.
+
+# 00ed #
+*Heard a zombie was
+ kidnapped...
+\b*animals roamed the
+ city streets...
+\b*all kinds of crazy
+ stuff.
+
+# 00ee #
+*Welcome to
+ Merrysville!!
+\b*Cheap, fast
+ and handsome.
+\b*The best doctor is
+ Old Sawbones
+ Benny.
+\b*Take advantage of
+ specially priced
+ treatments now!!
+\b*Whether dead or
+ alive, protect
+ your life.
+
+# 00ef #
+System Error!!!
+
+# 00f0 #
+System Error!!!
+
+# 00f1 #
+*First show
+ me your money. Then
+ I'll treat you.
+\b*Well... 
+ In your case,
+ I'll have to bill
+\b*${PRICE} for
+ your treatment.
+\b*This special price
+ was set just for you.
+
+# 00f2 #
+System Error!!!
+
+# 00f3 #
+*Thanks for the
+ ${PRICE}.
+\b*You'are now cured.
+\b*Go get hurt again
+ and come back
+ soon.  He-he-hee!
+
+# 00f4 #
+*Fine, die all on
+ your own. I'll
+ phone a mortician.
+
+# 00f5 #
+*Until the curfew
+ is lifted, no one
+ can cross.
+\b*That is by order
+ of the Town Mayor.
+\b*Psst...
+ by the way kid,
+\b*they might let you
+ cross the bridge
+ northeast of The Zoo.
+
+# 00f6 #
+*What happened to
+ school? You have
+ school, don't you?
+
+# 00f7 #
+*I got this from
+ Duncan's factory
+ in the north.
+
+# 00f8 #
+*This factory is
+ Mr. Duncan's
+ private property.
+\b*Let's see your
+ Pass!
+
+# 00f9 #
+*This Pass has
+ expired. You must
+ have stolen it!
+\b*Suspicious
+ creature.
+\b*Look me
+ in the eye!!
+
+# 00fa #
+System Error!!!
+
+# 00fb #
+*An awful creature
+ beat me up.
+\b*If you're going to
+ the station, watch
+ out!
+
+# 00fc #
+System Error!!!
+
+# 00fd #
+*I heard the curfew
+ in Podunk has been
+ lifted.
+\b*You know what that
+ means, don't you?
+\b*We can cross the
+ bridge once more!
+
+# 00fe #
+System Error!!!
+
+# 00ff #
+System Error!!!
+
+# 0100 #
+*I was picking
+ on that weakling,
+ {Lloyd}.
+\b*But he got away.
+
+# 0101 #
+*Hey, {Lloyd}!
+ You weakling!
+
+# 0102 #
+*We've been picking
+ on that weakling
+ {Lloyd}, right?
+
+# 0103 #
+*Just teasing.
+
+# 0104 #
+*I saw {Lloyd}
+ steal explosives!!
+\b*I'm afraid of what
+ Mr. Teacher will
+ say.
+
+# 0105 #
+*Your glasses have
+ slipped off your
+ nose.
+
+# 0106 #
+*I am Suzy. I'm
+ Miss Merrysville.
+\b*Aren't I gorgeous?
+
+# 0107 #
+*You look cute too.
+
+# 0108 #
+*You are ugly!
+ You remind me of a
+ noodlenoggin!
+
+# 0109 #
+*It's too bad that
+ the door to the
+ roof is locked.
+\b Maybe you'd like
+ to join me...
+\b*I was going to
+ sneak out and play
+ with my Game Boy.
+
+# 010a #
+*You don't talk
+ very much, do you?
+
+# 010b #
+*The gym teacher
+ made me do extra
+ push-ups again.
+\b*I'd rather do sit-
+ ups though.
+
+# 010c #
+*How can you get
+ lost in a
+ schoolyard?
+\b*I just can't
+ believe it.
+
+# 010d #
+*Of course the door
+ to the roof is
+ locked!
+\b*We can't have
+ students sneaking
+ out to play games,
+\b*when they should
+ be studying, you
+ know!
+
+# 010e #
+System Error!!!
+
+# 010f #
+*Then, when she
+ does get up,
+ she goes shopping.
+\b*Luckily, I hid the
+ credit cards from
+ that woman!
+\b*Don't you think
+ she's a terrible
+ wife.
+
+# 0110 #
+*Kids don't know
+ the sorrows of
+ real life...
+
+# 0111 #
+*How dare you talk
+ about my wife
+ like that, scram!
+
+# 0112 #
+*When she was
+ young, she was
+ very pretty,
+\b*come to think of it,
+ she's not that
+ bad after all.
+\b*Would you like some
+ tea?
+
+# 0113 #
+System Error!!!
+
+# 0114 #
+*You are a pretty
+ good kid.
+\b*You say you need
+ to go up to the
+ roof? Follow me.
+
+# 0115 #
+*When you're old
+ you'll wish that
+ young punks
+\b*would respect you!
+
+# 0116 #
+*That's dangerous,
+ what are doing
+ with that thing?
+\b*I will keep this
+ for you.
+
+# 0117 #
+*Please, please
+ have some tea.
+
+# 0118 #
+*Don't run in
+ the hall!
+
+# 0119 #
+*Wait a minute, I
+ don't belive I've
+ seen you before.
+\b*You must not be
+ from around here,
+ are you?
+
+# 011a #
+*I see. Just don't
+ run in the hall.
+
+# 011b #
+*Show me what
+ you have.
+\b*You don't have
+ anything dangerous,
+ do you?
+
+# 011c #
+System Error!!!
+
+# 011d #
+*Who are you?!
+ I won't come out.
+\b*If I do, everyone
+ will pick on me.
+
+# 011e #
+*You want to be
+ my friend?
+\b*Don't tell anyone,
+ but I stole some
+ explosives.
+
+# 011f #
+*I'm coming out
+ now.
+
+# 0120 #
+*Hi, I am {Lloyd}.
+ I wanted to fly
+ the Bottle Rockets
+\b*that the Sweet-
+ Little Factory
+ was producing.
+
+# 0121 #
+*You must be tired.
+ Why don't you stay
+ here tonight?
+
+# 0122 #
+System Error!!!
+
+# 0123 #
+*Wow!  This Bottle
+ Rocket is sure to
+ cause a bang.
+\b*We may be able to
+ make some more on
+ our own.
+\b*Come with me
+ to the lab.
+
+# 0124 #
+*({Lloyd}) Aim on
+ the rock...
+ OK! 1-2-3 Fire!!
+
+# 0125 #
+*({Lloyd}) Now it is
+ the weakling's turn.
+\b*You stay here and
+ wait!
+
+# 0126 #
+*I'm the Mysterious
+ Teacher. Secretly
+ I live here.
+\b*I need money for
+ research. Care to
+ buy an invention?
+
+# 0127 #
+System Error!!!
+
+# 0128 #
+*Well, please take
+ a look at the
+ price list.
+
+# 0129 #
+*You must have some
+ money for candy,
+ or such, eh?
+
+# 012a #
+System Error!!!
+
+# 012b #
+*Please drop in
+ anytime,
+\b*I'm always working
+ on a new invention.
+
+# 012c #
+*I haven't made any
+ progress since
+ your last visit.
+\b*Would you like to
+ look at the old
+ list?
+
+# 012d #
+*I heard on the
+ radio that it's a
+ mess everywhere.
+\b*At all costs I
+ will protect this
+ station.
+
+# 012e #
+System Error!!!
+
+# 012f #
+*Well, I don't know
+ how far the train
+ goes through,
+\b*but, you need
+ a ticket to ride.
+ Care to buy one?
+
+# 0130 #
+*({Leader}'s weapon
+ was confiscated.)
+
+# 0131 #
+System Error!!!
+
+# 0132 #
+System Error!!!
+
+# 0133 #
+System Error!!!
+
+# 0134 #
+*Then, it's
+ {PRICE}
+ dollars.
+
+# 0135 #
+System Error!!!
+
+# 0136 #
+System Error!!!
+
+# 0137 #
+*Hey, that Hat
+ you're carrying
+ looks just like
+\b*the one that
+ {Ana} of Snowman
+ lost.
+\b*If you return it
+ to her, she just
+ may reward you.
+
+# 0138 #
+*May you live a
+ long life.
+
+# 0139 #
+*I was on my way to
+ Youngtown to look
+ for my wife.
+\b*But, without the
+ train running, how
+ can I get there?
+
+# 013a #
+*Go ahead, poke
+ your nose into
+ other people's
+\b*business. It's
+ what makes playing
+ the game so fun.
+
+# 013b #
+System Error!!!
+
+# 013c #
+*Here it is!
+
+# 013d #
+*Did you see the
+ man with the slick
+ mustache?
+
+# 013e #
+*Must have lost
+ him. Couldn't help
+ it...
+\b*Anyhow, I must go
+ check for parking
+ violations now.
+
+# 013f #
+*He's a swindler!
+ Please let me know
+ if you see him.
+
+# 0140 #
+*Hey Kid!
+ Just hold onto
+ this money for me.
+\b*Don't tell the
+ cops or anyone
+ about it!
+
+# 0141 #
+*Don't run away
+ with it!
+
+# 0142 #
+*Just do what I
+ tell you!
+
+# 0143 #
+*Leave me alone!
+ Can't you see I'm
+ incognito?
+
+# 0144 #
+*Have you seen the
+ woman with a big
+ belly?
+
+# 0145 #
+*Must have lost
+ her. Couldn't
+ help it...
+\b*Anyway, I'm going
+ to check for
+ speeders instead.
+
+# 0146 #
+*She ate
+ 5 {Food}s,
+\b*then ran away
+ without paying.
+\b*If you see her,
+ let me know!
+
+# 0147 #
+*Oh, I'm so full!!
+
+# 0148 #
+*This town has
+ become dangerous!
+\b*But it's still a
+ much better place
+ than Ellay.
+
+# 0149 #
+*Oh yeah?
+ Are you ready?
+ All-right!!
+
+# 014a #
+*Hey!!
+ Wanna hear my
+ song!?
+
+# 014b #
+*Fine, be that way.
+
+# 014c #
+*It's time to say
+ good-bye...
+
+# 014d #
+System Error!!!
+
+# 014e #
+*Did you hear the
+ Dragon's lullaby?
+
+# 014f #
+*Somewhere in the
+ town of
+ Spookane...
+\b*I heard that
+ there's a
+\b*gh...
+\b*gho..
+\b*ghost..
+ Ghost house!!
+\b*Don't you ever
+ dare to go there!!
+
+# 0150 #
+System Error!!!
+
+# 0151 #
+*Give me something.
+ Whatever it is,
+ just give it to me.
+\b*Gimme gimme.
+\b*Please, give me.
+\b*Why won't you give
+ it to me? I said
+ please?
+
+# 0152 #
+*I promise, I'll
+ give you something
+ in return.
+
+# 0153 #
+*I'm thinking of
+ something nice
+ to give you.
+
+# 0154 #
+*What are you going
+ to give me?
+
+# 0155 #
+*Thanks a lot.
+ To show my
+ gratitude I'll
+\b*give you this
+ Flea Bag.
+ Please take it.
+
+# 0156 #
+*There's a flu going
+ around here.
+ Cough, cough.
+
+# 0157 #
+*High in the
+ mountains, lives
+ an old man.
+\b*Legends say he
+ hasn't had a cold
+ in 300 years.
+
+# 0158 #
+*Mmm, hmm meh heh,
+ hmm, heh mehah,
+ hmmm, heh hmmumm!
+
+# 0159 #
+*I can't understand
+ a word the old man
+ says either.
+
+# 015a #
+*So nice to have my
+ Dentures back once
+ more. Your reward?
+\b*With you I'll
+ share my secret to
+ long, long, life.
+\b*Gargle often.
+ Gargle proud.
+ Gargle strong.
+\b*And if you catch a
+ cold, gargling
+ will help.
+\b*Here is a Mouth-
+ wash I concocted
+ myself. Take it!
+
+# 015b #
+System Error!!!
+
+# 015c #
+*Mouthwash again?
+ Here it is.
+ Go ahead, take it.
+\b*But, I have to
+ charge you
+ ${PRICE} this time.
+\b*Gargle gargle
+ gargle... Splash!
+
+# 015d #
+*I heard someone
+ died from a cold.
+ Just a cold!
+
+# 015e #
+*Have you heard
+ that their is
+ a ghost house
+ in Spookane?
+
+# 015f #
+*I heard a spooky
+ tale about that
+ vacant house...
+\b*they say that the
+ piano still plays
+ a haunting melody.
+
+# 0160 #
+*Hey kid, what you
+ don't know will
+ never hurt you!
+
+# 0161 #
+*Ahh - Ha ha ha...
+
+# 0162 #
+*Nobody's here.
+ Hee hee hee...
+
+# 0163 #
+*This is your worst
+ nightmare. You
+ cannot get away!
+\b*Hee hee hee...
+
+# 0164 #
+*T U R N  B A C K
+
+# 0165 #
+*Aaagghhhhhhhhhh....
+
+# 0166 #
+*You'll never make
+ it...
+ Hee hee hee hee.
+
+# 0167 #
+*I'm just an
+ ordinary mouse.
+\b*The room with
+ the piano...
+ Hee hee hee...
+
+# 0168 #
+*The owners of the
+ ghost house were the
+ Rosemarys.
+
+# 0169 #
+*A ghost appeared
+ at my house too.
+\b*But, he didn't
+ stay long.
+\b*He thought my room
+ was too small.
+
+# 016a #
+*I'm not a resident
+ of this town. I
+ am your assistant.
+\b*Maybe you forgot
+ to write something
+ down?
+\b*I will sell you a
+ hint for only
+ {PRICE} dollars?
+
+# 016b #
+System Error!!!
+
+# 016c #
+*Oh, you don't need
+ anyone's help, do
+ you?
+\b*Fine and dandy,
+ you can color me
+ gone.
+
+# 016d #
+*I can sell only 3
+ hints. Discover
+ the rest youself.
+
+# 016e #
+*I am the only
+ clown in
+ Spookane.
+\b*Everyone else is
+ so serious.
+
+# 016f #
+*Truth is, by
+ nature I'm not a
+ jolly guy.
+
+# 0170 #
+*Is that right?
+\b*I may be the true
+ pessimist myself.
+
+# 0171 #
+*My house is filled
+ with monsters,
+ mostly ghosts.
+\b*That's why we live
+ life in the great
+ outdoors now.
+
+# 0172 #
+*({Lloyd}) Your
+ Bottle Rocket and
+ my...
+\b*great, isn't it...
+ Whaaaaat!?
+
+# 0173 #
+System Error!!!
+
+# 0174 #
+*Oh, the darkness
+ is so thick...
+\b*Can't see you very
+ well.. 
+\b*But could it
+ be?...
+\b*Is it the little
+ girl from Snowman?
+\b*{Ana}, I believe
+ it was...
+\b*Brace yourself,
+ your mom is locked
+ in a room in back.
+\b*Do not try to
+ rescue us now.
+\b*First, the
+ Mother Ship must
+ be destroyed.
+
+# 0175 #
+*Oops! It's gone
+ into orbit.
+\b*A success...
+\b*sort of.
+
+# 0176 #
+*Oh, you are such
+ a charming boy...
+\b*Just looking at
+ you makes me feel
+ so confident.
+\b*I'm sure you'll
+ bring that house
+ into control.
+\b*Here is the Key to
+ it.
+
+# 0177 #
+*Hi there, my name
+ is {Ninten}.
+\b*It used to be
+ Buggerror
+ Rosemary.
+
+# 0178 #
+*{Ninten}!
+ Get your grubby
+ little...
+\b*No cutie, I was
+ talking to my boy.
+
+# 0179 #
+*The ghosts aren't
+ gone yet, but...
+\b*what a brave boy
+ you are!
+\b*I've renamed my
+ son {Ninten},
+ after you.
+
+# 017a #
+*This is Snowman
+ Terminal.
+
+# 017b #
+*I heard everyone
+ in Youngtown has
+ disappeared.
+
+# 017c #
+*Mom left for
+ Youngtown.
+\b*We haven't heard
+ from her for days
+ now.
+\b*Dad and I are
+ going there to
+ look for her.
+
+# 017d #
+*Have you been to
+ the ghost house
+ in Spookane?
+
+# 017e #
+*Later you can tell
+ me the whole
+ story...
+\b*I love to listen
+ to horror stories.
+
+# 017f #
+*I don't want you to
+ go, but do so if you
+ must.
+
+# 0180 #
+*It's freezing here
+ in Snowman.
+\b*Don't catch your
+ death of cold.
+\b*Brush your teeth,
+ too.
+\b*Hack hack wheez...
+
+# 0181 #
+System Error!!!
+
+# 0182 #
+*Life is a game.
+ But sometimes you
+ have to rest.
+
+# 0183 #
+*{Ana} hasn't been
+ to school lately,
+ I'm so worried.
+
+# 0184 #
+*I'm concerned
+ about {Ana}.
+\b*I am so worried I
+ can't sleep.
+
+# 0185 #
+System Error!!!
+
+# 0186 #
+*You don't have
+ enough money.
+
+# 0187 #
+*Oh my, your nose
+ is running.
+
+# 0188 #
+*Excuse me, I need
+ to see the person
+ playing this game.
+
+# 0189 #
+*I have some very
+ important things
+ to talk about.
+
+# 018a #
+*Hello there...
+\b*I appreciate your
+ kindness to
+ {Ninten}.
+\b*I am the boy's
+ Dad...
+\b*Could you please
+ let me know your
+ name?
+\b*Thank you for your
+ cooperation.
+
+# 018b #
+*Thank you for
+ spending your time
+ with me.
+\b*I too have urgent
+ things to do, so
+ I'd better go now.
+
+# 018c #
+*Are you {Leader}?
+
+# 018d #
+*Don't get silly on
+ me now.
+
+# 018e #
+*I must go on a
+ trip to find my Mom,
+ and...
+\b*I needed your
+ help...
+\b*So I've been
+ waiting for you,
+ {Leader}.
+\b*First let's go see
+ what is happening
+ in Youngtown.
+
+# 018f #
+*You have appeared.
+ Just like in my
+ dream...
+\b*The boy in my
+ dream looked just
+ like you.
+
+# 0190 #
+*{Ninten}....
+ Please stay with
+ me.
+
+# 0191 #
+*No!!
+ Stay with me,
+ Please!...
+
+# 0192 #
+*Silence falls...
+ Would you like to
+ dance?
+
+# 0193 #
+*You're right.
+ Now isn't the time.
+ I wasn't thinking.
+
+# 0194 #
+*{Ninten}?...
+ Do you love me?
+
+# 0195 #
+*What's the matter,
+ {Lloyd}?
+
+# 0196 #
+*The Dragon sleeps.
+\b*{Leader}'s Psychic
+ Power is short of
+ waking the Dragon.
+
+# 0197 #
+*Feeling {Leader}'s
+ presence, the
+ Dragon awoke.
+\b*You must defeat
+ me to earn my
+ musical note.
+
+# 0198 #
+System Error!!!
+
+# 0199 #
+*My daughter,
+ {Ana} has never
+ been a brave girl,
+\b*but, she is kind
+ of heart, and has
+ a secret strength.
+
+# 019a #
+*I know success
+ will be yours in
+ the end.
+\b*Surely, our pleas
+ will be heard in
+ the near future.
+\b*For now, just have
+ a peaceful sleep.
+
+# 019b #
+*{Leader} found a
+ Pass that someone
+ had left behind.
+
+# 019c #
+*They climbed
+ into the rocket.
+
+# 019d #
+*My grandfather
+ lives in Yucca
+ Desert.
+\b*If you see him,
+ please say hello
+ for me.
+
+# 019e #
+*I am just a pile
+ of bones now.
+\b*I used to be a
+ nice guy before.
+\b*So, don't worry, I
+ won't attack you.
+
+# 019f #
+*I could make a
+ good signpost,
+ don't you think?
+
+# 01a0 #
+*Conversing with a
+ corpse? What a
+ brave kid!
+
+# 01a1 #
+*I'm the bones of a
+ camel.
+\b*Want to know how to
+ walk when in the
+ desert?
+
+# 01a2 #
+*Move your left
+ foot before your
+ right foot sinks.
+\b*Move your right
+ foot before your
+ left foot sinks.
+\b*It took me 100
+ years to figure
+ that out.
+
+# 01a3 #
+*I'd very much like
+ to tell you.
+\b*Wouldn't you like
+ to know?
+
+# 01a4 #
+*Yucca Desert is
+ the most boring
+ part of this game.
+\b*But, stay on your
+ toes, this desert
+ has been mined.
+
+# 01a5 #
+*See the Yucca
+ Desert.
+\b*Charter flights
+ available by
+ arrangement.
+
+# 01a6 #
+*During the last
+ war, I laid mines
+ in this desert.
+\b*I removed all but
+ one of them, so
+ watch your step.
+
+# 01a7 #
+*Oh, you want a
+ ride on the plane?
+
+# 01a8 #
+*The airfare is
+ ${PRICE} for that
+ flight.
+\b*Save your Ticket
+ Stubs.
+\b*After you get 10
+ stubs, you can
+ take the tank.
+\b*You look so happy
+ about that.
+ Ha ha ha...
+
+# 01a9 #
+*Well, it is quite
+ expensive...
+ I don't blame you.
+
+# 01aa #
+*Great! I see you
+ saved 10 stubs.
+ Take my tank.
+\b*You sure look
+ happy.
+ Ha ha ha...
+
+# 01ab #
+*You broke my tank,
+ it was my most
+ prized possession.
+\b*Now you'll have to
+ pay ${PRICE} for the
+ repairs.
+\b*Will you make
+ restitution right
+ now?
+
+# 01ac #
+System Error!!!
+
+# 01ad #
+*Thank you,
+ and good-bye.
+
+# 01ae #
+*I am so angry.
+ Arrrrrrrrr!!
+
+# 01af #
+System Error!!!
+
+# 01b0 #
+*Where is my Mommy?
+ Where is my Daddy?
+
+# 01b1 #
+*Halt, who goes
+ there?
+
+# 01b2 #
+*Suspicious guys.
+ I will stop you.
+ Arrghh!
+
+# 01b3 #
+*Something's very
+ strange with the
+ Garrickson baby.
+\b*Something very
+ strange indeed.
+
+# 01b4 #
+*Well...
+ 2 plus 3 equals 5,
+ 8 minus 4 equals 4.
+\b*I study
+ all the time.
+
+# 01b5 #
+*Mom!!
+ I miss you!!!
+
+# 01b6 #
+*Dad!!
+ I miss you!!!
+
+# 01b7 #
+*A big ship from
+ the sky took Mom
+ and Dad away.
+
+# 01b8 #
+*I like it without
+ the grown-ups
+ around.
+\b Sure I do.
+ Sob, sob...
+
+# 01b9 #
+*Please hold me!
+
+# 01ba #
+*Hold me, too!
+
+# 01bb #
+*Hold me!
+
+# 01bc #
+*Please bring back
+ our Mom and Dad.
+ Please, I beg you.
+
+# 01bd #
+*Oh, yes.  My name
+ is Tom Garrickson.
+\b*I like to
+ introduce myself.
+ It's my hobby.
+
+# 01be #
+*Mom told me this
+ baby has mystic
+ power.
+
+# 01bf #
+System Error!!!
+
+# 01c0 #
+*Goo gaa...
+
+# 01c1 #
+*Yes, even though
+ my body is that of
+ a baby,
+\b*like you, I
+ possess psychic
+ abilities.
+\b*I know the power
+ of Teleportation.
+\b*Use this power to
+ return to a place
+ you've been to.
+\b*(The baby taught
+ them his power of
+ Teleportation)
+
+# 01c2 #
+System Error!!!
+
+# 01c3 #
+System Error!!!
+
+# 01c4 #
+System Error!!!
+
+# 01c5 #
+System Error!!!
+
+# 01c6 #
+*I heard my Dad's
+ voice coming from
+ the mountains.
+\b*But the mountains
+ are beyond the
+ town of Ellay.
+\b*It's so far away
+ I can't make that
+ journey.
+
+# 01c7 #
+*Wait a minute...
+ You can't carry it,
+ so you can't have it.
+
+# 01c8 #
+*Time has passed,
+ you are more
+ experienced and
+\b*hopefully a little
+ wiser, but you are
+ still just a kid.
+
+# 01c9 #
+*You must watch out
+ around here.
+ Hee....
+
+# 01ca #
+*The B.B. Gang
+ members are really
+ terrible...
+
+# 01cb #
+*We call Bla-Bla
+ Gang members, B.B.
+ Gangs for short.
+
+# 01cc #
+*Hey you! You are
+ not a Bla-Bla, are
+ you?
+
+# 01cd #
+*The black clouds
+ that hang over
+ the mountains...
+\b*They're making
+ all the towns-
+ people crazy.
+
+# 01ce #
+*Hey, you two there.
+ Sweethearts, huh!?
+
+# 01cf #
+*Love and peace,
+ yeah!
+
+# 01d0 #
+*Love burns deep in
+ your heart, right?
+
+# 01d1 #
+*I've got a Ticket
+ to the Live-Show.
+\b*You know the Store
+ is all sold out.
+\b*But I could part
+ with this one for
+ only ${PRICE}?
+
+# 01d2 #
+*Here it is! No,
+ don't go to the
+ Store now.
+
+# 01d3 #
+*Stingy kids...
+
+# 01d4 #
+*It's a secret...
+ Promise not to say
+ that I told you?
+
+# 01d5 #
+*The Bla-Bla Boss,
+ {Teddy}'s real name
+ is...
+\b {Teddy} Junior, the
+ 3rd.
+ Ha.
+\b*But, it's only a
+ rumor, though.
+
+# 01d6 #
+*You'll be the one
+ who regrets it for
+ sure.
+
+# 01d7 #
+*Don't peek in the
+ back room. You'll
+ catch it for sure.
+
+# 01d8 #
+System Error!!!
+
+# 01d9 #
+*Wow, you're so
+ cute. Can I buy
+ you a drink?
+
+# 01da #
+*You afraid of the
+ cops?
+ Come on!
+
+# 01db #
+*No more drinks on my
+ bill.
+
+# 01dc #
+*Now you know you
+ did a bad thing?
+
+# 01dd #
+*If you promise you
+ won't do it again,
+ you can go home.
+\b*You leave that
+ dangerous weapon
+ here though.
+
+# 01de #
+*Sorry, you must
+ stay another night
+ and cool your jets.
+
+# 01df #
+*Hee hee hee...
+ I finally got a
+ {Item}!
+\b*Wanna buy it for
+ only ${PRICE}?
+
+# 01e0 #
+*Not enough money.
+ Boo hoo hoo.
+ Ha, ha, ha...
+
+# 01e1 #
+*{Teddy}'s parents
+ were killed by
+ mountain creatures.
+\b*Before that, he
+ was a gentle kid.
+
+# 01e2 #
+*I wish {Teddy}
+ would go back to
+ the way he was.
+
+# 01e3 #
+*You want to sing
+ too?
+
+# 01e4 #
+*Then go ahead
+ and jam, dudes!
+
+# 01e5 #
+*You're shy!
+
+# 01e6 #
+System Error!!!
+
+# 01e7 #
+*{Ana} girl!!
+ Well, I saw your
+ name on your hat.
+
+# 01e8 #
+*The girl was so
+ cute.
+
+# 01e9 #
+*Thank you for
+ your nice song.
+\b*By the way, you
+ guys beat up on my
+ friends.
+
+# 01ea #
+*I'll smash you!
+
+# 01eb #
+*I know you did it!
+
+# 01ec #
+*Aha ha ha... 
+ You are quite a
+ guy.
+\b*Your name is
+ {Ninten}?
+\b*Let's call it a
+ draw then...
+ Umm...
+\b*I seek vengeance
+ for my parents. To
+ the mountains!!
+
+# 01ed #
+System Error!!!
+
+# 01ee #
+*{Ninten}, please
+ accept my help.
+
+# 01ef #
+*{Leader} USEd the
+ Telephone Card.
+
+# 01f0 #
+*I'm sure we'll
+ make a good team.
+ Let's get going!
+
+# 01f1 #
+System Error!!!
+
+# 01f2 #
+System Error!!!
+
+# 01f3 #
+*Please...
+ I'll be a great
+ help to you.
+
+# 01f4 #
+*Hello...
+ It's Dad.
+\b*I really don't
+ want to butt in
+ now, but...
+\b*What are you
+ waiting for!??
+\b*Push the 'A'
+ button at once!
+
+# 01f5 #
+*You there,
+ the one with the
+ glasses...
+\b*You're not so good
+ at fighting, are
+ you?
+\b*Rest here while I
+ borrow your Goods.
+ OK?
+
+# 01f6 #
+System Error!!!
+
+# 01f7 #
+*Brute strength is
+ not enough to beat
+ them.
+\b*I know now that
+ peace can be
+ brought back to us.
+\b*I believe.
+
+# 01f8 #
+*({Teddy})
+ Why are you two
+ blushing?
+\b*Let's hurry up
+ and get out of
+ here!
+
+# 01f9 #
+*This is my dressing
+ room, please get
+ out!!
+
+# 01fa #
+*I am {Lloyd}'s
+ father.
+\b*I think {Ninten}'s
+ Dad asked,
+\b*but you told him
+ your name?
+
+# 01fb #
+*OK, that's fine.
+\b*Please look after
+ {Lloyd}. He is a
+ real weakling...
+
+# 01fc #
+*Let me register
+ your name once
+ more.
+
+# 01fd #
+*To the Harbor
+ before Mt. Itoi.
+\b*I mean it.
+
+# 01fe #
+*Have you ever
+ tasted Strawberry
+ Tofu?
+
+# 01ff #
+*If you find some,
+ buy some for me,
+ please.
+\b*I'll trade
+ something nice
+ in return.
+
+# 0200 #
+*No way to buy
+ things like that
+ in this place.
+
+# 0201 #
+*Oh!  This is
+ Strawberry Tofu!
+ Thank you!
+\b*Here's something
+ nice for you in
+ return.
+
+# 0202 #
+System Error!!!
+
+# 0203 #
+System Error!!!
+
+# 0204 #
+*You ever get hurt,
+ come to my place.
+\b*I have food,
+ medicine, and a
+ bed you can use.
+
+# 0205 #
+System Error!!!
+
+# 0206 #
+*Hey! {Lloyd}!...
+\b*Now is the time
+ you must fight
+ for yourself.
+
+# 0207 #
+*Come on, children,
+ what do you need?
+
+# 0208 #
+*MY NAME IS EVE.
+\b I HAVE BEEN
+\b WAITING FOR YOU.
+\b*MY CREATOR WAS
+\b GEORGE...
+\b*HE WAS TAKEN TO
+\b THE END OF THE
+\b UNIVERSE...
+\b*THEN BROUGHT BACK
+\b LATER.
+\b*I AM HERE TO
+\b PROTECT YOU.
+\b*THAT IS MY PURPOSE.
+
+# 0209 #
+System Error!!!
+
+# 020a #
+System Error!!!
+
+# 020b #
+System Error!!!
+
+# 020c #
+System Error!!!
+
+# 020d #
+*Those bags must
+ weigh heavy on
+ your shoulders.
+
+# 020e #
+*{Ninten}! {Ninten}!..
+\b*You seem to be worn
+ out from fighting.
+ One more time?
+
+# 020f #
+*With his strength
+ regained...
+\b*{Ninten} returned
+ once more to the
+ fighting scene.
+\b*Do your best,
+ {Ninten}!
+
+# 0210 #
+*{Ninten} realized
+ that it had only
+ been a bad dream.
+\b*Do your best,
+ {Ninten}!
+
+# 0211 #
+*To whom?
+
+# 0212 #
+*Your load is too
+ heavy. Hand it to
+ someone else?
+
+# 0213 #
+*Please come again
+ to pick up the
+ rest of the Goods.
+
+# 0214 #
+*Are you {Ninten}'s
+ friend?
+\b*I see...
+ But I can't give
+ you {Ninten}'s Goods.
+
+# 0215 #
+*Did that weakling
+ {Lloyd} run away
+ from you?
+
+# 0216 #
+*  Welcome to
+     Podunk
+
+# 0217 #
+*     City Zoo
+  Superintendent's
+       Office
+
+# 0218 #
+*    Ocean View
+  Tourists Welcome
+
+# 0219 #
+*There is no one
+ here by that
+ description, but...
+
+# 021a #
+*When placed in the
+ fountain,
+\b*the Red Weed became
+ Magic Herb.
+
+# 021b #
+*Where do you think
+ you can find such
+ a man!
+
+# 021c #
+*This is {Item},
+ right? Thank you.
+ It's a big help.
+
+# 021d #
+*Now entering the
+ Mislay Triangle.
+ Watch out!
+
+# 021e #
+*Someone lost his
+ Dentures right
+ under the sign!
+
+# 021f #
+*I see...
+ You don't feel so
+ well. Wait...
+
+# 0220 #
+*Please come to
+ my lab.
+
+# 0221 #
+System Error!!!
+
+# 0222 #
+*The phenomenon has
+ stopped.
+ For the moment...
+
+# 0223 #
+*Here, let me show
+ you how. Just take
+ this switch and...
+\b*Oh no!
+ I pushed it by
+ mistake!
+
+# 0224 #
+*I'll cook
+ {Food}.
+\b*Eat your dinner,
+ and rest for the
+ night.
+
+# 0225 #
+System Error!!!
+
+# 0226 #
+System Error!!!
+
+# 0227 #
+System Error!!!
+
+# 0228 #
+*Oh, what can I do?
+ What should I do?
+\b*Where can I go?
+ Who can I see?
+\b*What should I do?
+ What should I do?
+\b*My little Pippi is
+ gone.
+\b*If you're going to
+ Podunk...
+\b*Please tell the
+ Mayor.
+\b*Oh me, oh my!
+
+# 0229 #
+*Which one?
+
+# 022a #
+*I'll give you
+ ${PRICE} for
+ {Item}.
+\b*Is that alright?
+
+# 022b #
+*Finding the entry
+ in Great-Grand
+ Father's Diary,
+\b*{Leader} read out
+ loud...
+\b*The forgotten one
+ of the ship that
+ sails the cosmos.
+
+# 022c #
+System Error!!!
+
+# 022d #
+System Error!!!
+
+# 022e #
+*I know you're
+ lying. I can see
+ right through you.
+
+# 022f #
+*(A dull roar begins
+ to rise from the
+ crowd)
+\b*We paid to see a
+ trio!
+ There aren't three
+\b*performers here!
+ Grumble grumble...
+
+# 0230 #
+*Which one would
+ you like me to
+ keep?
+
+# 0231 #
+System Error!!!
+
+# 0232 #
+*The Dragon was in
+ a deep, deep,
+ sleep.
+
+# 0233 #
+System Error!!!
+
+# 0234 #
+*What can I do
+ for you?
+
+# 0235 #
+System Error!!!
+
+# 0236 #
+*Yes, I will keep
+ {Item} with
+ utmost care.
+\b*Anything else you
+ want me to keep?
+
+# 0237 #
+*See you later, and
+ brother...
+ You take care!
+
+# 0238 #
+*You want to take
+ {Item}?
+\b*OK! Anything else
+ you'd like to take
+ with you?
+
+# 0239 #
+*There was a rock-
+ slide near Union
+ Station.
+\b*The train can't get
+ through until it
+ has been removed.
+
+# 023a #
+*You mean
+ {Item}?
+
+# 023b #
+*I am afraid you
+ can't carry
+ anything more.
+
+# 023c #
+System Error!!!
+
+# 023d #
+*Oh?  You don't
+ seem to have
+ enough money.
+
+# 023e #
+*Oh?  You seem to
+ have too much to
+ carry.
+
+# 023f #
+*You don't have
+ enough money. Come
+ back when you do.
+
+# 0240 #
+*Good bye!
+ Be careful.
+
+# 0241 #
+System Error!!!
+
+# 0242 #
+*You can't carry
+ anything more. 
+ See you later...
+
+# 0243 #
+*Here is your
+ medicine.
+
+# 0244 #
+*Hope you sleep
+ well.
+
+# 0245 #
+System Error!!!
+
+# 0246 #
+*How much would you
+ like to withdraw?
+
+# 0247 #
+*How much would you
+ like to deposit?
+
+# 0248 #
+*Now, let's go back
+ to town.
+
+# 0249 #
+*Sorry, but I am
+ afraid you can't
+ carry all of them.
+
+# 024a #
+*You can't carry it?
+ What a shame!
+
+# 024b #
+*If you can't carry
+ it, come back some
+ other time.
+
+# 024c #
+System Error!!!
+
+# 024d #
+*Which flightplan
+ would you like?
+
+# 024e #
+System Error!!!
+
+# 024f #
+System Error!!!
+
+# 0250 #
+*I can't talk very
+ well without my
+ Dentures.
+
+# 0251 #
+*No, that's not
+ quite enough.
+
+# 0252 #
+System Error!!!
+
+# 0253 #
+System Error!!!
+
+# 0254 #
+System Error!!!
+
+# 0255 #
+System Error!!!
+
+# 0256 #
+System Error!!!
+
+# 0257 #
+System Error!!!
+
+# 0258 #
+*Having a tough
+ time?
+ I'm so worried.
+
+# 0259 #
+*Good luck!
+
+# 025a #
+*Who's the boss?
+ I'll teach him
+ a lesson!
+
+# 025b #
+*The Bla-Bla Gang
+ members are doing
+ just fine.
+
+# 025c #
+System Error!!!
+
+# 025d #
+*Don't try to make
+ me mad.
+
+# 025e #
+*{Leader} picked up
+ the Pass.
+
+# 025f #
+*Hmm...
+ You don't have
+ enough money.
+
+# 0260 #
+*Let's see... 
+ It seems that your
+ load is too heavy.
+
+# 0261 #
+*I am Able, the 
+ Doctor's assistant.
+\b*I too would like
+ to taste
+ Strawberry Tofu.
+
+# 0262 #
+*Thank you, It
+ looks so good!
+\b*I'll share some
+ important
+ information.
+\b*Near the summit of
+ Mount Itoi...
+\b*Deep in the lake,
+ there lies a
+ fantastic robot.
+\b*I think it still
+ works.
+
+# 0263 #
+*I look just like
+ Able, but I am
+ Baker.
+\b*I also want to try
+ Strawberry Tofu.
+
+# 0264 #
+*Oh! I'm so happy.
+ Take these Swear
+ Words with you.
+
+# 0265 #
+  LifeUp   Sleep
+# 0266 #
+*Load is too heavy?
+ Remember to come
+ back and get it.
+
+# 0267 #
+*You came to get
+ the Big Bag?
+ My gift to you.
+
+# 0268 #
+*I give you the
+ Big Bag.
+ A gift for you.
+
+# 0269 #
+*It's not that big
+ of a problem.
+\b*My wife is a
+ bigger problem.
+\b*She doesn't get
+ out of bed
+\b*until after noon
+ each day.
+\b*She won't even
+ pack me a brown
+ bag lunch!
+\b*Isn't that just
+ horrible.
+
+# 026a #
+*Oh! no!
+ {Ana} has fainted!
+
+# 026b #
+*Thank you for being
+ so nice. 
+ My gratitude...
+\b*I'll be wagering on
+ your success.
+
+# 026c #
+*I am Laura.
+
+# 026d #
+System Error!!!
+
+# 026e #
+System Error!!!
+
+# 026f #
+System Error!!!
+
+# 0270 #
+*What a surprise!
+ Our hero {Ninten}
+ returning alone!
+\b*Won't you stop and
+ rest for a while?
+
+# 0271 #
+*Little girl! This
+ is no place for a
+ child like you.
+
+# 0272 #
+System Error!!!
+
+# 0273 #
+*Hello, {Leader}!
+ How are you doing?
+
+# 0274 #
+*Good morning!
+ Did you have a
+ good night's rest?
+
+# 0275 #
+*Please come again.
+ Promise me you'll
+ come again!
+
+# 0276 #
+*Good morning!
+
+# 0277 #
+*Most monkeys here
+ will lie to you.
+ Beware!
+
+# 0278 #
+*Huh what?
+ Do I look like a
+ monkey?
+
+# 0279 #
+*...I'm really a
+ raccoon pretending
+ to be a monkey.
+
+# 027a #
+*You have good
+ eyesight.
+ Hats off to you...
+
+# 027b #
+*Cool down dude...
+ Are you so serious
+ all the time?
+
+# 027c #
+*Well man...
+ It's like you don't
+ know when to quit.
+\b*Take a rest bud...
+
+# 027d #
+*Good to hear it.
+ It's just a game!
+
+# 027e #
+*You caught up with
+ me. I'll admit
+ that's something.
+\b*Here I'll give you
+ something nice.
+
+# 027f #
+*Turn right, then
+ left, to find
+ something nice.
+
+# 0280 #
+*It's so quiet here,
+ but too quiet for
+ me, I think.
+
+# 0281 #
+*Just walk straight!
+ Find truth at the
+ end of the path.
+
+# 0282 #
+*I am a lady...
+ Don't talk to me
+ so casually.
+
+# 0283 #
+*The truth is...
+ I am a man.
+
+# 0284 #
+System Error!!!
+
+# 0285 #
+*La la la, la la ...
+ Never mind, this
+ song is not yours.
+
+# 0286 #
+*How long did it
+ take you to get
+ here?
+
+# 0287 #
+*I've got a good
+ story to tell you.
+ Want to hear it?
+
+# 0288 #
+*Well...
+ You should be nice
+ to friends.
+\b*That's all I've got
+ to say.
+
+# 0289 #
+*Have you no
+ intellectual
+ ambitions?
+
+# 028a #
+*Don't go any
+ farther inside!
+
+# 028b #
+*I don't trust
+ these monkeys. 
+ They're all liars.
+\b*By the way, go
+ right, left, left
+ and right.
+
+# 028c #
+*Retreat!
+ And if you don't
+ want to...
+\b*Go back!
+\b*Oh, never mind.
+ Go forward!
+
+# 028d #
+*In the town by the
+ sea, you'll meet a
+ new friend.
+
+# 028e #
+*I am a quiet
+ monkey.
+\b*I don't talk much.
+\b*you see...
+\b*............
+
+# 028f #
+*Oh {Ana} baby,
+ Hubba hubba,
+ what a dish.
+
+# 0290 #
+*Don't believe that
+ all monkeys are
+ liars.
+\b*That's nothing but
+ a lie.
+
+# 0291 #
+*I'm the boss
+ monkey.
+\b*I'm really annoyed
+ that the others
+ tell so many lies.
+\b*Go straight ahead,
+ You'll find an
+ exit to your right.
+
+# 0292 #
+*A big mistake...
+ I really shouldn't
+ have come here.
+
+# 0293 #
+*Help me!
+
+# 0294 #
+*Telephone!
+ {Ninten}, please get
+ it!
+
+# 0295 #
+*I am Abbott, not
+ the Town Mayor,
+ but his assistant.
+\b*Mr. Mayor is over
+ there.
+
+# 0296 #
+*I'll share the
+ secret with you
+ later.
+
+# 0297 #
+*You come to stay
+ the night again?
+
+# 0298 #
+*Oh, traveller!
+
+# 0299 #
+*The ghost house is
+ not a place for
+ slaying monsters.
+\b*There is a...
+ melody, hee-hee,
+ a haunting melody.
+\b*Hee-hee-hee.
+
+# 029a #
+System Error!!!
+
+# 029b #
+*I believe that
+ {Ana} may still
+ be found somewhere.
+
+# 029c #
+*You're under age.
+ I have to take you
+ in to headquarters.
+
+# 029d #
+System Error!!!
+
+# 029e #
+System Error!!!
+
+# 029f #
+*I heard you
+ stepped on the
+ landmine.
+\b*I stepped in dog
+ crap once myself.
+\b*Tell you some-
+ thing else kid...
+\b*I didn't like it
+ very much either!
+
+# 02a0 #
+*I heard that you
+ stepped in dog
+ crap in Yucca?
+\b*That wasn't very
+ cool buddy.
+
+# 02a1 #
+*"Certificate"
+\b*{Player}
+\b*We acknowledge the
+ fact that you did
+ step on the mine
+\b*in the Yucca
+ Desert.
+\b*Keep this place to
+ yourself, please.
+\b*signed...
+ Shigesato Itoi.
+
+# 02a2 #
+*Had a good sleep?
+ Have a nice trip!
+
+# 02a3 #
+*Oh! not visiting a
+ patient?
+\b*If you are the
+ patient, please go
+ to the back room.
+
+# 02a4 #
+*Sorry, no patient
+ here by that name.
+
+# 02a5 #
+*This year's flu is
+ go bad. I lost so
+ much weight.
+
+# 02a6 #
+*I don't have a
+ cold.
+ Cough, cough, hack.
+\b*I'm just talking
+ to myself.
+ Cough, hack hack.
+
+# 02a7 #
+*Whenever you get
+ tired, just drop
+ by our Inn.
+
+# 02a8 #
+*Hi {Leader}, I'll
+ catch you later,
+\b*I'm a little busy
+ right now.
+
+# 02a9 #
+*A restaurant, rant,
+ rant, rant...
+ Happy restaurant,
+\b*rant, rant, rant...
+ Are you happy?
+
+# 02aa #
+*All restaurant
+ owners love
+ musicals!
+
+# 02ab #
+*I think {Food}
+ is delicious, too.
+
+# 02ac #
+*The Hotel in this
+ town isn't any 
+ better than the
+\b*one in Podunk,
+ and yet it
+ is so expensive...
+
+# 02ad #
+*The room rate at
+ this Hotel is so
+ inexpensive...
+\b*And that's not
+ where it stops
+ being cheap either.
+
+# 02ae #
+*Big rocks block
+ the railroad. The
+ train cannot pass.
+
+# 02af #
+*You can converse
+ with animals.
+\b*Tell you a secret.
+ Why don't you
+ CHECK me out?
+\b*Bow wow!
+
+# 02b0 #
+*You don't have
+ enough money.
+ Sorry, come again.
+
+# 02b1 #
+*Can I help you?
+ Please use this
+ menu.
+
+# 02b2 #
+*Thank you very much.
+ One {Item}
+ to go, please!
+
+# 02b3 #
+System Error!!!
+
+# 02b4 #
+System Error!!!
+
+# 02b5 #
+*He may not come
+ again...
+
+# 02b6 #
+*Hope you enjoy
+ yourself here.
+
+# 02b7 #
+*Hey, waiter...
+ I'm still waiting
+ for some service.
+
+# 02b8 #
+*I want to try
+ {Food}.
+
+# 02b9 #
+System Error!!!
+
+# 02ba #
+System Error!!!
+
+# 02bb #
+*I'd like to stop
+ the zombies evil
+ ways, but...
+\b*They do not listen
+ to me, or won't
+ even talk to me...
+\b*Now I am too
+ scared to leave
+ this place.
+
+# 02bc #
+*It's me Pippi!
+ We meet once more
+ {Leader}!
+\b*Don't say anything,
+ but I didn't tell
+ my Mom I came here.
+
+# 02bd #
+*My!
+ You are that
+ snot-nosed {Leader}
+\b*who sat next
+ to me in
+ kindergarten!
+
+# 02be #
+*It's cash, then
+ carry 'round here
+ boy...
+\b*It's not that I
+ don't trust you,
+ but...
+
+# 02bf #
+*You seem to have
+ quite an appetite.
+
+# 02c0 #
+System Error!!!
+
+# 02c1 #
+*The trains have
+ stopped. The
+ track was ruined.
+\b*It's the end of
+ the world, and you
+ just ask questions.
+\b*Stop asking so
+ many questions or
+ I'll start to cry.
+
+# 02c2 #
+*Don't stop...
+ Keep on walking!
+
+# 02c3 #
+*You look like you've
+ been through a lot.
+\b*Take your time,
+ think about
+ what you've done.
+
+# 02c4 #
+*I've heard about
+ your wonderful
+ adventures.
+\b*You are so brave,
+ aren't you?
+
+# 02c5 #
+*The Canary Village
+ is northwest from
+ here.
+\b*It's a nice place
+ to visit and
+ admission is free!
+
+# 02c6 #
+*The receptionist at
+ City Hall is so
+ gorgeous.
+
+# 02c7 #
+*Hey {Ninten}, how's
+ your asthma?
+\b*Mine has gotten
+ better,
+\b*but car exhausts
+ still sets it off.
+
+# 02c8 #
+*I told my kid to
+ study, then play
+ Nintendo games.
+\b*Those are the
+ rules around my
+ house!
+
+# 02c9 #
+*You look so happy
+ all of the time!
+
+# 02ca #
+*Duncan Enterprises
+ plans to build a
+ strip-joint here.
+\b*No one in town
+ likes the idea of
+ that at all!
+
+# 02cb #
+*I'd like to be a
+ doctor, and help
+ sick people...
+\b*and make lots of
+ money doing it.
+
+# 02cc #
+*Really? This is
+ a respectable
+ survey...
+
+# 02cd #
+*Get to school!
+ You are a school
+ boy, aren't you?
+
+# 02ce #
+*How can we get the
+ big rocks off the
+ railroad tracks?
+\b*I'll bet the Mayor
+ leaves them there
+ 'til election time.
+
+# 02cf #
+*I've heard that in
+ Duncan's
+ Factory up north,
+\b*they've started
+ building huge
+ rockets.
+
+# 02d0 #
+*Don't take me for
+ an ordinary man.
+\b*Although I am an
+ ordinary man.
+
+# 02d1 #
+*I think...
+ I think...
+\b*The rockslide on
+ the railroad
+ tracks...
+\b*Could be blown up
+ with a Duncan
+ Factory Rocket.
+
+# 02d2 #
+*My husband is an
+ important man at
+ Twinkle School.
+\b*He never eats
+ lunch.
+
+# 02d3 #
+*Have you been to
+ Sweet's Little
+ Factory?
+
+# 02d4 #
+*I've heard many
+ scary monsters
+ lurk outside town.
+\b*I'm so afraid that
+ they'll take my
+ money away.
+
+# 02d5 #
+*Laa, la laaa....
+ Dandelion seeds fly
+ up to the sky,
+ laa, la laaa...
+\b*I love music
+ most of all.
+
+# 02d6 #
+*The janitor has
+ the key to the
+ roof.
+\b*But he wouldn't
+ give it to me.
+
+# 02d7 #
+*The old man on
+ the mountain is so
+ generous...
+\b*He'll give you
+ as much as you can
+ possibly carry.
+
+# 02d8 #
+*I remember walking
+ through the tunnel
+ when I was young.
+\b*I went to see what
+ was on the other
+ side.
+
+# 02d9 #
+*This is a
+ residential area,
+ please keep quiet.
+
+# 02da #
+*Have you ever
+ thrown food out
+ into the field?
+\b*Well, it's a game,
+ but it is pretty
+ wasteful.
+
+# 02db #
+*Gasp!! You
+ startled me.
+\b*For college credit
+ I study indoor
+ architecture.
+\b*That's the whole
+ truth, and nothing
+ but the truth!!
+
+# 02dc #
+*I wish that I had
+ a bicycle.
+
+# 02dd #
+*You thought I was
+ going to beg for
+ food, didn't you?
+\b*I wouldn't do that,
+ even though I am
+ ever so hungry.
+
+# 02de #
+*I love life in the
+ city!
+\b*I look so great in
+ cute dresses!
+
+# 02df #
+*I don't believe in
+ Psychic Powers.
+
+# 02e0 #
+*I am a man whose
+ existence does not
+ matter.
+\b*My importance is
+ so small,
+\b*that I may not
+ be missed should
+ I disappear.
+
+# 02e1 #
+*I love this town!
+ I wouldn't be
+ caught dead in
+\b*Spookane! Ha ha!
+
+# 02e2 #
+*Would you like to
+ make a donation to
+ my charitable fund?
+
+# 02e3 #
+*The store will buy
+ good medicine for
+ good money.
+
+# 02e4 #
+*I'm the jolly
+ postman,
+ laa laaa, la la.
+\b*Have you heard
+ the Rosemarys
+ new address?
+\b*La la la laaa.
+
+# 02e5 #
+*Tell the postman
+ who seeks the
+ forwarding address,
+\b*that the
+ Rosemarys have
+ moved far away.
+\b*La la la laaa.
+
+# 02e6 #
+*I don't like the
+ little Rosemary
+ girl!
+
+# 02e7 #
+*The streets are
+ filled with
+ monsters,
+\b*the people have
+ run away.
+
+# 02e8 #
+*What do you want?
+
+# 02e9 #
+*I am a clairvoyant
+ still in training.
+\b*However this much I
+ can see...
+\b*You shall return
+ again to Union
+ Station.
+\b*Although I'm not
+ completely sure.
+
+# 02ea #
+*{Ana}'s house is
+ a chateau, not a
+ mansion.
+\b*But, I'll bet you
+ already knew that.
+
+# 02eb #
+*There is a chateau
+ in the mountains
+ to the east.
+\b*Cough cough
+ cough cough...
+
+# 02ec #
+*You kids are crazy.
+ Running around with
+ just T-shirts on.
+\b*Cough cough
+ cough cough...
+
+# 02ed #
+*Please say hello to
+ the camel's bones in
+ Yucca Desert.
+\b*I knew that camel
+ once upon a time.
+
+# 02ee #
+*Small wounds can
+ be treated here,
+\b*but real sickness
+ must be treated in
+ the hospital.
+
+# 02ef #
+*I think {Lloyd}
+ will grow up and
+ be a computer
+ engineer.
+
+# 02f0 #
+*Keep quiet in the
+ library!
+\b*Ahh--choo!!
+
+# 02f1 #
+*You think I'm the
+ world's greatest
+ fisherman?
+\b*Well, not quite
+ that great. But,
+ if you've a moment,
+\b*let me tell you
+ some of my fishing
+ stories.
+
+# 02f2 #
+*You're in the way,
+ kid!
+
+# 02f3 #
+*Hey!
+
+# 02f4 #
+*I may have low HP,
+ but I'm gonna do
+ my best!
+
+# 02f5 #
+*If I fight with
+ you....
+\b*I will surely be a
+ loser.
+
+# 02f6 #
+*I am a strong man.
+ That's what I say.
+ I insist this.
+
+# 02f7 #
+*You are no match
+ for {Teddy}.
+\b*He could beat you up
+ with his pinkie.
+
+# 02f8 #
+*Did you read
+ the sign?
+
+# 02f9 #
+*While walking in
+ the desert, I saw a
+ cactus with a face,
+\b*then I ran for the
+ hills screaming as
+ loud as I could.
+
+# 02fa #
+*When you talk to
+ a fisherman, you
+ can never get away.
+
+# 02fb #
+*Any first grader
+ can do a cartwheel,
+\b*don't you think?
+
+# 02fc #
+*The telescopes?
+\b*Take this elevator
+ to the top of Look-
+ Out Tower.
+
+# 02fd #
+*I once saw smoke
+ rising from one of
+ the islands.
+\b*I wondered if
+ anybody lived
+ there.
+\b*I should have
+ looked through
+ that telescope.
+
+# 02fe #
+*I can't do a
+ cartwheel.
+
+# 02ff #
+*I still don't know
+ how to carry over
+ in subtraction.
+
+# 0300 #
+*I heard Strawberry
+ Tofu is popular
+ in big cities.
+\b*I'd like to taste
+ some.
+
+# 0301 #
+*I am hungry.
+ Let's do lunch.
+
+# 0302 #
+*Don't take me for
+ an ordinary man.
+\b*Those are Dad's
+ favorite words.
+
+# 0303 #
+*You are late,
+ aren't you!?
+
+# 0304 #
+*Did you see a
+ strange man
+ in the lab?
+\b*Well...
+ I saw him.
+
+# 0305 #
+*Have you played
+ Super Mario Bros.7?
+\b*I'm still playing
+ Super Mario Bros.3.
+\b*It's been quite
+ a challenge for me.
+
+# 0306 #
+*Welcome!
+ What can I sell
+ you?
+
+# 0307 #
+*Sorry, that item is
+ out of stock.
+
+# 0308 #
+*Don't need that,
+ do you? Come see
+ us when you do.
+
+# 0309 #
+*Thank you very
+ much. Please
+ visit us again.
+
+# 030a #
+*Are you sure you
+ don't need that?
+ Well, come again.
+
+# 030b #
+*{Chara 2}, glad to
+ see you are fine
+ now. See us again!
+
+# 030c #
+*You would leave
+ your best friend
+ on their deathbed?
+
+# 030d #
+*Well well, I'll
+ treat each of you
+ for {PRICE} each.
+
+# 030e #
+*You really don't
+ need treatment?
+ Oh, well...
+
+# 030f #
+*I see everything
+ with you is fine.
+
+# 0310 #
+*Well,
+ you are fine
+ once again.
+
+# 0311 #
+System Error!!!
+
+# 0312 #
+*Believe it or not,
+ I am a Healer.
+ What do you want?
+
+# 0313 #
+*OK, do what you
+ want to.
+
+# 0314 #
+*Give me ${PRICE}
+ for that.
+
+# 0315 #
+*Welcome!
+ ${PRICE} for a night.
+ Care to stay?
+
+# 0316 #
+*Sorry to hear that.
+ Please visit us
+ again.
+
+# 0317 #
+*Sleep tight...
+ and don't let the
+ bed bugs bite.
+
+# 0318 #
+*Good morning!
+ Please come back
+ and see us again.
+
+# 0319 #
+*They just brought
+ {Chara 2} here,
+ still unconscious.
+\b*Medical treatment
+ for those injuries
+ totals ${PRICE}.
+
+# 031a #
+*Who are you here
+ to visit?
+
+# 031b #
+System Error!!!
+
+# 031c #
+*Well, Dad isn't
+ home and I don't
+ care about money.
+\b*So if you need a
+ place to stay,
+\b*feel free to stay
+ here tonight.
+
+# 031d #
+*Good morning!
+ Please come back
+ again someday.
+\b*If you do, I may
+ not get quite so
+ lonely here.
+
+# 031e #
+*Why aren't you
+ going to spend
+ the night here?
+\b*Dad may not be
+ home, but it's
+ alright, trust me.
+
+# 031f #
+*Tickets please,
+ you must have a
+ Ticket to get in.
+
+# 0320 #
+*However...
+ Nothing was there.
+
+# 0321 #
+System Error!!!
+
+# 0322 #
+  Leave    Take out
+# 0323 #
+*You have nothing.
+
+# 0324 #
+*You haven't left
+ anything with me.
+
+# 0325 #
+*Just a moment...
+\b*The closet is full.
+ I can't keep any
+ more for you now.
+
+# 0326 #
+*Can I help you?
+
+# 0327 #
+*Your balance is
+ insufficient.
+
+# 0328 #
+System Error!!!
+
+# 0329 #
+*There isn't
+ enough money.
+
+# 032a #
+*I'm sorry,
+\b*the transaction you
+ have requested
+ exceeds your limit.
+
+# 032b #
+*Thank you very
+ much.
+
+# 032c #
+*Inside the doll,
+ {Leader} spotted an
+ old music box.
+\b*As the music box
+ was wound up...
+\b*A melody began to
+ play.
+
+# 032d #
+*?
+
+# 032e #
+*Thank you.
+
+# 032f #
+*I have a fantastic
+ source for weapons.
+\b*Check back again
+ with me later...
+\b*I just may get a
+ really awesome
+ weapon or two.
+
+# 0330 #
+System Error!!!
+
+# 0331 #
+*{Leader} won the
+ battle.
+
+# 0332 #
+  Withdraw Deposit
+# 0333 #
+*Your account shows
+ a balance of
+ ${Balance}.
+
+# 0334 #
+*The door is locked.
+
+# 0335 #
+*That Key does not
+ fit this lock.
+
+# 0336 #
+*{Leader} unlocked
+ the door and went
+ inside.
+
+# 0337 #
+  Yes      No
+# 0338 #
+  Continue Rest
+# 0339 #
+*{Leader} grabbed the
+ telephone.
+
+# 033a #
+*I'm sorry, but you
+ just don't have
+ enough money.
+
+# 033b #
+*Oh no sir, you
+ do not have that
+ much money.
+
+# 033c #
+*Sir, you can't
+ carry more than
+ what you now have.
+\b*At least, I don't
+ think you should.
+
+# 033d #
+*There you have it!
+ I've fixed it like
+ a true expert.
+
+# 033e #
+*Sorry, but I can't
+ buy {Item} from
+ you.
+
+# 033f #
+*Overjoyed with her
+ reunion, Laura
+ began singing.
+
+# 0340 #
+*{Leader} remembered
+ the tune.
+
+# 0341 #
+*This canary is
+ singing.
+
+# 0342 #
+*The monkey stole
+ the Zoo Key.
+
+# 0343 #
+*The robot appeared
+ old and rusty.
+
+# 0344 #
+*Feeling {Ninten}'s
+ presence, the robot
+ came back to life.
+
+# 0345 #
+*{PRICE} for
+ {Chara 2}.
+
+# 0346 #
+*Do your best.
+
+# 0347 #
+System Error!!!
+
+# 0348 #
+*Your strength has
+ revived by touching
+\b*the fountain's
+ mysterious water.
+
+# 0349 #
+System Error!!!
+
+# 034a #
+*Oh my, little
+ Pippi!  You're
+ back and safe!
+\b*Thank you for
+ finding her,
+ {Ninten}!
+\b*By the way, the
+ Town Mayor is
+ waiting for you...
+\b*Pippi, go with
+ {Ninten}, and help
+ straighten this out.
+
+# 034b #
+*I'm busy, So I
+ can't help you
+ right now.
+\b*You'll have to come
+ back later.
+
+# 034c #
+*Who has been
+ poisoned?
+
+# 034d #
+*Who needs to be
+ softened?
+
+# 034e #
+*You haven't been
+ poisoned!
+
+# 034f #
+*You have not been
+ turned to stone.
+
+# 0350 #
+*They manufacture
+ Bottle Rockets
+ there.
+
+# 0351 #
+*My wife was the 1st
+ Miss Merrysville in
+ history.
+
+# 0352 #
+*OK, I've unlocked
+ the roof. While
+ you're up there...
+\b*Make sure to take
+ in the view. It is
+ unforgettable.
+
+# 0353 #
+*Later we should go
+ to Duncan's
+ Factory...
+\b*I've heard they're
+ constructing an
+ incredible rocket.
+
+# 0354 #
+*They call me names,
+ weakling or four
+ eyes, or worse...
+\b*I'm sure that
+ you've heard them.
+
+# 0355 #
+*In the mean time,
+ dawn breaks over
+ the harbor...
+
+# 0356 #
+*Pardon me young
+ whipper-snappers...
+\b*I didn't really
+ mean to talk all
+ night, but...
+
+# 0357 #
+*You young little...
+ Don't talk to me
+ that way!
+
+# 0358 #
+*This game I heard of
+\b*was titled
+  "EARTH
+   BOUND"...
+\b*don't know exactly
+ why...
+\b*because it really
+ doesn't matter.
+\b*So if you shouldn't
+ judge a book by its
+ cover...
+\b*Don't judge a game
+ by its title.
+
+# 0359 #
+System Error!!!
+
+# 035a #
+*A lady at Reindeer
+ Station has some-
+ thing for you...
+\b*Have you gone there
+ and met her yet?
+
+# 035b #
+*The most important
+ hint to remember
+ though is...
+\b*No matter how much
+ it hurts your ears
+ to do so...
+\b*Listen to the words
+ in the song by
+\b*Magicant's guitar
+ player.
+
+# 035c #
+*When you find some-
+ thing strange,
+\b*be sure to CHECK it
+ out every time.
+
+# 035d #
+*The Singing Monkey
+ sang with passion.
+
+# 035e #
+*The Cactus sang...
+\b*and for whatever
+ reason, it kept on
+ singing.
+
+# 035f #
+*The Piano began to
+ play all by
+ itself...
+
+# 0360 #
+*The Dragon crooned
+ his tune without
+ much hesitation.
+\b*The song went
+ something like
+ this...
+
+# 0361 #
+*Robot Eve was
+ demolished and
+ moved no more.
+\b*Examining the
+ wreckage caused
+ music to start...
+
+# 0362 #
+*One of a kind!
+ See the amazing
+ Singing Monkey!
+
+# 0363 #
+*There's a padlock
+ on the door at the
+ top of the stairs.
+
+# 0364 #
+*I must stay here
+ with the people of
+ Snowman.
+\b*Please take care...
+
+# 0365 #
+*Not enough money.
+
+# 0366 #
+*{Ninten}, please go
+ first. I am so
+ afraid.
+
+# 0367 #
+*The lock was
+ broken. {Leader}
+ opened the door.
+
+# 0368 #
+*Hi! {Teddy}!
+ How are you doin'?
+
+# 0369 #
+*Let {Teddy} come
+ back fast!
+
+# 036a #
+*No, no. I can't
+ keep {Item}
+ with me.
+\b*I must go my own
+ way, whatever you
+ say.
+
+# 036b #
+*{Ninten}'s faithful
+ and loyal servant,
+\b*The brave soldier,
+ Flying Man, rests
+ here in peace.
+
+# 036c #
+*{Ninten}'s strong
+ and powerful ally,
+\b*The brave soldier,
+ Flying Man, rests
+ here in peace.
+
+# 036d #
+*{Ninten}'s
+ benevolent buddy,
+\b*The brave soldier,
+ Flying Man, rests
+ here in peace.
+
+# 036e #
+*To {Ninten}'s great
+ sorrow,
+\b*The brave soldier,
+ Flying Man, rests
+ here in peace.
+
+# 036f #
+*To {Ninten}'s horror
+ and dismay,
+\b*The brave soldier,
+ Flying Man, rests
+ in peace here.
+
+# 0370 #
+*Proclamation by
+ the Town's Mayor
+ says...
+\b*No one may pass
+ until the Zoo case
+ is solved.
+\b*A real one way
+ attitude if you
+ ask me.
+\b*I don't have to
+ like it, just
+ enforce it.
+
+# 0371 #
+*Deep in a cave,
+ there is a strange
+ rock-like thing.
+\b*It's so strange,
+ you definitely
+ should take a look.
+
+# 0372 #
+*I heard that you
+ can communicate
+ with Telepathy.
+\b*Have you heard
+ all of the people
+ talking about you?
+\b*But you probably
+ don't need to
+ 'listen' to them!
+
+# 0373 #
+*Are you going to
+ Snowman?
+
+# 0374 #
+*I found this Hat.
+ I believe it's the
+ property of a girl
+\b*who lives there.
+ Please take it to
+ her.
+
+# 0375 #
+*Well, I had
+ something to ask
+ you.
+
+# 0376 #
+*The good-looking
+ boy sang a quite a
+ unique song.
+\b*{Leader} did not
+ want to remember
+ this strange melody.
+
+# 0377 #
+*Excuse me...
+ could you answer
+ this questionnaire?
+
+# 0378 #
+System Error!!!
+
+# 0379 #
+*Do you think the
+ train tickets are
+ too expensive?
+
+# 037a #
+*Have you USEd
+ the Bullhorn?
+
+# 037b #
+*Thank you for
+ your cooperation.
+ In exchange...
+\b*for your time,
+ this Telephone Card
+ is for you.
+
+# 037c #
+*Excuse me, but
+ could you answer
+ this questionnaire?
+\b*Oh! I'm sorry I've
+ already asked you
+ these questions...
+
+# 037d #
+*Hearing the soulful
+ cry, the Benevolent
+ Old Man showed up.
+
+# 037e #
+*{Leader} pried up
+ the lid. Out from
+ the casket...!!
+
+# 037f #
+*{Leader} looked
+ into the telescope.
+
+# 0380 #
+*The shimmering blue
+ sea stretched
+ toward the horizon.
+
+# 0381 #
+*In the distance,
+ on the island,
+ something sparkled!
+
+# 0382 #
+*Suddenly, from
+ inside of the
+ capsule...
+
+# 0383 #
+*({Ana})
+ Daddy...
+ Good-bye...
+\b*Next time, Mommy
+ will come back
+ with me!
+\b*Believe in us!
+
+# 0384 #
+System Error!!!
+
+# 0385 #
+*Who are you
+ talking to?
+
+# 0386 #
+*What?!?
+
+# 0387 #
+*No problem.
+
+# 0388 #
+*(The voice of Queen
+ Mary speaks)
+\b*I am the
+ consciousness of
+ Maria.
+\b*{Ninten}, use my
+ last power!
+\b*Then, as the voice
+ became a whisper of
+ wind...
+\b*The rock
+ disintegrated.
+\b*Leaving only a
+ pile of very fine
+ sand at their feet.
+
+# 0389 #
+System Error!!!
+
+# 038a #
+System Error!!!
+
+# 038b #
+*Welcome to our shop.
+ We sell weapons.
+
+# 038c #
+System Error!!!
+
+# 038d #
+System Error!!!
+
+# 038e #
+*{Chara 1} USEd
+ {Action}.
+
+# 038f #
+*{Chara 1} can't
+ USE {Action}.
+
+# 0390 #
+*Don't be silly,
+ you can't do that.
+
+# 0391 #
+*{Chara 1} equipped
+ {Action}.
+
+# 0392 #
+*{Chara 1} can't
+ equip {Action}.
+
+# 0393 #
+*{Chara 1} threw
+ away {Action}.
+
+# 0394 #
+*Don't throw
+ away {Action}.
+
+# 0395 #
+*{Chara 1} handed
+ {Action} to
+ {Chara 2}.
+
+# 0396 #
+*Can't hand over
+ {Action}.
+
+# 0397 #
+*{Chara 2} can't
+ carry any more.
+
+# 0398 #
+*Nothing happened.
+
+# 0399 #
+*{Leader} opened
+ the present.
+
+# 039a #
+*There was
+ {Item}.
+
+# 039b #
+*{Leader} got
+ {Item}.
+
+# 039c #
+System Error!!!
+
+# 039d #
+*Can't carry
+ anything else.
+
+# 039e #
+System Error!!!
+
+# 039f #
+System Error!!!
+
+# 03a0 #
+System Error!!!
+
+# 03a1 #
+*It was empty.
+
+# 03a2 #
+*Cure poison.
+ Soften
+
+# 03a3 #
+*     City Zoo
+       NORTH
+\b*      Podunk
+       SOUTH
+
+# 03a4 #
+*No Hunting -
+ Approaching
+\b*The Canary Village
+ Wildlife Refuge
+
+# 03a5 #
+*  City Hall
+     City of Podunk
+
+# 03a6 #
+*  Look-Out Tower
+        WEST
+   Harbor   NORTH
+
+# 03a7 #
+*      Ellay
+        WEST
+\b*    Mount Itoi
+        EAST
+
+# 03a8 #
+*   Healer's House
+        WEST
+   Beyond Bridge...
+\b*     Cemetery
+ Abandon all hope
+ ye who enter!
+
+# 03a9 #
+*      Podunk
+        WEST
+\b*   Merrysville
+        EAST
+
+# 03aa #
+*     City Zoo
+     700 meters
+        WEST
+
+# 03ab #
+*Snowman Chateau
+ Straight Ahead
+
+# 03ac #
+*      Ellay
+        WEST
+\b*      Swamp
+       SOUTH
+
+# 03ad #
+*     Twinkle
+  Elementary School
+       SOUTH
+
+# 03ae #
+*{Ninten}'s house
+
+# 03af #
+*Welcome to
+ Merrysville!
+\b*      Podunk
+        WEST
+\b*  Union  Station
+       NORTH
+
+# 03b0 #
+*  Healer's House
+        WEST
+\b* Reindeer Station
+        EAST
+\b*   Reindeer Town
+        SOUTH
+
+# 03b1 #
+* Spookane Downtown
+        WEST
+\b*Spookane Residental
+        EAST
+
+# 03b2 #
+*   Swamp - EAST
+
+# 03b3 #
+*PRIVATE PROPERTY
+ (signed)-
+ The Rosemarys
+
+# 03b4 #
+*Police Station
+ City of Ellay
+
+# 03b5 #
+*Coming this fall-
+ Duncan's
+ Debutantery
+\b*Financing by,
+ Architectural by,
+ Construction by,
+\b*The Duncan
+ Company Inc.
+
+# 03b6 #
+*I heard that my
+ brother died with
+ honor in combat.
+\b*With all our love,
+ he was buried in
+ our cemetery.
+\b*It is with great
+ pride that I take
+ his place by you.
+
+# 03b7 #
+*I cannot wait to
+ serve you.
+
+# 03b8 #
+*I am the Flying
+ Man. My destiny
+ is to help you.
+
+# 03b9 #
+*The curfew has
+ been lifted.
+\b*Although I can't
+ see why travel was
+ ever restricted.
+
+# 03ba #
+*Old, rusty rocket.
+
+# 03bb #
+*Did you come for
+ your Goods? Here
+ you go.
+
+# 03bc #
+*I've given you all
+ the Goods. Please
+ come again.
+
+# 03bd #
+*I am Minnie.
+
+# 03be #
+  Refresh  Soften
+# 03bf #
+*({Teddy}) I'm
+ sure you two would
+ like to be alone.
+\b*I'll make a few
+ phone calls and
+ wait out here.
+
+# 03c0 #
+*Oh shoot!
+ I missed!
+
+# 03c1 #
+*Oh {Ninten}, I've
+ loved you for such
+ a long time.
+\b*I've loved you
+ since I saw you
+ in my dream.
+
+# 03c2 #
+*({Teddy})
+ Sorry to bother
+ you two...
+\b*but did you hear
+ those loud noises?
+
+# 03c3 #
+*({Teddy})
+ Those noises
+ coming from outside,
+\b*not in here silly.
+
+# 03c4 #
+*The boat motor
+ appears to be
+ broken.
+
+# 03c5 #
+*{Leader} just does
+ not seem to be
+ able to fix it.
+
+# 03c6 #
+*But {Lloyd} fired
+ it right up.
+
+# 03c7 #
+*I'll send this
+ {Item} to
+ {Ninten}'s house.
+\b*Is there anything
+ else you want me
+ to keep?
+
+# 03c8 #
+*Not that I have
+ claustrophobia...
+\b*but I can't stand
+ small, close
+ spaces!
+
+# 03c9 #
+* Sweet's Little
+      Factory
+
+# 03ca #
+*I was kidnapped by
+ the Mother Ship.
+ Please help me!
+
+# 03cb #
+*Are you sure that
+ it is spelled
+ correctly?
+
+# 03cc #
+*The odd sound that
+ drove the animals
+ insane died down.
+\b*The Zoo once more
+ became a safe
+ place.
+
+# 03cd #
+System Error!!!
+
+# 03ce #
+*Be careful, that
+ tank is my most
+ prized possession.
+
+# 03cf #
+*There, on the dog's
+ collar, was the
+ Basement Key.
+
+# 03d0 #
+*Hee Hee Hee...
+ I am the noisy
+ mouse.
+\b*Some buildings
+ you can enter,
+ some you cannot.
+\b*If the door is
+ round, or has a
+ sign, go on inside.
+\b*The rest of the
+ doors will not
+ open for you.
+\b*Bye!
+
+# 03d1 #
+System Error!!!
+
+# 03d2 #
+*Teleportation is a
+ Psychic Power not
+ to be played with.
+
+# 03d3 #
+*I loved him...
+\b*I loved him,
+ as if he was my
+ own child...
+
+# 03d4 #
+*He was always
+ wagging his tail,
+ just like a pup...
+\b*EXCEPT for when I
+ tried to SING him
+ lullabies...
+
+# 03d5 #
+*Ahhh...George!
+ This is your wife,
+ Maria.
+\b*I'm coming to join
+ you, my purpose is
+ complete...
+
+# 03d6 #
+*Please insert your
+ Cash Card.
+
+# 03d7 #
+*Don't carry so much
+ cash with you.
+
+# 03d8 #
+*Is it all right to
+ go back to the
+ data SAVEd earlier?
+
+# 03d9 #
+*You said "Yes",
+ but you don't have
+ it. Ah ha ha ha...
+
+# 03da #
+*{Teddy} seems to be
+ out of breath.
+
+# 03db #
+*You don't have any
+ friends to hand
+ the Goods to.
+
+# 03dc #
+*The {Item} is
+ once more in
+ your possession.
+\b*Is there anything
+ else you'd like
+ to take?
+
+# 03dd #
+*Can't someone else
+ carry that? Your
+ load is too great!
+
+# 03de #
+*The closet is
+ full.
+
+# 03df #
+*After telling the
+ story to {Ninten},
+\b*with a rush of
+ wind, Queen Mary
+ vanished.
+\b*As she disappeared,
+ so did Magicant.
+\b*Magicant was a
+ mirage...
+\b*A mirage born of
+ Maria's
+ consciousness.
+
+# 03e0 #
+*I am the one who
+ has called you.
+\b*{Ninten}, {Ana},
+ {Lloyd}, and
+ {Teddy}!
+\b*All of the brave
+ children.
+\b*Now is the time!
+
+# 03e1 #
+*What are you
+ staring at?
+\b*Here in Magicant
+ it's just like the
+ world outside.
+\b*Just leave me some
+ cash, then with the
+ Goods you can dash.
+\b*Hee Hee Hee.
+
+# 03e2 #
+*Get on the train,
+ or you will have a
+ hard time like me.
+
+# 03e3 #
+*Do you want
+ anything else?
+
+# 03e4 #
+*{Leader},
+ Welcome...
+\b*I always believed
+ that you would
+ find your way here.
+\b*Your Great-Grand
+ Mother Maria's love
+ was scattered,
+\b*scattered in the
+ form of melodies.
+\b*I have a melody
+ for you. Listen
+ and remember...
+
+# 03e5 #
+*The crystal
+ fragments that had
+ broken off
+\b*stopped glowing and
+ disappeared..
+
+# 03e6 #
+System Error!!!
+
+# 03e7 #
+
+# 03e8 #
+
+# 03e9 #
+"Big Bag"
+*A bag filled with
+ Magic Herb.
+
+# 03ea #
+"Telephone Card"
+*USE this handy card
+ to charge your phone
+ calls.
+
+# 03eb #
+"Bread Crumbs"
+*If you follow them,
+\b*you will return to
+ the place that you
+ started.
+
+# 03ec #
+"Repel Ring"
+*One look at this
+ strange ring
+\b*will drive away
+ weak enemies.
+
+# 03ed #
+
+# 03ee #
+
+# 03ef #
+
+# 03f0 #
+
+# 03f1 #
+
+# 03f2 #
+"Butter Knife"
+*{Teddy} can master
+ it.
+
+# 03f3 #
+"Survival Knife"
+*Hey {Teddy}, this is
+ stronger than an
+ ordinary Knife.
+
+# 03f4 #
+"Sword"
+*Few people can
+ master it.
+
+# 03f5 #
+"Katana"
+*This Japanese sword
+ is the best {Teddy}
+ has seen yet.
+
+# 03f6 #
+"Stun Gun"
+*{Lloyd}
+ seems to be able to
+ USE it.
+
+# 03f7 #
+"Air Gun"
+*A strong weapon,
+\b*but only {Lloyd}
+ seems to be able to
+ USE it.
+
+# 03f8 #
+"Plastic Bat"
+*This weapon is OK
+ for {Ninten}. USE it!
+
+# 03f9 #
+"Wooden Bat"
+*{Ninten}, USE this
+ weapon to fight
+ with weak enemies.
+
+# 03fa #
+"Aluminum Bat"
+*With this weapon
+\b*{Ninten} can easily
+ fight tougher
+ enemies.
+
+# 03fb #
+"Hank's Bat"
+*This awesome bat
+ was personally
+ autographed.
+
+# 03fc #
+"Frying Pan"
+*{Ana} can USE
+ this weapon best.
+
+# 03fd #
+"Non-stick Pan"
+*A good weapon for
+ {Ana}, with no
+ messy clean up.
+
+# 03fe #
+"Iron Skillet"
+*{Ana} can USE this
+ heavy metal pan to
+ rock strong enemies.
+
+# 03ff #
+"Slingshot"
+*A handy weapon,
+ that anyone can USE.
+
+# 0400 #
+"Boomerang"
+*Be careful,
+ this isn't a toy.
+\b*Anyone can USE it
+ as a weapon.
+
+# 0401 #
+"Insecticide"
+*It has an irritating
+ effect on bugs.
+
+# 0402 #
+"Super Spray"
+*Industrial strength
+ Insecticide.
+
+# 0403 #
+"Flea Bag"
+*A bag of fleas and
+ other nasty
+ critters.
+\b*Throw at an enemy
+ and watch the
+ effect!
+
+# 0404 #
+"Words of Love"
+*???
+
+# 0405 #
+"Swear Words"
+*???
+
+# 0406 #
+"Sticky Machine"
+*It seems to be used
+ for fighting, but...
+
+# 0407 #
+"Flashdark"
+*The opposite of a
+ flashlight.
+
+# 0408 #
+
+# 0409 #
+
+# 040a #
+"Flame Thrower"
+*Toasts the enemy,
+ but only {Lloyd}
+ can use it.
+
+# 040b #
+"Bomb"
+*Maybe only {Lloyd}
+ can detonate it.
+
+# 040c #
+"Super Bomb"
+*Written on the side
+ "Beware of blast",
+\b*only {Lloyd} can
+ use it.
+
+# 040d #
+"Laser Beam"
+*It helps that sissy
+ {Lloyd}.
+
+# 040e #
+"Plasma Beam"
+*It helps that weenie
+ {Lloyd} quite a lot.
+
+# 040f #
+
+# 0410 #
+"Rope"
+*Use it to tie the
+ enemy up.
+
+# 0411 #
+
+# 0412 #
+
+# 0413 #
+
+# 0414 #
+
+# 0415 #
+"Peace Coin"
+*When you USE it,
+ DEFENSE goes up a
+ little bit.
+
+# 0416 #
+"Protection Coin"
+*When you USE it,
+ DEFENSE goes up.
+
+# 0417 #
+"Magic Coin"
+*When you USE it,
+ DEFENSE really goes
+ up.
+
+# 0418 #
+"Brass Ring"
+*When you USE it,
+ DEFENSE goes up a
+ bit.
+
+# 0419 #
+"Silver Ring"
+*When you USE it,
+ DEFENSE goes up.
+
+# 041a #
+"Gold Ring"
+*When you USE it,
+ DEFENSE really goes
+ up.
+
+# 041b #
+"H2o Pendant"
+*When you USE it,
+ it will defend
+ against PK Fire.
+
+# 041c #
+"Fire Pendant"
+*When you USE it,
+ it will defend
+ against PK Freeze.
+
+# 041d #
+"Earth Pendant"
+*When you USE it,
+ it will defend
+ against PK Thunder.
+
+# 041e #
+"Sea Pendant"
+*When you USE it,
+\b*it will defend
+ against
+ all PSI attack.
+
+# 041f #
+
+# 0420 #
+
+# 0421 #
+
+# 0422 #
+
+# 0423 #
+
+# 0424 #
+"Orange Juice"
+*Vitamin C is always
+ good for a few HP.
+
+# 0425 #
+"French Fries"
+*EATen with or
+ without catsup,
+ your HP will rise.
+
+# 0426 #
+"Magic Herb"
+*When you are tired
+ or injured, USE it.
+
+# 0427 #
+"Hamburger"
+*Fast food for some
+ fast HP.
+
+# 0428 #
+"Sports Drink"
+*No matter how tired
+ you are, one bottle
+ will strengthen you.
+
+# 0429 #
+"Life Up Cream"
+*USEd to heal wounds.
+
+# 042a #
+"Asthma Spray"
+*When {Ninten}'s
+ asthma attacks,
+ spray this.
+
+# 042b #
+"Antidote"
+*It neutralizes
+ poison quickly.
+
+# 042c #
+"Mouthwash"
+*If you gargle with
+ it, you will lose
+ your cold.
+
+# 042d #
+"Strawberry Tofu"
+*If you really want
+ to eat it OK, but...
+
+# 042e #
+
+# 042f #
+"Bread"
+*OK to eat it,
+ but its CRUMBS can
+ be used
+\b*to mark your trail.
+
+# 0430 #
+"Noble Seed"
+*USE this to cancel
+ the Wicked Seed.
+
+# 0431 #
+"PSI Stone"
+*PSI Power in solid
+ form.
+
+# 0432 #
+
+# 0433 #
+"Magic Ribbon"
+*With this FORCE
+ will rise a bit.
+\b*This is for a girl
+ to tie in her hair.
+
+# 0434 #
+"Magic Candy"
+*If the sissy boy
+ EATs this his
+ FIGHT rise some.
+
+# 0435 #
+
+# 0436 #
+"Quick Capsule"
+*Take this capsule to
+ raise your SPEED.
+
+# 0437 #
+"Wisdom Capsule"
+*Take this capsule to
+ raise your WISDOM.
+
+# 0438 #
+"Physical Capsule"
+*Take this capsule to
+ raise your STRENGTH.
+
+# 0439 #
+"Force Capsule"
+*Take this capsule to
+ raise your FORCE.
+
+# 043a #
+"Fight Capsule"
+*Take this capsule to
+ raise your FIGHT.
+
+# 043b #
+
+# 043c #
+
+# 043d #
+"Basement Key"
+*USE this Key to
+ unlock the basement
+ door.
+
+# 043e #
+"Zoo Key"
+*This Key will unlock
+ the main gate at
+ the City Zoo.
+
+# 043f #
+"Ghost House Key"
+*This is the Key to
+ the Rosemary's house.
+
+# 0440 #
+"Great-Grand Father's
+ Diary"
+*It is old,
+ ragged, and filled
+ with entries.
+
+# 0441 #
+"Pass"
+*Printed on it,
+ "Duncan Factory
+ Employee".
+
+# 0442 #
+"Ticket"
+*Printed on it,
+\b*"Rock'n Roll all
+ night and every day
+ at The Live Show".
+
+# 0443 #
+
+# 0444 #
+
+# 0445 #
+
+# 0446 #
+
+# 0447 #
+"Canary Chick"
+*Its eyes show
+ sadness.
+
+# 0448 #
+
+# 0449 #
+"Bottle Rocket"
+*{Lloyd} seems to
+ know how to use it.
+
+# 044a #
+"Hat"
+*A pretty hat
+ embroidered with
+ the name {Ana}.
+
+# 044b #
+"Dentures"
+*Brush, floss and see
+ your dentist and
+\b*you won't have to
+ own a pair.
+
+# 044c #
+"Ticket Stub"
+*Printed on it,
+\b*"Save ten of these
+ for a complimentary
+ tank ride".
+
+# 044d #
+
+# 044e #
+"Ocarina"
+*It can play a catchy
+ tune.
+
+# 044f #
+
+# 0450 #
+"Franklin Badge"
+*Legend says that
+ Ben Franklin wore
+\b*this reflective
+ badge during his
+\b*experiments with
+ lightning.
+
+# 0451 #
+
+# 0452 #
+
+# 0453 #
+"Onyx Hook"
+*As long as you have
+ it, you can warp
+ back to Magicant.
+
+# 0454 #
+"Last Weapon"
+*???
+
+# 0455 #
+"Ruler"
+*It is 12 inches long.
+
+# 0456 #
+"{Ninten}'s Cash Card"
+*Use it for all your
+ banking needs.
+
+# 0457 #
+"Red Weed"
+*It looks like just
+ grass, but...
+
+# 0458 #
+"Bullhorn"
+*Your amplified
+ voice may intimidate
+ an enemy.
+
+# 0459 #
+
+# 045a #
+
+# 045b #
+
+# 045c #
+
+# 045d #
+
+# 045e #
+
+# 045f #
+
+# 0460 #
+
+# 0461 #
+
+# 0462 #
+
+# 0463 #
+
+# 0464 #
+
+# 0465 #
+
+# 0466 #
+
+# 0467 #
+"Debug"
+*.......
+
+# 0468 #
+System Error!!!
+
+# 0469 #
+System Error!!!
+
+# 046a #
+System Error!!!
+
+# 046b #
+System Error!!!
+
+# 046c #
+System Error!!!
+
+# 046d #
+System Error!!!
+
+# 046e #
+System Error!!!
+
+# 046f #
+System Error!!!
+
+# 0470 #
+System Error!!!
+
+# 0471 #
+System Error!!!
+
+# 0472 #
+System Error!!!
+
+# 0473 #
+System Error!!!
+
+# 0474 #
+System Error!!!
+
+# 0475 #
+System Error!!!
+
+# 0476 #
+System Error!!!
+
+# 0477 #
+System Error!!!
+
+# 0478 #
+System Error!!!
+
+# 0479 #
+System Error!!!
+
+# 047a #
+System Error!!!
+
+# 047b #
+System Error!!!
+
+# 047c #
+System Error!!!
+
+# 047d #
+System Error!!!
+
+# 047e #
+System Error!!!
+
+# 047f #
+System Error!!!
+
+# 0480 #
+System Error!!!
+
+# 0481 #
+System Error!!!
+
+# 0482 #
+System Error!!!
+
+# 0483 #
+System Error!!!
+
+# 0484 #
+System Error!!!
+
+# 0485 #
+System Error!!!
+
+# 0486 #
+System Error!!!
+
+# 0487 #
+System Error!!!
+
+# 0488 #
+System Error!!!
+
+# 0489 #
+System Error!!!
+
+# 048a #
+System Error!!!
+
+# 048b #
+System Error!!!
+
+# 048c #
+System Error!!!
+
+# 048d #
+System Error!!!
+
+# 048e #
+System Error!!!
+
+# 048f #
+System Error!!!
+
+# 0490 #
+System Error!!!
+
+# 0491 #
+System Error!!!
+
+# 0492 #
+System Error!!!
+
+# 0493 #
+System Error!!!
+
+# 0494 #
+System Error!!!
+
+# 0495 #
+System Error!!!
+
+# 0496 #
+System Error!!!
+
+# 0497 #
+System Error!!!
+
+# 0498 #
+System Error!!!
+
+# 0499 #
+System Error!!!
+
+# 049a #
+System Error!!!
+
+# 049b #
+System Error!!!
+
+# 049c #
+System Error!!!
+
+# 049d #
+System Error!!!
+
+# 049e #
+System Error!!!
+
+# 049f #
+System Error!!!
+
+# 04a0 #
+System Error!!!
+
+# 04a1 #
+System Error!!!
+
+# 04a2 #
+System Error!!!
+
+# 04a3 #
+System Error!!!
+
+# 04a4 #
+System Error!!!
+
+# 04a5 #
+System Error!!!
+
+# 04a6 #
+System Error!!!
+
+# 04a7 #
+System Error!!!
+
+# 04a8 #
+System Error!!!
+
+# 04a9 #
+System Error!!!
+
+# 04aa #
+System Error!!!
+
+# 04ab #
+System Error!!!
+
+# 04ac #
+System Error!!!
+
+# 04ad #
+System Error!!!
+
+# 04ae #
+System Error!!!
+
+# 04af #
+System Error!!!
+
+# 04b0 #
+System Error!!!
+
+# 04b1 #
+System Error!!!
+
+# 04b2 #
+System Error!!!
+
+# 04b3 #
+System Error!!!
+
+# 04b4 #
+System Error!!!
+
+# 04b5 #
+System Error!!!
+
+# 04b6 #
+System Error!!!
+
+# 04b7 #
+System Error!!!
+
+# 04b8 #
+System Error!!!
+
+# 04b9 #
+System Error!!!
+
+# 04ba #
+System Error!!!
+
+# 04bb #
+System Error!!!
+
+# 04bc #
+System Error!!!
+
+# 04bd #
+System Error!!!
+
+# 04be #
+System Error!!!
+
+# 04bf #
+System Error!!!
+
+# 04c0 #
+System Error!!!
+
+# 04c1 #
+System Error!!!
+
+# 04c2 #
+System Error!!!
+
+# 04c3 #
+System Error!!!
+
+# 04c4 #
+System Error!!!
+
+# 04c5 #
+System Error!!!
+
+# 04c6 #
+System Error!!!
+
+# 04c7 #
+System Error!!!
+
+# 04c8 #
+System Error!!!
+
+# 04c9 #
+System Error!!!
+
+# 04ca #
+System Error!!!
+
+# 04cb #
+System Error!!!
+
+# 04cc #
+System Error!!!
+
+# 04cd #
+System Error!!!
+
+# 04ce #
+System Error!!!
+
+# 04cf #
+System Error!!!
+
+# 04d0 #
+System Error!!!
+
+# 04d1 #
+System Error!!!
+
+# 04d2 #
+System Error!!!
+
+# 04d3 #
+System Error!!!
+
+# 04d4 #
+System Error!!!
+
+# 04d5 #
+System Error!!!
+
+# 04d6 #
+System Error!!!
+
+# 04d7 #
+System Error!!!
+
+# 04d8 #
+System Error!!!
+
+# 04d9 #
+System Error!!!
+
+# 04da #
+System Error!!!
+
+# 04db #
+System Error!!!
+
+# 04dc #
+System Error!!!
+
+# 04dd #
+System Error!!!
+
+# 04de #
+System Error!!!
+
+# 04df #
+System Error!!!
+
+# 04e0 #
+System Error!!!
+
+# 04e1 #
+System Error!!!
+
+# 04e2 #
+System Error!!!
+
+# 04e3 #
+System Error!!!
+
+# 04e4 #
+System Error!!!
+
+# 04e5 #
+System Error!!!
+
+# 04e6 #
+System Error!!!
+
+# 04e7 #
+System Error!!!
+
+# 04e8 #
+System Error!!!
+
+# 04e9 #
+System Error!!!
+
+# 04ea #
+System Error!!!
+
+# 04eb #
+System Error!!!
+
+# 04ec #
+System Error!!!
+
+# 04ed #
+System Error!!!
+
+# 04ee #
+System Error!!!
+
+# 04ef #
+System Error!!!
+
+# 04f0 #
+System Error!!!
+
+# 04f1 #
+System Error!!!
+
+# 04f2 #
+System Error!!!
+
+# 04f3 #
+System Error!!!
+
+# 04f4 #
+System Error!!!
+
+# 04f5 #
+System Error!!!
+
+# 04f6 #
+System Error!!!
+
+# 04f7 #
+System Error!!!
+
+# 04f8 #
+System Error!!!
+
+# 04f9 #
+System Error!!!
+
+# 04fa #
+System Error!!!
+
+# 04fb #
+System Error!!!
+
+# 04fc #
+System Error!!!
+
+# 04fd #
+System Error!!!
+
+# 04fe #
+System Error!!!
+
+# 04ff #
+System Error!!!
+
+# 0500 #
+System Error!!!
+
+# 0501 #
+System Error!!!
+
+# 0502 #
+System Error!!!
+
+# 0503 #
+System Error!!!
+
+# 0504 #
+System Error!!!
+
+# 0505 #
+System Error!!!
+
+# 0506 #
+System Error!!!
+
+# 0507 #
+System Error!!!
+
+# 0508 #
+System Error!!!
+
+# 0509 #
+System Error!!!
+
+# 050a #
+System Error!!!
+
+# 050b #
+System Error!!!
+
+# 050c #
+System Error!!!
+
+# 050d #
+System Error!!!
+
+# 050e #
+System Error!!!
+
+# 050f #
+System Error!!!
+
+# 0510 #
+System Error!!!
+
+# 0511 #
+System Error!!!
+
+# 0512 #
+System Error!!!
+
+# 0513 #
+System Error!!!
+
+# 0514 #
+
+# 0515 #
+Should you fight, or
+run?
+# 0516 #
+It seems to have an
+important secret.
+# 0517 #
+It there any way to
+defeat him?
+# 0518 #
+Don't let him stop
+and unpack his trunk!
+# 0519 #
+Somebody ate his
+porridge, and he isn't
+too happy about it!
+# 051a #
+Surprised? It really
+does exist!
+# 051b #
+Be careful of its
+exhaust if you are
+asthmatic.
+# 051c #
+Hypnotism does not
+work on this robot.
+# 051d #
+Special armor protects
+from PSI attack.
+# 051e #
+It has, the awful
+Stone of Origin.
+# 051f #
+Something like this
+should not exist on
+the earth...
+# 0520 #
+Don't let this primate
+punk pick on you!
+# 0521 #
+A face only a mother
+could love.
+# 0522 #
+Watch those eyes!
+# 0523 #
+No one is in the
+driver's seat.
+# 0524 #
+It has strong
+friends.
+# 0525 #
+Its shell is
+unbelievably hard.
+# 0526 #
+It uses hypnotism.
+# 0527 #
+
+# 0528 #
+Its quickness is the
+source of its pride.
+# 0529 #
+Watch out for those
+pearly whites.
+# 052a #
+That thief!!
+# 052b #
+Don't accept his
+invitation to dinner.
+# 052c #
+A walking fuel
+supply.
+# 052d #
+It seems to be
+guarding something.
+# 052e #
+He can be found
+on the FBI's
+most wanted list.
+# 052f #
+Maybe he is not
+really rotten to
+the core.
+# 0530 #
+A malnourished robot?
+# 0531 #
+Do not be tricked by
+her smile.
+# 0532 #
+A man from the stars.
+# 0533 #
+This thing could not
+occur naturally
+# 0534 #
+What evil lab has
+manufactured this
+mobile brain.
+# 0535 #
+It uses various PSI
+attack.
+# 0536 #
+It would be nice to
+have armor of your
+own.
+# 0537 #
+An animated tree with
+suspicious actions.
+# 0538 #
+He has a short temper,
+so be careful.
+# 0539 #
+He looks like he could
+grow flowers in his
+hair.
+# 053a #
+Her refrigerator
+shaped body holds a
+heart of ice.
+# 053b #
+A real bad apple,
+stay out of his way.
+# 053c #
+His twisted face
+covers his twisted
+mind.
+# 053d #
+
+# 053e #
+Careful, his 'Smash
+Hit'is quite
+effective.
+# 053f #
+Watch out for further
+sneak attacks.
+# 0540 #
+Watch your wallet and
+count your change,
+he's a thief.
+# 0541 #
+It might not poison,
+maybe...
+# 0542 #
+He who laughs last
+laughs best.
+# 0543 #
+It is quite different
+than a pet cat.
+# 0544 #
+Exterminate with
+Insecticide.
+# 0545 #
+AHH-Choooo!!
+# 0546 #
+Insecticide is
+effective.
+# 0547 #
+You'll want to try
+Insecticide.
+# 0548 #
+It's poisonous, but
+Insecticide works.
+# 0549 #
+Don't let yourself
+get tied up fighting
+this guy.
+# 054a #
+It looks like it
+jumped out of a comic
+book.
+# 054b #
+This enemy's face is
+the easiest to draw.
+# 054c #
+If he was a mask,
+someone might mistake
+your identity.
+# 054d #
+Just an ordinary
+ghost.
+# 054e #
+Only as big as a
+dinner plate.
+# 054f #
+Life itself is a
+puzzle for Mr.Bat.
+# 0550 #
+He is small, but it is
+obvious that he is a
+spaceman.
+# 0551 #
+Hold your nose!
+# 0552 #
+An evil, caped Zombie.
+Beware, his
+'Last strike' could
+be devastating.
+# 0553 #
+A big rat, with a tail
+this long.
+# 0554 #
+Shaped like an egg,
+but a little tougher.
+# 0555 #
+
+# 0556 #
+It stares back at
+you.
+# 0557 #
+It hovers in the
+air!
+# 0558 #
+
+# 0559 #
+
+# 055a #
+It's strong poison
+was developed in a
+laboratory.
+# 055b #
+Beware of its poison
+and Stone of Origin.
+# 055c #
+
+# 055d #
+
+# 055e #
+Good experience, if it
+doesn't run.
+# 055f #
+It seems that it does
+not have any friends.
+# 0560 #
+His chair was broken,
+and he isn't very
+happy!
+# 0561 #
+
+# 0562 #
+
+# 0563 #
+
+# 0564 #
+
+# 0565 #
+Where's that
+antidote.
+# 0566 #
+Poison, poison,
+poison.
+# 0567 #
+If he smiles, don't
+smile back.
+# 0568 #
+
+# 0569 #
+Its father won't even
+look at his face.
+# 056a #
+
+# 056b #
+Beware of its Stone
+of Origin.
+# 056c #
+I wonder if it carries
+fleas?
+# 056d #
+Hypnotism does not
+work on the car.
+# 056e #
+Hypnotism does not
+work on this vehicle.
+# 056f #
+What is going to
+happen next, speeding,
+reckless driving, or..
+# 0570 #
+Don't alarm this
+ghost, he has
+friends!
+# 0571 #
+
+# 0572 #
+The optometrists
+favorite.
+# 0573 #
+Watch your step,
+Dadseyes are every
+where.
+# 0574 #
+Momseyes will spot
+you for sure!
+# 0575 #
+
+# 0576 #
+
+# 0577 #
+It has friends!
+# 0578 #
+
+# 0579 #
+He only has PK Beam.
+# 057a #
+As strong as on ox.
+# 057b #
+Ragged around the
+edges, but do not
+underestimate it.
+# 057c #
+The latest in the
+product line.
+# 057d #
+This is as big as a
+manhole cover.
+# 057e #
+Do not be tricked by
+her beauty.
+# 057f #
+It carries, and
+likes to use Bombs.
+# 0580 #
+There is a plenty of
+fuel inside.
+# 0581 #
+She is good at, and
+not afraid to use a
+strong PSI attack.
+# 0582 #
+His sole purpose is
+to keep travelers
+from passing through
+the cave.
+# 0583 #
+It likes to use PK
+Freeze.
+# 0584 #
+If you can beat it,
+that is great.
+# 0585 #
+Not only will it
+attack using PSI,
+it is a thief!
+# 0586 #
+
+# 0587 #
+Careful, he knows
+'Brain Shock'.
+# 0588 #
+"It attacks with
+bare hands."
+# 0589 #
+Its marvelous silver
+coat glistens and
+gleams.
+# 058a #
+He is absolutely huge!
+# 058b #
+If you must sleep,
+don't borrow his bed!
+# 058c #
+New and unfortunately,
+improved.
+# 058d #
+The strongest of
+the Starmen.
+# 058e #
+System Error!!!
+
+# 058f #
+System Error!!!
+
+# 0590 #
+System Error!!!
+
+# 0591 #
+System Error!!!
+
+# 0592 #
+System Error!!!
+
+# 0593 #
+
+# 0594 #
+System Error!!!
+
+# 0595 #
+System Error!!!
+
+# 0596 #
+System Error!!!
+
+# 0597 #
+System Error!!!
+
+# 0598 #
+System Error!!!
+
+# 0599 #
+System Error!!!
+
+# 059a #
+System Error!!!
+
+# 059b #
+System Error!!!
+
+# 059c #
+System Error!!!
+
+# 059d #
+System Error!!!
+
+# 059e #
+System Error!!!
+
+# 059f #
+System Error!!!
+
+# 05a0 #
+System Error!!!
+
+# 05a1 #
+System Error!!!
+
+# 05a2 #
+System Error!!!
+
+# 05a3 #
+System Error!!!
+
+# 05a4 #
+System Error!!!
+
+# 05a5 #
+System Error!!!
+
+# 05a6 #
+System Error!!!
+
+# 05a7 #
+System Error!!!
+
+# 05a8 #
+System Error!!!
+
+# 05a9 #
+System Error!!!
+
+# 05aa #
+System Error!!!
+
+# 05ab #
+System Error!!!
+
+# 05ac #
+System Error!!!
+
+# 05ad #
+System Error!!!
+
+# 05ae #
+System Error!!!
+
+# 05af #
+System Error!!!
+
+# 05b0 #
+System Error!!!
+
+# 05b1 #
+System Error!!!
+
+# 05b2 #
+System Error!!!
+
+# 05b3 #
+System Error!!!
+
+# 05b4 #
+System Error!!!
+
+# 05b5 #
+System Error!!!
+
+# 05b6 #
+System Error!!!
+
+# 05b7 #
+System Error!!!
+
+# 05b8 #
+System Error!!!
+
+# 05b9 #
+System Error!!!
+
+# 05ba #
+System Error!!!
+
+# 05bb #
+System Error!!!
+
+# 05bc #
+System Error!!!
+
+# 05bd #
+System Error!!!
+
+# 05be #
+System Error!!!
+
+# 05bf #
+System Error!!!
+
+# 05c0 #
+System Error!!!
+
+# 05c1 #
+System Error!!!
+
+# 05c2 #
+System Error!!!
+
+# 05c3 #
+System Error!!!
+
+# 05c4 #
+System Error!!!
+
+# 05c5 #
+System Error!!!
+
+# 05c6 #
+System Error!!!
+
+# 05c7 #
+System Error!!!
+
+# 05c8 #
+System Error!!!
+
+# 05c9 #
+System Error!!!
+
+# 05ca #
+System Error!!!
+
+# 05cb #
+System Error!!!
+
+# 05cc #
+System Error!!!
+
+# 05cd #
+System Error!!!
+
+# 05ce #
+System Error!!!
+
+# 05cf #
+System Error!!!
+
+# 05d0 #
+System Error!!!
+
+# 05d1 #
+System Error!!!
+
+# 05d2 #
+System Error!!!
+
+# 05d3 #
+System Error!!!
+
+# 05d4 #
+System Error!!!
+
+# 05d5 #
+System Error!!!
+
+# 05d6 #
+System Error!!!
+
+# 05d7 #
+System Error!!!
+
+# 05d8 #
+System Error!!!
+
+# 05d9 #
+System Error!!!
+
+# 05da #
+System Error!!!
+
+# 05db #
+System Error!!!
+
+# 05dc #
+
+# 05dd #
+
+# 05de #
+[setPos -> 0806][repeat -> a010][setPos -> 0807][repeat -> a010]
+# 05df #
+{Name}
+draws near!
+# 05e0 #
+{Name}'s attack!
+# 05e1 #
+{Name} fired the
+tank gun!
+# 05e2 #
+ {Target} dodged
+ swiftly.
+# 05e3 #
+Continuous attack!
+# 05e4 #
+{Name} bit
+{Target}!
+# 05e5 #
+{Name} scratched
+{Target}!
+# 05e6 #
+{Name} charged
+at {Target}!
+# 05e7 #
+  (I)(it)(I')('t)('ll)(9c)(9d)%+
+# 05e8 #
+ {Target} suffered
+ damage of {Num}.
+# 05e9 #
+
+       YOU WIN!
+
+# 05ea #
+
+You lost the battle.
+
+# 05eb #
+ Defeated
+ {Target}!
+# 05ec #
+ {Target} was
+ hurt and beaten.
+# 05ed #
+ {Target}
+ was already gone.
+# 05ee #
+ There was no effect
+ on {Target}.
+# 05ef #
+{Name} ran out
+of control!
+# 05f0 #
+ {Name} was
+ totally exhausted.
+# 05f1 #
+{Name}'s
+last blow!!!
+# 05f2 #
+The form of
+{Name}'s attack
+was inexplicable!
+# 05f3 #
+ {Target} was
+ surrounded by a
+ barrier.
+# 05f4 #
+ "Your mother is
+  calling for you!"
+# 05f5 #
+ {Target} turned
+ into a stone.
+# 05f6 #
+{Name} spit a
+sticky substance!
+# 05f7 #
+ {Target} was
+ blinded!
+# 05f8 #
+{Name} is bound
+tightly.
+# 05f9 #
+{Name} let out
+a strange cry!
+# 05fa #
+ {Name}
+ exploded!
+# 05fb #
+ {Name} burst
+ into flames!
+# 05fc #
+ {Target}'s
+ OFFENSE increased
+ by {Num}.
+# 05fd #
+ {Target}'s
+ OFFENSE decreased
+ by {Num}.
+# 05fe #
+ {Target}'s
+ DEFENSE increased
+ by {Num}.
+# 05ff #
+ {Target}'s SPEED
+ increased by {Num}.
+# 0600 #
+> OFFENSE {Num}.
+# 0601 #
+> DEFENSE {Num2}.
+# 0602 #
+ {Target}'s FIGHT
+ decreased by {Num}.
+# 0603 #
+ {Target}'s
+ DEFENSE decreased
+ by {Num}.
+# 0604 #
+{Name} smiled
+a darling smile.
+# 0605 #
+ {Target}'s FIGHT
+ increased by {Num}.
+# 0606 #
+{Name} flew into
+a rage!
+# 0607 #
+ {Target}'s SPEED
+ decreased by {Num}.
+# 0608 #
+{Name} made
+{Target} confused!
+# 0609 #
+{Name} cried out
+for help!
+# 060a #
+{Name} sowed
+its seed!
+# 060b #
+ Don't know why, but
+ {Target}'s EXP
+ increased.
+# 060c #
+{Name} started
+laughing!
+# 060d #
+The tank is broken.
+# 060e #
+{Name} uttered
+threatening words!
+# 060f #
+{Name} uttered
+dirty words!
+# 0610 #
+{Name} just
+grins, and bears it.
+# 0611 #
+ and {Target}
+ believed it!
+# 0612 #
+ but {Target}
+ wasn't convinced
+ at all.
+# 0613 #
+ This made
+ {Target} angry.
+# 0614 #
+ {Target}'s
+ situation became
+ critical.
+# 0615 #
+ {Target} lost
+ all senses.
+# 0616 #
+{Name} is so
+confused.
+# 0617 #
+ {Target} was
+ put to sleep.
+# 0618 #
+{Name} is
+asleep.
+# 0619 #
+ {Target}
+ recovered {Num} PP's!
+# 061a #
+ {Target}
+ recovered {Num} HP!
+# 061b #
+{Name}'s energy
+has flowed into
+{Target}!
+# 061c #
+ However, no one came
+ to assist.
+# 061d #
+ Silence...
+# 061e #
+ {Target} joined
+ in the battle!
+# 061f #
+{Name} ran away!
+# 0620 #
+...But it didn't work
+out.
+# 0621 #
+{Name}
+tripped and fell.
+# 0622 #
+{Name} can't
+move.
+# 0623 #
+{Name} turned
+into a stone.
+# 0624 #
+ {Num} PP's were
+ snatched from
+ {Target}.
+# 0625 #
+ {Target} can not
+ move.
+# 0626 #
+{Name} puffed a
+cloud of exhaust gas!
+# 0627 #
+ {Target} was
+ poisoned.
+# 0628 #
+ {Target} was
+ dehydrated.
+# 0629 #
+ {Target}'s PSI
+ was blocked.
+# 062a #
+ {Target} was
+ bound with Rope.
+# 062b #
+ {Target} was
+ shielded.
+# 062c #
+ Miss!!
+# 062d #
+ But, the PSI was
+ blocked.
+# 062e #
+ But, {Target}'s
+ FranklinBadge bounced
+ back the Beam!
+# 062f #
+ {Target} bounced
+ back the attack!
+# 0630 #
+ Not enough PP's.
+# 0631 #
+ There was no effect
+ on {Target}.
+# 0632 #
+{Name} had an
+asthma attack.
+Wheeze...
+# 0633 #
+{Name} is
+meditating.
+# 0634 #
+{Name} said
+"Hello", then just
+walked away.
+# 0635 #
+{Name} is ready
+for an attack.
+# 0636 #
+{Name} sang the
+song!
+# 0637 #
+{Name} is
+guarding.
+# 0638 #
+{Name}
+approached slowly!
+# 0639 #
+ Poison has dissipated
+ from {Target}'s
+ body.
+# 063a #
+ {Target} senses
+ were regained.
+# 063b #
+ {Target}
+ became itchy
+ all over.
+# 063c #
+ {Target} can
+ move now.
+# 063d #
+ {Target} woke up.
+# 063e #
+ Brought {Target}
+ back!!!
+# 063f #
+{Name} USEd
+{Move}!
+# 0640 #
+{Name} tried
+{Move}!
+# 0641 #
+{Name} can't USE
+{Move}!
+# 0642 #
+{Name} is
+thinking about the
+circumstances.
+# 0643 #
+{Name} did
+something strange.
+# 0644 #
+{Name} is
+day-dreaming.
+# 0645 #
+ Destroyed
+ {Target}'s
+ shield.
+# 0646 #
+{Name} CHECKed
+{Target}.
+# 0647 #
+> Strong against
+  PK Fire.
+# 0648 #
+> Strong against
+  PK Freeze.
+# 0649 #
+> Strong against
+  PK Thunder.
+# 064a #
+> Strong against
+  PK Beam.
+# 064b #
+> Weak against
+  Sprays.
+# 064c #
+ {Target}'s asthma
+ attack has passed.
+# 064d #
+ {Target}
+ recovered from
+ being a stone.
+# 064e #
+ "I love you."
+# 064f #
+ "I hate you."
+# 0650 #
+ {Target} had an
+ asthma attack.
+# 0651 #
+ {Move} was
+ broken.
+# 0652 #
+{Name} used
+the Wicked Seed!
+# 0653 #
+{Name} used a
+paralizing gas!
+# 0654 #
+ {Move} turned
+ into a stone.
+# 0655 #
+ {Target} regained
+ all senses!
+# 0656 #
+ {Target} became
+ quiet!
+# 0657 #
+ {Target} was
+ beaten!
+# 0658 #
+ {Target} was
+ destroyed!
+# 0659 #
+ {Target} has
+ returned to dust!
+# 065a #
+ {Target} doesn't
+ move anymore!
+# 065b #
+ {Target} became
+ a pile of junk!
+# 065c #
+ {Target}
+ vanished!
+# 065d #
+{Name} took away
+{Target}'s
+{Move}!
+# 065e #
+{Name} advanced
+to the next Level!
+\b\p Maximum HP has
+ increased by [lvl stat].
+\b\p Maximum PP has
+ increased by [lvl stat].
+\b\p FIGHT has
+ increased by {Fight}.
+\b\p SPEED has
+ increased by {Speed}.
+\b\p WISDOM has
+ increased by {Wisdom}.
+\b\p STRENGTH has
+ increased by {Strength}.
+\b\p FORCE has
+ increased by {Force}.
+\b\p{Name} learned
+a new PSI-Power
+through battle!
+\b\pPicked up {Item}!
+\b\p({Leader} hears the
+voice of Queen Mary)
+\bGiegue cannot be
+defeated with
+force...
+\bYou cannot defeat
+Giegue with a
+weapon of any kind.
+\bYou must SING my
+lullaby, with all
+your feelings...
+\bSING my lullaby
+with all your
+heart.
+\b\p
+# 065f #
+{Name} learned
+a new PSI-Power
+through battle!
+\b\pPicked up {Item}!
+\b\p({Leader} hears the
+voice of Queen Mary)
+\bGiegue cannot be
+defeated with
+force...
+\bYou cannot defeat
+Giegue with a
+weapon of any kind.
+\bYou must SING my
+lullaby, with all
+your feelings...
+\bSING my lullaby
+with all your
+heart.
+\b\p
+# 0660 #
+ Maximum HP has
+ increased by [lvl stat].
+\b\p Maximum PP has
+ increased by [lvl stat].
+\b\p FIGHT has
+ increased by {Fight}.
+\b\p SPEED has
+ increased by {Speed}.
+\b\p WISDOM has
+ increased by {Wisdom}.
+\b\p STRENGTH has
+ increased by {Strength}.
+\b\p FORCE has
+ increased by {Force}.
+\b\p{Name} learned
+a new PSI-Power
+through battle!
+\b\pPicked up {Item}!
+\b\p({Leader} hears the
+voice of Queen Mary)
+\bGiegue cannot be
+defeated with
+force...
+\bYou cannot defeat
+Giegue with a
+weapon of any kind.
+\bYou must SING my
+lullaby, with all
+your feelings...
+\bSING my lullaby
+with all your
+heart.
+\b\p
+# 0661 #
+ Maximum PP has
+ increased by [lvl stat].
+\b\p FIGHT has
+ increased by {Fight}.
+\b\p SPEED has
+ increased by {Speed}.
+\b\p WISDOM has
+ increased by {Wisdom}.
+\b\p STRENGTH has
+ increased by {Strength}.
+\b\p FORCE has
+ increased by {Force}.
+\b\p{Name} learned
+a new PSI-Power
+through battle!
+\b\pPicked up {Item}!
+\b\p({Leader} hears the
+voice of Queen Mary)
+\bGiegue cannot be
+defeated with
+force...
+\bYou cannot defeat
+Giegue with a
+weapon of any kind.
+\bYou must SING my
+lullaby, with all
+your feelings...
+\bSING my lullaby
+with all your
+heart.
+\b\p
+# 0662 #
+ FIGHT has
+ increased by {Fight}.
+\b\p SPEED has
+ increased by {Speed}.
+\b\p WISDOM has
+ increased by {Wisdom}.
+\b\p STRENGTH has
+ increased by {Strength}.
+\b\p FORCE has
+ increased by {Force}.
+\b\p{Name} learned
+a new PSI-Power
+through battle!
+\b\pPicked up {Item}!
+\b\p({Leader} hears the
+voice of Queen Mary)
+\bGiegue cannot be
+defeated with
+force...
+\bYou cannot defeat
+Giegue with a
+weapon of any kind.
+\bYou must SING my
+lullaby, with all
+your feelings...
+\bSING my lullaby
+with all your
+heart.
+\b\p
+# 0663 #
+ SPEED has
+ increased by {Speed}.
+\b\p WISDOM has
+ increased by {Wisdom}.
+\b\p STRENGTH has
+ increased by {Strength}.
+\b\p FORCE has
+ increased by {Force}.
+\b\p{Name} learned
+a new PSI-Power
+through battle!
+\b\pPicked up {Item}!
+\b\p({Leader} hears the
+voice of Queen Mary)
+\bGiegue cannot be
+defeated with
+force...
+\bYou cannot defeat
+Giegue with a
+weapon of any kind.
+\bYou must SING my
+lullaby, with all
+your feelings...
+\bSING my lullaby
+with all your
+heart.
+\b\p
+# 0664 #
+ WISDOM has
+ increased by {Wisdom}.
+\b\p STRENGTH has
+ increased by {Strength}.
+\b\p FORCE has
+ increased by {Force}.
+\b\p{Name} learned
+a new PSI-Power
+through battle!
+\b\pPicked up {Item}!
+\b\p({Leader} hears the
+voice of Queen Mary)
+\bGiegue cannot be
+defeated with
+force...
+\bYou cannot defeat
+Giegue with a
+weapon of any kind.
+\bYou must SING my
+lullaby, with all
+your feelings...
+\bSING my lullaby
+with all your
+heart.
+\b\p
+# 0665 #
+ STRENGTH has
+ increased by {Strength}.
+\b\p FORCE has
+ increased by {Force}.
+\b\p{Name} learned
+a new PSI-Power
+through battle!
+\b\pPicked up {Item}!
+\b\p({Leader} hears the
+voice of Queen Mary)
+\bGiegue cannot be
+defeated with
+force...
+\bYou cannot defeat
+Giegue with a
+weapon of any kind.
+\bYou must SING my
+lullaby, with all
+your feelings...
+\bSING my lullaby
+with all your
+heart.
+\b\p
+# 0666 #
+ FORCE has
+ increased by {Force}.
+\b\p{Name} learned
+a new PSI-Power
+through battle!
+\b\pPicked up {Item}!
+\b\p({Leader} hears the
+voice of Queen Mary)
+\bGiegue cannot be
+defeated with
+force...
+\bYou cannot defeat
+Giegue with a
+weapon of any kind.
+\bYou must SING my
+lullaby, with all
+your feelings...
+\bSING my lullaby
+with all your
+heart.
+\b\p
+# 0667 #
+{Name} escaped
+from the Rope.
+# 0668 #
+Picked up {Item}!
+\b\p({Leader} hears the
+voice of Queen Mary)
+\bGiegue cannot be
+defeated with
+force...
+\bYou cannot defeat
+Giegue with a
+weapon of any kind.
+\bYou must SING my
+lullaby, with all
+your feelings...
+\bSING my lullaby
+with all your
+heart.
+\b\p
+# 0669 #
+ {Target} wasn't
+ confused anymore!
+# 066a #
+{Name} woke up.
+# 066b #
+ZAP!!!
+# 066c #
+ But...
+ it had no effect!
+# 066d #
+ {Move}
+ became empty.
+# 066e #
+
+The battle lingers on.
+
+# 066f #
+({Leader} hears the
+voice of Queen Mary)
+\bGiegue cannot be
+defeated with
+force...
+\bYou cannot defeat
+Giegue with a
+weapon of any kind.
+\bYou must SING my
+lullaby, with all
+your feelings...
+\bSING my lullaby
+with all your
+heart.
+\b\p
+# 0670 #
+
+# 0671 #
+
+# 0672 #
+ {Ninten}!
+\b I am grateful to
+ your family.
+\b\p Your Great-
+ Grandparents,
+\b George and Maria
+ raised me.
+\b\p But, George stole
+ vital information
+\b from our planet
+ that can be used
+\b to betray my
+ people...
+\b\p And now, one of his
+ descendants
+\b is obstructing
+ our plans,
+\b and must be
+ stopped!!
+\b {Ninten}!
+ I am talking about
+ you!
+\b\p Go home now!
+\b Perish with the
+ rest of the ugly
+\b Earth People.
+\b\p Foolish one, you
+ cannot do a thing
+\b with your meager
+ powers...
+\b Powers worthy of
+ a lowly insect.
+\b\p {Ninten}!
+ You alone,
+\b I may save you.
+ Just you alone.
+\b Board our
+ Mother Ship with me.
+\b\p ...then, fall into
+ long sleep
+\b with your friends
+\b and the other ugly
+ Earth People.
+\b\p Stop singing.
+# 0673 #
+ Your Great-
+ Grandparents,
+\b George and Maria
+ raised me.
+\b\p But, George stole
+ vital information
+\b from our planet
+ that can be used
+\b to betray my
+ people...
+\b\p And now, one of his
+ descendants
+\b is obstructing
+ our plans,
+\b and must be
+ stopped!!
+\b {Ninten}!
+ I am talking about
+ you!
+\b\p Go home now!
+\b Perish with the
+ rest of the ugly
+\b Earth People.
+\b\p Foolish one, you
+ cannot do a thing
+\b with your meager
+ powers...
+\b Powers worthy of
+ a lowly insect.
+\b\p {Ninten}!
+ You alone,
+\b I may save you.
+ Just you alone.
+\b Board our
+ Mother Ship with me.
+\b\p ...then, fall into
+ long sleep
+\b with your friends
+\b and the other ugly
+ Earth People.
+\b\p Stop singing.
+# 0674 #
+ But, George stole
+ vital information
+\b from our planet
+ that can be used
+\b to betray my
+ people...
+\b\p And now, one of his
+ descendants
+\b is obstructing
+ our plans,
+\b and must be
+ stopped!!
+\b {Ninten}!
+ I am talking about
+ you!
+\b\p Go home now!
+\b Perish with the
+ rest of the ugly
+\b Earth People.
+\b\p Foolish one, you
+ cannot do a thing
+\b with your meager
+ powers...
+\b Powers worthy of
+ a lowly insect.
+\b\p {Ninten}!
+ You alone,
+\b I may save you.
+ Just you alone.
+\b Board our
+ Mother Ship with me.
+\b\p ...then, fall into
+ long sleep
+\b with your friends
+\b and the other ugly
+ Earth People.
+\b\p Stop singing.
+# 0675 #
+ And now, one of his
+ descendants
+\b is obstructing
+ our plans,
+\b and must be
+ stopped!!
+\b {Ninten}!
+ I am talking about
+ you!
+\b\p Go home now!
+\b Perish with the
+ rest of the ugly
+\b Earth People.
+\b\p Foolish one, you
+ cannot do a thing
+\b with your meager
+ powers...
+\b Powers worthy of
+ a lowly insect.
+\b\p {Ninten}!
+ You alone,
+\b I may save you.
+ Just you alone.
+\b Board our
+ Mother Ship with me.
+\b\p ...then, fall into
+ long sleep
+\b with your friends
+\b and the other ugly
+ Earth People.
+\b\p Stop singing.
+# 0676 #
+ Go home now!
+\b Perish with the
+ rest of the ugly
+\b Earth People.
+\b\p Foolish one, you
+ cannot do a thing
+\b with your meager
+ powers...
+\b Powers worthy of
+ a lowly insect.
+\b\p {Ninten}!
+ You alone,
+\b I may save you.
+ Just you alone.
+\b Board our
+ Mother Ship with me.
+\b\p ...then, fall into
+ long sleep
+\b with your friends
+\b and the other ugly
+ Earth People.
+\b\p Stop singing.
+# 0677 #
+ Foolish one, you
+ cannot do a thing
+\b with your meager
+ powers...
+\b Powers worthy of
+ a lowly insect.
+\b\p {Ninten}!
+ You alone,
+\b I may save you.
+ Just you alone.
+\b Board our
+ Mother Ship with me.
+\b\p ...then, fall into
+ long sleep
+\b with your friends
+\b and the other ugly
+ Earth People.
+\b\p Stop singing.
+# 0678 #
+ {Ninten}!
+ You alone,
+\b I may save you.
+ Just you alone.
+\b Board our
+ Mother Ship with me.
+\b\p ...then, fall into
+ long sleep
+\b with your friends
+\b and the other ugly
+ Earth People.
+\b\p Stop singing.
+# 0679 #
+ ...then, fall into
+ long sleep
+\b with your friends
+\b and the other ugly
+ Earth People.
+\b\p Stop singing.
+# 067a #
+ Stop singing.
+# 067b #
+ STOP singing!
+# 067c #
+ STOP!
+ Stop the song!
+# 067d #
+ STOP IT!!
+ STOP THAT SONG!
+# 067e #
+ You puny little
+ Earth bugs!
+ Shut up, and
+ STOP singing!!
+# 067f #
+ The SONG...
+# 0680 #
+ STOP IT!!!
+# 0681 #
+ !!!!!
+# 0682 #
+ Stop...
+ Pleeease, stop!
+# 0683 #
+ !!!!!!!
+# 0684 #
+ ........
+# 0685 #
+ How could I be
+ defeated
+\b by a song
+ like that?
+\b\p I will...
+ sometime...
+\b\p {Ninten}!
+ We SHALL meet again!
+\b\p {Target} dodged
+ swiftly.
+# 0686 #
+ I will...
+ sometime...
+\b\p {Ninten}!
+ We SHALL meet again!
+\b\p {Target} dodged
+ swiftly.
+# 0687 #
+ {Ninten}!
+ We SHALL meet again!
+\b\p {Target} dodged
+ swiftly.
+# 0688 #
+System Error!!!
+
+# 0689 #
+System Error!!!
+
+# 068a #
+System Error!!!
+
+# 068b #
+System Error!!!
+
+# 068c #
+System Error!!!
+
+# 068d #
+System Error!!!
+
+# 068e #
+System Error!!!
+
+# 068f #
+System Error!!!
+
+# 0690 #
+System Error!!!
+
+# 0691 #
+System Error!!!
+
+# 0692 #
+System Error!!!
+
+# 0693 #
+System Error!!!
+
+# 0694 #
+System Error!!!
+
+# 0695 #
+System Error!!!
+
+# 0696 #
+System Error!!!
+
+# 0697 #
+System Error!!!
+
+# 0698 #
+System Error!!!
+
+# 0699 #
+System Error!!!
+
+# 069a #
+System Error!!!
+
+# 069b #
+System Error!!!
+
+# 069c #
+System Error!!!
+
+# 069d #
+System Error!!!
+
+# 069e #
+System Error!!!
+
+# 069f #
+System Error!!!
+
+# 06a0 #
+System Error!!!
+
+# 06a1 #
+System Error!!!
+
+# 06a2 #
+System Error!!!
+
+# 06a3 #
+System Error!!!
+
+# 06a4 #
+
+# 06a5 #
+*{Chara 1} didn't do
+ anything.
+
+# 06a6 #
+*{Chara 1} gave
+ {Action} to
+ {Chara 2}.
+
+# 06a7 #
+*{Chara 1} put
+ {Action} in
+ {Chara 2}'s bag.
+
+# 06a8 #
+*{Chara 2} pulled
+ {Action} from
+ {Chara 1}'s bag.
+
+# 06a9 #
+*{Leader} threw
+ {Action} out of
+ {Chara 1}'s bag.
+
+# 06aa #
+*{Leader} took
+ {Action} from
+ {Chara 1}'s bag 
+\b*and placed it in
+ {Chara 2}'s bag.
+
+# 06ab #
+System Error!!!
+
+# 06ac #
+System Error!!!
+
+# 06ad #
+System Error!!!
+
+# 06ae #
+System Error!!!
+
+# 06af #
+*{Chara 1} ate
+ {Action}.
+
+# 06b0 #
+*{Chara 1} drank
+ {Action}.
+
+# 06b1 #
+*recovered by
+ {PRICE}.
+
+# 06b2 #
+*increased by
+ {PRICE}.
+
+# 06b3 #
+*{Chara 1}'s HP is
+
+# 06b4 #
+*{Chara 1}'s PP is
+
+# 06b5 #
+*{Chara 1}'s ENERGY is
+
+# 06b6 #
+*{Chara 1}'s SPEED is
+
+# 06b7 #
+*{Chara 1}'s WISDOM is
+
+# 06b8 #
+*{Chara 1}'s STRENGTH is
+
+# 06b9 #
+*{Chara 1}'s FORCE is
+
+# 06ba #
+*{Chara 1} took out a
+ Magic Herb from the
+ Big Bag and USEd it.
+
+# 06bb #
+*{Chara 1} started 
+ dropping the
+ Crumbs.
+
+# 06bc #
+*You can't USE
+ Bread until old
+ Crumbs are USEd up.
+
+# 06bd #
+*{Leader} returned
+ to the head of the
+ trail...
+\b*by following the
+ Crumbs that had
+ been dropped.
+
+# 06be #
+*{Chara 1} tied the
+ Ribbon into
+ her hair.
+
+# 06bf #
+*If that is true,
+ push the POWER off,
+\b*but remember to
+ hold in RESET!
+
+# 06c0 #
+*{Chara 1} measured the
+ lengths of many
+ things.
+
+# 06c1 #
+*When the Big Bag
+ was emptied,
+\b*it disappeared
+ into thin air.
+
+# 06c2 #
+*The credit limit of
+ the Telephone Card
+ has been reached.
+
+# 06c3 #
+*The poison was
+ neutralized from
+ {Chara 1}'s body.
+
+# 06c4 #
+*{Chara 1} was rid
+ of the cold.
+
+# 06c5 #
+*{Chara 1} squeezed
+ the PSI-Power
+ Stone.
+
+# 06c6 #
+*The PSI-Power
+ Stone became an
+ ordinary stone.
+
+# 06c7 #
+*{Chara 1} tried
+ {Action}.
+
+# 06c8 #
+*There isn't enough
+ power left to try
+ that.
+
+# 06c9 #
+*{Chara 1} has
+ returned to the
+ scene.
+
+# 06ca #
+*The Diary was hard
+ to read, but opened
+ up to this page...
+\b*(PASSWORD)
+\b*.... the one who
+ lost the tail.
+\b*The forgotten one...
+ ...the ship
+ that sails...
+
+# 06cb #
+*{Chara 2} became
+ softened.
+
+# 06cc #
+*The Ocarina
+ played on and on...
+
+# 06cd #
+*Did you hear it?
+
+# 06ce #
+*This place is not
+ on the map.
+
+# 06cf #
+*{Leader} checked
+ the map.
+
+# 06d0 #
+*Stopped by some
+ mysterious force.
+
+# 06d1 #
+*The Repel Ring
+ has lost its
+ mysterious power.
+
+# 06d2 #
+System Error!!!
+
+# 06d3 #
+System Error!!!
+
+# 06d4 #
+System Error!!!
+
+# 06d5 #
+System Error!!!
+
+# 06d6 #
+System Error!!!
+
+# 06d7 #
+System Error!!!
+
+# 06d8 #
+System Error!!!
+
+# 06d9 #
+System Error!!!
+
+# 06da #
+System Error!!!
+
+# 06db #
+System Error!!!
+
+# 06dc #
+System Error!!!
+
+# 06dd #
+System Error!!!
+
+# 06de #
+System Error!!!
+
+# 06df #
+System Error!!!
+
+# 06e0 #
+System Error!!!
+
+# 06e1 #
+System Error!!!
+
+# 06e2 #
+System Error!!!
+
+# 06e3 #
+System Error!!!
+
+# 06e4 #
+System Error!!!
+
+# 06e5 #
+System Error!!!
+
+# 06e6 #
+System Error!!!
+
+# 06e7 #
+System Error!!!
+
+# 06e8 #
+System Error!!!
+
+# 06e9 #
+System Error!!!
+
+# 06ea #
+System Error!!!
+
+# 06eb #
+System Error!!!
+
+# 06ec #
+System Error!!!
+
+# 06ed #
+System Error!!!
+
+# 06ee #
+System Error!!!
+
+# 06ef #
+System Error!!!
+
+# 06f0 #
+System Error!!!
+
+# 06f1 #
+System Error!!!
+
+# 06f2 #
+System Error!!!
+
+# 06f3 #
+System Error!!!
+
+# 06f4 #
+"This software is an illegal
+copy of a Nintendo game. The
+use, possession or sale of
+this counterfeit cartridge
+is illegal and infringes
+Nintendo copyrights."
+          Nintendo Co., Ltd.
+          Kyoto, Japan /
+          Redmond WA, USA.
+"This illegal copy of
+NES EARTH BOUND will
+no longer function."
+
+# 06f5 #
+System Error!!!
+
+# 06f6 #
+System Error!!!
+
+# 06f7 #
+System Error!!!
+
+# 06f8 #
+System Error!!!
+
+# 06f9 #
+System Error!!!
+
+# 06fa #
+System Error!!!
+
+# 06fb #
+System Error!!!
+
+# 06fc #
+System Error!!!
+
+# 06fd #
+System Error!!!
+
+# 06fe #
+ 
+ 
+ 
+ 
+
+# 06ff #
+At the summit of Mt. Itoi,
+{Ana} is reunited with her
+mom as the rest of the freed
+Earth people exit the cave.
+
+# 0700 #
+ {Teddy}, his health fully
+ recovered, now sings daily
+ at The Live Show.
+
+# 0701 #
+  The kidnapped grown-ups
+  return to their lonely
+  children in Youngtown.
+
+# 0702 #
+({Ana})
+I promise I won't forget you
+so I will not say Good-Bye,
+just - 'til we meet again!
+
+# 0703 #
+ {Lloyd} returns to a hero's
+ welcome at Twinkle
+ Elementary School.
+
+# 0704 #
+Son, your sisters and I are
+so happy to see you back in
+one piece. How unbelievable
+that you are not hungry.
+
+# 0705 #
+ A letter from {Ninten},
+ I miss him so much. I hope
+ we can get together again
+ soon.
+
+# 0706 #
+ Well, now that the Earth's
+ crisis is finally over, I
+ think I'll just lay down
+ for a moment and Zzzzzzzzz
+
+# 0707 #
+ I know that boy is home.
+ Come on son and answer the
+ phone. Something new has
+ come up and...
+
+# 0708 #
+{Player}
+# 0709 #
+SHIGESATO ITOI
+# 070a #
+MIYUKI KURE
+# 070b #
+AKIO OHMORI
+# 070c #
+RITSUO KAMIMURA
+# 070d #
+KEIICHI SUZUKI
+# 070e #
+HIROKAZU TANAKA
+# 070f #
+SHINBO MINAMI
+# 0710 #
+TATSUYA ISHII
+# 0711 #
+TOTTORI
+# 0712 #
+KAZUYA NAKATANI
+# 0713 #
+TAKAYUKI ONODERA
+# 0714 #
+MOTOO YASUMA
+# 0715 #
+MASAYUKI KAMEYAMA
+# 0716 #
+HIDEO KON
+# 0717 #
+KATSUTOMO MAEIWA
+# 0718 #
+KUNIKO SAKURAI
+# 0719 #
+MASAHIRO TATEMOTO
+# 071a #
+TAKASHI KAWAGUCHI
+# 071b #
+KEIZOH KATOH
+# 071c #
+MOTOHIRO ISHII
+# 071d #
+AKIHITO TODA
+# 071e #
+YUKARI SAITOH
+# 071f #
+PHIL SANDHOP
+# 0720 #
+TOSHIKO WATSON
+# 0721 #
+YUKA NAKATA
+# 0722 #
+HIROKO FAULKNER
+# 0723 #
+TONY HARMAN
+# 0724 #
+DAYV BROOKS
+# 0725 #
+NORIYUKI MINAMI
+# 0726 #
+BIN OHGAWARA
+# 0727 #
+YOSHIHISA WADA
+# 0728 #
+HIKONORI SUZUKI

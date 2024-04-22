@@ -1,0 +1,129 @@
+
+Big Bag
+Phone Card
+BreadCrumbs
+Repel Ring
+
+
+
+
+
+Knife
+Surv.Knife
+Ashi.Sword
+Katana
+Shock Gun
+Air Gun
+Wornout Bat
+Ord(in)ary Bat
+Good Bat
+Supreme Bat
+Frying Pan
+Good Pan
+Iron Pan
+Slingshot
+Boomerang
+Bug Spray
+Super Spray
+Flea Bag
+Love Words
+Swear Words
+Sticky Mch.
+Flashdark
+Stone Spray
+Stinger
+Flamethrowr
+Bomb
+Super Bomb
+Laser Beam
+Death Beam
+Confuse Ray
+Rope
+Myst.Gloves
+Pendulum
+
+
+Peace Coin
+Prot. Coin
+Magic Coin
+Fairy Band
+Angel Band
+GoddessBand
+FirePendant
+Ice Pendant
+ThunderPndt
+Sea Pendant
+RainPendant
+Horus Band
+GoddessRibb
+
+
+Juice
+Fries
+Magic Herb
+Hamburger
+SportsDrink
+Medicine
+Inhaler
+Remedy
+Mouthwash
+Berry Tofu
+Lifenoodles
+Bread
+Angel Seed
+PSI Stone
+
+MagicRibbon
+Magic Candy
+
+SpeedCapsul
+Wis.Capsule
+Str.Capsule
+ForceCapsul
+FightCapsul
+
+
+BasementKey
+Zoo Key
+Haunted Key
+GGF('s) Diary
+DuncansPass
+Show Ticket
+
+
+
+
+Baby Canary
+
+Penc(il)Rocket
+Hat
+Dentures
+Ticket Stub
+IC Chip
+Ocarina
+
+Frank.Badge
+Friend Ring
+Wimperizer
+Onyx Hook
+F(in)al Weapon
+Ruler
+ATM Card
+Red Grass
+Megaphone
+Map
+Meteotite
+
+
+
+
+
+
+
+
+
+
+
+
+
+Debug

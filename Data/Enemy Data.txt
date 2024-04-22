@@ -1,0 +1,1 @@
+Name;HP;Offense;Defense;Fight;Speed;Wisdom;Strength;Force;Attacks;EXP;Money;Item

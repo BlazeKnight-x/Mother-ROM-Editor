@@ -1,0 +1,111 @@
+ID,Name,HP,PP,Off,Def,Fit,Spd,Wis,Str,Fce,Item,EXP,Money,Actions,,,,,,,,Immune to Status,Resist Fire,Resist Ice,Resist Electric,null,Mental Immunity,Resist Light,Weak to Bug Spray
+3f,Rat          ,10,0,4,8,6,5,1,3,7,           ,3,$2 ,Nasty Words,Nasty Words,Nasty Words,Bite,Bite,Bite,Bite,Bite,0,0,0,0,0,0,0,0
+30,Centipede    ,12,0,4,12,3,17,40,20,1,           ,1,$1 ,Attack,Attack,Attack,Attack,Attack,Attack,Attack,Attack,0,0,0,0,0,0,0,1
+2d,Snake        ,18,0,6,8,5,10,1,10,1,       Herb,2,$8 ,Attack,Attack,Attack,Attack,Attack,Attack,Attack,Attack,0,0,0,0,0,0,0,0
+2c,Crow         ,22,0,8,12,8,12,1,5,10,           ,3,$4 ,Steal Food,Laughs,Laughs,Attack,Attack,Attack,Attack,Attack,0,0,0,0,0,0,0,0
+58,Stray Dog    ,16,0,8,10,8,12,2,5,8,   Flea Bag,4,$10 ,Bite,Bite,Bite,Bite,Bite,Bite,Bite,Bite,0,0,0,0,0,0,0,0
+24,Redneck      ,20,0,8,12,6,4,1,1,2,           ,5,$20 ,Rage,Attack,Attack,Attack,Attack,Attack,Attack,Attack,0,0,0,0,0,0,0,0
+25,Hippie       ,25,0,8,14,3,6,1,1,3,           ,6,$35 ,Megaphone,Prays,Rage,Attack,Attack,Attack,Attack,Attack,0,0,0,0,0,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+79,LastStarman  ,120,100,90,140,70,60,60,80,50,  PSI Stone,330,$389 ,PK Beam B,PK Beam B,PSI Shield a,PK Beam Y,Attack,Attack,Guard,Guard,0,0,0,0,0,0,0,0
+39,Ghost        ,20,0,12,24,6,22,5,40,15,           ,5,$10 ,Run,Run,Attack,Attack,Attack,Attack,Attack,Attack,1,0,0,0,0,0,0,0
+2b,PseudoZombie ,30,0,16,16,10,12,5,40,7,           ,8,$12 ,Scratch,Bite,Bore down,Scratch,Bite,Bore down,Scratch,Bite,1,0,0,0,0,0,0,0
+2a,Gang Zombie  ,34,0,18,20,8,8,5,40,5,           ,12,$32 ,Attack,Attack,Attack,Attack,Attack,Attack,Attack,Attack,1,0,0,0,0,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+32,Fly          ,10,0,1,40,32,40,10,1,40,           ,1,$1 ,Call Ally,Call Ally,Call Ally,Attack,Run,Attack,Attack,Attack,0,0,0,0,0,0,0,1
+2e,Hyena        ,30,0,10,16,10,22,18,10,5,           ,12,$20 ,Plays dead,Plays dead,Plays dead,Run,Bite,Bite,Bite,Bite,0,0,0,0,0,0,0,0
+46,Biopede      ,35,0,16,32,15,28,60,30,30,           ,18,$14 ,Attack,Stinger,Stinger,Attack,Attack,Attack,Attack,Attack,0,0,0,0,0,0,0,1
+17,Crocodile    ,30,0,18,22,10,15,10,15,5,           ,21,$18 ,Approach,Approach,Attack,Attack,Attack,Attack,Attack,Attack,0,0,0,0,0,0,0,0
+ c,Gorilla      ,40,0,20,26,35,15,5,10,20,           ,23,$52 ,Steal Food,Attack,Attack,Rage,Attack,Attack,Attack,Attack,0,0,0,0,0,0,0,0
+ e,Tiger        ,35,0,26,24,40,20,5,10,20,           ,24,$47 ,Bite,Combo,Combo,Bite,Bite,Bite,Bite,Combo,0,0,0,0,0,0,0,0
+4,Elephant     ,70,0,20,34,30,10,5,30,8,           ,60,$99 ,Bore down,Bore down,Bore down,Attack,Attack,Attack,Attack,Attack,0,0,0,0,0,0,0,0
+3c,Starman Jr.  ,52,16,32,52,35,20,18,30,30,           ,30,$5 ,PK Beam a,PK Beam a,PK Beam Y,Attack,Attack,Attack,Attack,Guard,1,1,1,1,0,1,1,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10,Raeb Yddet   ,40,0,22,38,25,25,18,25,18,           ,25,$27 ,Call Ally,Call Ally,Attack,Attack,Attack,Attack,Attack,Attack,0,0,0,0,0,0,0,0
+63,Sky Yddet    ,74,0,24,50,20,30,20,50,20,  PSI Stone,40,$23 ,Plays dead,Plays dead,Plays dead,Plays dead,Plays dead,Plays dead,Desperate Attack,Desperate Attack,0,0,0,0,0,0,0,0
+38,Bonus Swoosh ,35,0,12,40,20,20,20,20,20,           ,3,$12 ,bonus EXP,bonus EXP,bonus EXP,bonus EXP,Attack,Attack,Attack,Attack,0,0,0,0,0,0,0,0
+37,Swoosh       ,30,0,16,24,25,30,20,20,20,           ,30,$20 ,Attack,Attack,Attack,Attack,Attack,Attack,Attack,Attack,0,0,0,0,0,0,0,0
+5f,Papa Swoosh  ,40,0,20,32,20,20,20,20,20,           ,35,$53 ,Rage,Rage,Rage,Attack,Attack,Attack,Attack,Attack,0,0,0,0,0,0,0,0
+60,Swooshette   ,40,0,24,20,50,50,20,20,20,           ,35,$34 ,Combo,Combo,Combo,Combo,Combo,Combo,Combo,Combo,0,0,0,0,0,0,0,0
+5e,WhooshSwoosh ,40,0,22,32,20,40,20,20,20,           ,32,$26 ,Approach,Approach,Approach,Attack,Attack,Attack,Attack,Attack,0,0,0,0,0,0,0,0
+11,Magisnail    ,50,0,20,90,20,18,18,40,18,           ,42,$28 ,Attack,Approach,Attack,Attack,Attack,Attack,Attack,Attack,0,0,0,0,1,0,0,0
+23,Woodoh       ,40,0,20,38,25,25,30,40,20,           ,40,$38 ,Sprout Seeds,Sprout Seeds,Sprout Seeds,Puzzle,Attack,Attack,Attack,Attack,0,0,1,0,0,1,0,0
+1,Big Woodoh   ,70,0,18,50,20,23,60,60,18, Angel Seed,100,$140 ,Attack,Dehydrate,Demon Seed,Demon Seed,Attack,Attack,Attack,Attack,0,0,1,0,0,1,0,0
+1f,Miraco       ,40,60,18,40,40,30,30,10,20,           ,65,$50 ,PK Thunder a,PK Thunder a,PK Thunder a,PK Thunder a,PK Thunder a,PK Thunder a,PK Thunder a,PK Thunder a,0,0,0,1,0,0,0,0
+19,CavernMaster ,65,0,38,60,45,30,20,40,40,           ,140,$180 ,Combo,Combo,Combo,Combo,Combo,Combo,Combo,Combo,0,1,1,0,0,0,1,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+3a,Lil Saucer   ,32,20,20,30,15,20,18,100,100,           ,30,$22 ,Attack,PSI Block,Attack,Attack,PSI Shield a,Attack,Attack,Attack,1,1,0,1,0,1,1,0
+1c,Barbot       ,60,40,24,36,30,35,35,100,100,           ,32,$45 ,Attack,Attack,Attack,PK Beam Y,Attack,Attack,Attack,Attack,1,1,0,1,0,1,1,0
+2f,Lynx         ,42,0,28,40,35,78,30,20,20,           ,32,$25 ,Scratch,Scratch,Scratch,Scratch,Scratch,Scratch,Scratch,Scratch,0,0,0,0,0,0,0,0
+3d,Skunk        ,40,0,26,48,52,30,30,20,20,           ,32,$32 ,Attack,Attack,Attack,Attack,Trips,Attack,Attack,Attack,0,0,0,0,0,0,0,0
+15,Wolf         ,50,0,30,46,25,30,30,30,30,           ,34,$31 ,Bite,Bite,Bite,Bite,Bite,Bite,Bite,Bite,0,0,0,0,0,0,0,0
+14,Eagle        ,45,0,32,44,20,60,30,20,40,           ,36,$30 ,Attack,Attack,Attack,Attack,Attack,Attack,Attack,Attack,0,0,0,0,0,0,0,0
+5,Bear         ,80,0,42,64,30,28,20,40,10,           ,70,$250 ,Attack,Attack,Attack,Scratch,Bore down,Plays dead,Attack,Attack,0,0,0,0,0,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+59,Devil Car    ,40,0,18,40,45,40,35,100,100,           ,61,$45 ,Run over,Exhaust,Run over,Run over,Run over,Run over,Run over,Run over,1,0,0,0,0,1,0,0
+5a,Devil Truck  ,58,0,20,40,30,32,35,100,100,           ,34,$27 ,Run over,Run over,Exhaust,Exhaust,Run over,Run over,Run over,Exhaust,1,0,0,0,0,1,0,0
+ f,Mad Car      ,40,0,20,38,45,40,35,100,100,           ,55,$32 ,Run over,Run over,Run over,Run over,Run over,Run over,Run over,Exhaust,1,0,0,0,0,1,0,0
+7,Mad Truck    ,60,0,22,40,38,35,35,100,100,           ,57,$30 ,Run over,Run over,Run over,Run over,Run over,Run over,Exhaust,Exhaust,1,0,0,0,0,1,0,0
+5b,Death Truck  ,80,0,34,48,45,35,35,100,100,           ,75,$58 ,Exhaust,Exhaust,Run over,Run over,Exhaust,Run over,Run over,Exhaust,1,0,0,0,0,1,0,0
+26,Bag Lady     ,90,0,12,38,20,40,30,30,10,     Burger,63,$150 ,Combo,Combo,Combo,Scary Words,Attack,Attack,Attack,Attack,0,0,0,0,0,0,0,0
+1a,Fugitive     ,60,0,32,45,20,22,6,18,8,           ,60,$350 ,Attack,Attack,Attack,Attack,Attack,Attack,Attack,Attack,0,0,0,0,0,0,0,0
+35,Rope         ,80,0,35,50,50,30,5,80,80,       Rope,48,$80 ,Rope,Rope,Attack,Attack,Attack,Attack,Attack,Attack,0,0,0,0,0,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+40,Bomber       ,60,0,10,64,20,35,30,100,100,       Bomb,56,$32 ,Trips,Trips,Trips,Bomb,Bomb,Attack,Attack,Attack,1,1,0,0,0,1,0,0
+36,Fireball     ,58,50,24,58,35,40,30,50,30,           ,61,$35 ,PK Fire a,PK Fire a,PK Fire a,PK Fire a,PK Fire a,PK Fire a,PK Fire a,PK Fire a,1,1,0,0,0,0,0,0
+28,Dr.Distorto  ,60,0,38,48,25,45,30,30,30,           ,45,$40 ,Run,Rage,Attack,Attack,Attack,Attack,Attack,Attack,0,0,0,0,0,0,0,0
+8,Old Robo     ,60,30,48,72,25,20,20,100,100,           ,54,$38 ,Attack,PK Beam a,PK Beam a,Guard,Attack,Attack,Attack,Attack,1,0,0,0,0,1,0,0
+67,Scrapper     ,70,30,26,76,25,20,20,100,100, Laser Beam,65,$38 ,Guard,Guard,Attack,Attack,Attack,PK Beam a,PK Beam a,PK Beam a,1,0,0,0,0,1,1,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+75,Silver Wolf  ,80,0,44,76,40,42,30,30,25,           ,66,$43 ,Bite,Bite,Bite,Bite,Bite,Bite,Bite,Bite,0,0,1,0,0,0,0,0
+4b,Lone Wolf    ,80,0,60,150,50,60,30,30,60,           ,100,$41 ,Bite,Bite,Bite,Bite,Bite,Bite,Bite,Bite,0,0,1,0,0,0,0,0
+6,Bigfoot      ,90,50,50,90,50,38,30,60,15,           ,150,$48 ,PK Freeze Y,PK Freeze B,PK Freeze a,PK Freeze a,PK Freeze a,PK Freeze a,PK Freeze a,PK Freeze a,0,0,1,0,0,0,0,0
+4c,Polar Bear   ,100,0,52,180,30,40,30,40,30,           ,160,$50 ,Attack,Attack,Attack,Scratch,Bore down,Plays dead,Attack,Attack,0,0,1,0,0,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+57,Biobat       ,50,0,34,64,20,35,50,60,30,           ,40,$34 ,Call Ally,Call Ally,Confuse Self,Confuse Self,Attack,Attack,Attack,Stone Spray,0,0,0,0,0,0,0,0
+73,Zombie       ,70,50,50,80,45,48,80,60,15,           ,48,$43 ,Brainshock,Brainshock,Brainshock,Laughs,Laughs,Laughs,Laughs,Attack,1,0,0,0,0,0,0,0
+74,ViolentZomb  ,90,0,62,90,30,30,50,60,20,           ,54,$58 ,Attack,Attack,Attack,Attack,Attack,Attack,Attack,Attack,1,0,0,0,0,0,0,0
+3e,BloodyZombie ,90,0,42,128,25,35,55,70,10,           ,58,$34 ,Dehydrate,Dehydrate,Desperate Attack,Attack,Attack,Attack,Attack,Attack,1,0,0,0,0,0,0,0
+5c,Alarm Ghost  ,100,0,30,160,50,90,50,60,30,           ,80,$27 ,Call Ally,Call Ally,Call Ally,Call Ally,Attack,Attack,Attack,Attack,1,0,0,0,0,0,0,0
+31,Dust Ghost   ,78,0,40,120,30,50,50,60,20,           ,80,$100 ,Plays dead,Plays dead,Plays dead,Plays dead,Plays dead,Plays dead,Plays dead,Plays dead,1,0,0,0,0,0,0,0
+22,Armor        ,120,100,68,150,50,60,50,100,100,           ,200,$300 ,Attack,PK Thunder B,Attack,Attack,Attack,Attack,Attack,Attack,1,1,1,1,1,1,1,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+51,Rattlesnake  ,100,0,65,128,60,80,80,60,20,           ,57,$54 ,Approach,Approach,Approach,Desperate Attack,Attack,Attack,Attack,Attack,0,0,0,0,1,0,0,0
+34,Scorpion     ,75,0,60,80,40,60,80,60,15,           ,50,$36 ,Stinger,Stinger,Stinger,Bite,Bite,Bite,Bite,Bite,0,0,0,0,0,0,0,1
+47,Bioscorp     ,100,0,60,150,40,70,80,60,60,           ,61,$56 ,Stinger,Stone Spray,Stinger,Stone Spray,Attack,Attack,Attack,Attack,0,0,0,0,0,0,0,1
+52,Tarantula    ,120,0,84,160,70,80,80,60,15,           ,205,$85 ,Call Ally,Call Ally,Stinger,Stinger,Stinger,Stinger,Attack,Attack,0,0,0,0,0,0,0,1
+ b,Gabilan      ,100,0,62,100,50,68,70,15,15,           ,70,$43 ,Attack,Spew,Spew,Attack,Combo,Attack,Attack,Dehydrate,0,0,0,0,0,0,0,0
+1d,Jane         ,120,60,62,170,50,72,60,100,100,           ,68,$50 ,Bold Smile,Attack,PSI Block,PK Freeze Y,Bold Smile,Attack,Attack,Attack,1,0,1,1,0,1,0,0
+69,OmegaSaucer  ,65,50,42,50,20,60,40,100,100,           ,82,$57 ,PK Beam a,Attack,PSI Shield a,Attack,Attack,Attack,Attack,Attack,1,0,0,0,0,1,0,0
+18,Atomic Robo  ,80,0,60,90,20,20,40,100,100,           ,202,$70 ,Guard,Fuel,Fuel,Fuel,Fuel,Attack,Attack,Attack,1,0,0,0,0,1,0,0
+68,Death Barbot ,80,50,54,80,30,50,40,100,100, Death Beam,220,$87 ,Attack,PK Beam Y,Attack,Attack,Attack,Attack,Attack,Attack,1,1,0,1,0,1,0,0
+1e,Starman      ,80,50,45,80,30,40,60,40,35,  PSI Stone,165,$68 ,PK Beam a,PK Beam a,PSI Shield a,Attack,Attack,Guard,Guard,PK Beam Y,0,0,0,0,0,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+4a,Red Snake    ,150,0,50,160,90,100,60,60,40, Magic Coin,500,$330 ,Run,Run,Run,Run,Run,Run,Attack,Attack,0,0,0,0,0,0,0,0
+33,Spider       ,80,0,45,95,60,80,80,60,15,           ,48,$40 ,Call Ally,Stinger,Stinger,Call Ally,Call Ally,Attack,Attack,Nasty Words,0,0,0,0,0,0,0,1
+12,Titany       ,130,40,54,200,30,58,80,60,10,           ,78,$50 ,Hypnosis,Hypnosis,Hypnosis,Attack,Attack,Attack,Attack,Attack,0,0,0,0,1,1,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+53,Strong Croc  ,120,0,80,150,40,30,40,80,20,           ,172,$88 ,Approach,Approach,Attack,Attack,Attack,Attack,Attack,Attack,0,0,0,0,0,0,0,0
+55,Buffalo      ,150,0,68,150,60,43,40,40,20,           ,103,$95 ,Attack,Attack,Attack,Attack,Attack,Attack,Attack,Attack,0,0,0,0,0,0,0,0
+ d,Bison        ,160,0,70,160,50,50,80,80,80,           ,186,$83 ,Attack,Attack,Attack,Attack,Attack,Attack,Attack,Combo,0,0,0,0,0,0,0,0
+6a,Caroline     ,120,80,80,150,50,70,60,100,100,           ,102,$88 ,Bold Smile,Puzzle,Darkness,Attack,Bold Smile,Attack,Attack,Attack,1,0,0,0,0,1,1,0
+21,Mook         ,85,80,50,110,50,40,100,30,30,           ,166,$42 ,PK Freeze a,PK Freeze B,Brainshock,Lifeup a,Def.Up a,Darkness,Hypnosis,Paralysis,0,0,0,0,0,1,0,0
+16,Seagull      ,90,0,68,90,50,70,40,20,20,           ,100,$44 ,Steal Food,Laughs,Attack,Guard,Attack,Attack,Attack,Attack,0,0,0,0,0,0,0,0
+79,LastStarman  ,120,100,90,140,70,60,60,80,50,  PSI Stone,330,$389 ,PK Beam B,PK Beam B,PSI Shield a,PK Beam Y,Attack,Attack,Guard,Guard,0,0,0,0,0,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+6e,BlueStarman  ,100,80,74,120,40,42,60,50,45,           ,150,$91 ,PK Beam a,PK Beam B,PSI Shield a,Guard,Guard,PK Beam Y,Attack,Attack,0,0,0,0,0,0,0,0
+20,Brainga      ,200,180,60,280,120,120,80,100,100,           ,89,$80 ,PK Beam a,PK Beam B,Def.Down B,PK Fire B,PSI Block,PSI Magnet,PSI Shield a,PK Thunder B,1,1,1,1,1,1,1,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+ a,Gargoyle     ,180,60,90,160,80,70,70,100,100,           ,110,$86 ,PK Fire B,Attack,PK Fire Y,PK Fire B,Attack,PK Fire Y,Attack,Stone Spray,0,0,0,0,0,1,0,0
+6f,Satania      ,120,60,70,150,60,65,120,30,100,           ,162,$93 ,PK Freeze B,Confuse Ray,PK Freeze O,PK Freeze Y,Attack,Attack,Attack,Attack,0,0,0,0,0,1,0,0
+9,Mega Borg    ,160,60,80,170,60,50,60,100,100,           ,197,$109 ,PK Beam a,PK Beam B,PK Beam a,PK Beam a,PK Beam a,PK Beam a,PK Beam a,Attack,1,1,1,1,1,1,1,0
+70,Titanian     ,320,0,100,420,60,70,200,80,25,           ,180,$130 ,Puzzle,Puzzle,Puzzle,Attack,Attack,Attack,Attack,Stone Spray,0,0,0,0,1,1,0,0
+77,Grizzly      ,340,0,160,340,100,100,60,100,25,           ,250,$65 ,Combo,Combo,Combo,Scratch,Bore down,Combo,Combo,Desperate Attack,0,0,0,0,0,0,0,0
+71,Mook Senior  ,160,250,60,140,100,65,250,100,100,           ,175,$110 ,PK Fire B,PK Freeze B,Brainshock,Steal Food,Lifeup Y,Def.Up a,Darkness,PSI Block,0,0,1,0,0,1,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+65,Giga Borg    ,180,80,100,180,80,60,80,100,100, Laser Beam,98,$143 ,PK Beam a,PK Beam Y,PK Beam a,PK Beam a,PK Beam B,PK Beam a,PK Beam a,PK Beam a,1,1,1,1,1,1,1,0
+66,Last Borg    ,230,150,150,200,200,100,90,100,100,           ,180,$205 ,PK Beam Y,PK Beam B,PK Beam B,PK Fire B,PK Fire B,Robo Missles,Attack,PK Freeze O,1,1,1,1,1,1,1,0
+6b,Star Miner   ,200,0,140,200,100,100,60,100,100, Super Bomb,209,$138 ,Trips,Bomb,Trips,Bomb,Bomb,Bomb,Bomb,Attack,1,0,0,0,0,1,0,0
+6c,Nuclear Robo ,120,0,50,120,30,35,60,100,100,           ,230,$260 ,Fuel,Fuel,Fuel,Fuel,Attack,Attack,Attack,Attack,1,0,0,0,0,1,0,0
+6d,Suzie        ,300,200,200,250,200,120,100,100,100,  PSI Stone,270,$362 ,PK Thunder B,Robo Missles,PK Fire B,Bold Smile,PK Fire Y,PK Beam Y,Attack,Attack,1,1,1,1,1,1,1,0
+79,LastStarman  ,120,100,90,140,70,60,60,80,50,  PSI Stone,330,$389 ,PK Beam B,PK Beam B,PSI Shield a,PK Beam Y,Attack,Attack,Guard,Guard,0,0,0,0,0,0,0,0

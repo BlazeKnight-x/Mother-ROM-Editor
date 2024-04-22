@@ -1,0 +1,137 @@
+
+Attack
+Combo
+Bite
+Scratch
+Bore down
+Run over
+Desperate Attack
+Giegue Attack
+PK Fire a
+PK Fire B
+PK Fire Y
+PK Freeze a
+PK Freeze B
+PK Freeze O
+PK Freeze Y
+Bomb
+Super Bomb
+PK Beam a
+PK Beam B
+PK Beam O
+PK Beam Y
+Bug Spray
+PK Thunder a
+PK Thunder B
+Explode
+Burst
+Offense Up
+Sing
+Def.Up a
+Def.Up B
+Quick Up
+
+
+Scary Words
+Nasty Words
+
+Def.Down a
+
+
+Rage
+Lifeup a
+Lifeup B
+Lifeup Y
+Lifeup P
+Lifeup O
+Fuel
+PSI Stone
+PSI Magnet
+Darkness
+Exhaust
+
+Dehydrate
+
+PSI Block
+Powershield
+PSI Shield a
+PSI Shield B
+
+
+Megaphone
+Stinger
+Stone Spray
+Spew
+Confuse Ray
+Demon Seed
+Brainshock
+Braincyclone
+Hypnosis
+Paralysis
+Trips
+Rope
+Run
+Call Ally
+Sprout Seeds
+Steal Food
+Laughs
+Hypnosis B
+Paralysis B
+Plays dead
+Prays
+bonus EXP
+
+Guard
+Confuse Self
+Venom Bite
+Reckless
+
+Ram
+Defend
+
+Healing a
+Dimension Slip
+Approach
+Spawn
+Angel Seed
+Flea Bag
+
+Puzzle
+Healing B
+Hyper Healing
+Super Healing
+Shield Off
+Flamethrower
+
+Laser Beam
+Death Beam
+Bold Smile
+Strange Howl
+Flashdark
+Sticky Machine
+Check
+
+Juice
+Fries
+Herb
+Drink
+Big Bag
+Inhaler
+Super Spray
+Love Words
+Swear Words
+Burger
+Medicine
+Remedy
+Pencil Rocket
+Lifenoodles
+Pendulum
+Para Gas
+
+Def.Down B
+Robo Missles
+Bread
+PK Fire O
+Healing Y
+
+EVE Explosion

@@ -1,0 +1,1072 @@
+EVE Explosion                  | ID: 0x88 | Target Menu: None
+	displayText: 1e
+	playSound: Bomb
+	Subroutine -> Fire Omega
+	Effect: Kill Self
+	END
+	END
+
+Action 0x0                     | ID: 0x0 | Target Menu: None
+	END															Label = NOTHING
+
+Bash                           | ID: 0x1 | Target Menu: Enemy
+	Target Selected												Label = Bash Start
+	jumpIf; is in Tank -> Tank BA
+	jumpIfNOT; Target Alive -> Whiff BA
+	jumpIf; Check Crit -> Crit BA
+	playAttackSound												Label = Bash Normal
+	displayText: 04
+	jumpIfNOT; Check Dodge -> Dodge Logic						Label = Normal Logic
+	jumpIf; Check Blind -> Blind Logic
+	animationSimple
+	setNumBash
+	Effect: Inflict Damage
+	END
+	playSound: Crit												Label = Crit BA
+	displayText: 04
+	animationCrit
+	displayText: 0b
+	setNumCrit
+	Effect: Inflict Damage
+	END
+	playSound: Bomb												Label = Tank BA
+	displayText: 05
+	animationCrit
+	setNum: 60
+	Effect: Inflict Damage
+	END
+
+Combo                          | ID: 0x2 | Target Menu: Enemy
+	Target Selected
+	jumpIfNOT; Target Alive -> Whiff BA
+	Subroutine -> Bash Normal
+	jumpIfNOT; Attacker & Target Alive -> END
+	playAttackSound
+	displayText: 07
+	Subroutine -> Normal Logic
+	END
+
+Bite                           | ID: 0x3 | Target Menu: Enemy
+	Target Selected												Label = Bite BA
+	jumpIfNOT; Attacker & Target Alive -> Whiff BA
+	playAttackSound
+	displayText: 08
+	Target Selected												Label = Bite Clone
+	jumpIfNOT; Check Dodge -> Dodge Logic
+	jumpIf; Check Blind -> Blind Logic
+	setNumBash													Label = Bash Damage Routine
+	animationSimple
+	Effect: Inflict Damage
+	END
+
+Scratch                        | ID: 0x4 | Target Menu: Enemy
+	Target Selected
+	jumpIfNOT; Attacker & Target Alive -> Whiff BA
+	playAttackSound
+	displayText: 09
+	Unconditional -> Bite Clone
+
+Bore down                      | ID: 0x5 | Target Menu: Enemy
+	Target Selected
+	jumpIfNOT; Attacker & Target Alive -> Whiff BA
+	playAttackSound
+	displayText: 0a
+	Unconditional -> Bite Clone
+
+Drives Combo                   | ID: 0x6 | Target Menu: Enemy
+	Target Selected
+	jumpIfNOT; Attacker & Target Alive -> Whiff BA
+	playAttackSound
+	displayText: 13
+	Subroutine -> Normal Logic
+	jumpIfNOT; Attacker & Target Alive -> END
+	playAttackSound
+	Subroutine -> Normal Logic
+	END
+
+Desperate Attack               | ID: 0x7 | Target Menu: Enemy
+	Target Selected
+	jumpIfNOT; Attacker & Target Alive -> Whiff BA
+	playSound: Crit
+	displayText: 15
+	jumpIf; Check Blind -> Desperate Blind
+	animationCrit
+	setNumCrit
+	Effect: Inflict Damage
+	Effect: Kill Self											Label = Desperate Kill Self
+	displayText: 14
+	END
+	Subroutine -> Blind Logic									Label = Desperate Blind
+	Unconditional -> Desperate Kill Self
+
+Giegue Attack                  | ID: 0x8 | Target Menu: None
+	GiegueSpeech
+	Target Enemy Team Leader
+	playSound: Giegue Attack
+	displayText: 16
+	repeatTimes; 4
+	jumpIfNOT; Attacker & Target Alive -> TargetNext Logic
+	animationLong
+	setNum: 75
+	Effect: Inflict Damage										Label = GroupDamage Logic
+	Target Next													Label = TargetNext Logic
+	END
+	END
+
+PK Fire Alpha                  | ID: 0x9 | Target Menu: None
+	readPSI: 2c
+	setNum: 20													Label = PK Fire Alpha
+	playSound: Fire												Label = PK Fire
+	Target Enemy Team Leader									Label = GroupFireDamage Logic
+	repeatTimes; 4
+	jumpIfNOT; Target Alive -> TargetNext Logic
+	applyResistance: Fire
+	animationFire
+	Unconditional -> GroupDamage Logic
+
+PK Fire Beta                   | ID: 0xa | Target Menu: None
+	readPSI: 2d
+	setNum: 60													Label = PK Fire Beta
+	Unconditional -> PK Fire
+
+PK Fire Gamma                  | ID: 0xb | Target Menu: None
+	readPSI: 2e
+	setNum: 100													Label = PK Fire Gamma
+	Unconditional -> PK Fire
+
+PK Freeze Alpha                | ID: 0xc | Target Menu: Enemy
+	Target Selected
+	jumpIfNOT; Attacker & Target Alive -> Whiff BA
+	readPSI: 28
+	setNum: 10
+	applyResistance: Ice										Label = PK Freeze
+	playSound: Freeze
+	animationFreeze
+	Effect: Inflict Damage
+	END
+
+PK Freeze Beta                 | ID: 0xd | Target Menu: Enemy
+	Target Selected
+	jumpIfNOT; Attacker & Target Alive -> Whiff BA
+	readPSI: 29
+	setNum: 100
+	Unconditional -> PK Freeze
+
+PK Freeze Omega                | ID: 0xe | Target Menu: Enemy
+	Target Selected
+	jumpIfNOT; Attacker & Target Alive -> Whiff BA
+	readPSI: 2b
+	setNum: 240
+	Unconditional -> PK Freeze
+
+PK Freeze Gamma                | ID: 0xf | Target Menu: Enemy
+	Target Selected
+	jumpIfNOT; Attacker & Target Alive -> Whiff BA
+	readPSI: 2a
+	Target Selected
+	playSound: Freeze
+	animationFreeze
+	Effect: Cryo Freeze
+	END
+
+Bomb                           | ID: 0x10 | Target Menu: None
+	readConsumable: 23
+	playSound: Bomb
+	setNum: 60
+	Unconditional -> GroupFireDamage Logic
+
+Super Bomb                     | ID: 0x11 | Target Menu: None
+	readConsumable: 24
+	playSound: Bomb
+	Subroutine -> Fire Omega
+	setNum: 31
+	Effect: Recoil Damage
+	END
+
+PK Beam Alpha                  | ID: 0x12 | Target Menu: Enemy
+	Target Selected
+	jumpIfNOT; Attacker & Target Alive -> Whiff BA
+	readPSI: 30
+	playSound: Beam												Label = PK Beam Alpha
+	setNum: 40
+	Unconditional -> PK Beam
+
+PK Beam Beta                   | ID: 0x13 | Target Menu: Enemy
+	Target Selected
+	jumpIfNOT; Attacker & Target Alive -> Whiff BA
+	readPSI: 31
+	playSound: Beam												Label = PK Beam Beta
+	setNum: 80
+	Unconditional -> PK Beam
+
+PK Beam Omega                  | ID: 0x14 | Target Menu: None
+	readPSI: 33
+	setNum: 180
+	playSound: Beam
+	Target Enemy Team Leader
+	repeatTimes; 4
+	jumpIfNOT; Attacker & Target Alive -> TargetNext Logic
+	applyResistance: Light										Label = PK Beam
+	animationBeam
+	Unconditional -> GroupDamage Logic
+
+PK Beam Gamma                  | ID: 0x15 | Target Menu: Enemy
+	Target Selected
+	jumpIfNOT; Attacker & Target Alive -> Whiff BA
+	readPSI: 32
+	playSound: Beam
+	jumpIf; has Franklin Badge -> displayText
+	animationBeam
+	jumpIf; is Immune Bit -> No Effect Logic
+	Effect: OHKO
+	END
+	displayText: 52
+	Target Self
+	Unconditional -> -animationBeam
+
+Bug Spray                      | ID: 0x16 | Target Menu: None
+	readBreakable: 19
+	playSound: Enemy Attack
+	Subroutine -> Bug Spray Routine
+	scriptBreakable: 19
+	END
+
+PK Thunder		               | ID: 0x17 | Target Menu: None
+	readPSI: 34
+	playSound: Thunder
+	setNum: 60
+	Target Enemy Team Leader
+	repeatTimes; 4
+	jumpIfNOT; Target Alive -> Target Next
+	jumpIfNOT; Target is Player Character -> playSound
+	applyResistance: Electric
+	animationThunder
+	Effect: Shield Off
+	Unconditional -> GroupDamage Logic
+	playSound: Miss
+	displayText: 12
+	Target Next
+	END
+	END
+
+PK Flash		               | ID: 0x18 | Target Menu: None
+	readPSI: 35
+	playSound: Beam
+	Target Enemy Team Leader
+	jumpIf; 50% Chance -> Normal Flash
+	jumpIf; 50% Chance -> Normal Flash
+	jumpIf; 50% Chance -> Normal Flash
+	playSound: Thunder
+	jumpIfNOT; Target Alive -> Do Flash 2
+	Subroutine -> Flash 1
+	Target Enemy Team Leader
+	Subroutine -> Flash 2					Label = Do Flash 2
+	Target Enemy Team Leader
+	Subroutine -> Flash 3
+	Target Enemy Team Leader
+	Target Next
+	Target Next								Label = Flash 3
+	Target Next								Label = Flash 2
+	jumpIfNOT; Target Alive -> END			Label = Flash 1
+	animationBeam
+	animationCrit
+	jumpIfNOT; has Franklin Badge -> Effect
+	displayText: 52
+	Target Self
+	jumpIfNOT; Target Alive -> END
+	Effect: OHKO
+	END
+	repeatTimes; 4												Label = Normal Flash
+	jumpIfNOT; Target Alive -> Target Next
+	animationBeam
+	Effect: Blind												Label = EffectBlind Logic
+	Target Next
+	END
+	END
+
+Explode                        | ID: 0x19 | Target Menu: None
+	playSound: Bomb
+	displayText: 1e
+	setNum: 60
+	Subroutine -> GroupFireDamage Logic
+	Effect: Kill Self
+	END
+
+Burst into flames              | ID: 0x1a | Target Menu: None
+	playSound: Fire
+	displayText: 1f
+	setNum: 30
+	Subroutine -> GroupFireDamage Logic
+	Effect: Kill Self
+	END
+
+Offense Up                     | ID: 0x1b | Target Menu: Ally
+	readPSI: 18
+	Target Selected
+	jumpIf; Attacker & Target Alive -> Effect
+	Target Self
+	Effect: Raise Offense
+	END
+
+Sing                           | ID: 0x1c | Target Menu: None
+	Target Enemy Team Leader
+	displayText: 5a
+	jumpIfNOT; is Giegue Fight -> It Had No Effect Logic
+	Effect: Sing
+	END
+
+Defense Up Alpha               | ID: 0x1d | Target Menu: Ally
+	readPSI: 1a
+	Target Selected
+	jumpIf; Attacker & Target Alive -> Effect
+	Target Self
+	Effect: Raise Defense
+	END
+
+Defense Up Beta                | ID: 0x1e | Target Menu: None
+	readPSI: 1b
+	Target Team Leader
+	repeatTimes; 4
+	jumpIfNOT; Target Alive -> Target Next
+	Effect: Raise Defense
+	Target Next
+	END
+	END
+
+Quick Up                       | ID: 0x1f | Target Menu: Ally
+	readPSI: 19
+	Target Selected
+	jumpIf; Attacker & Target Alive -> setNum
+	Target Self
+	setNum: 127
+	Effect: Raise Speed
+	END
+
+Action 0x20                    | ID: 0x20 | Target Menu: None
+
+Action 0x21                    | ID: 0x21 | Target Menu: None
+
+Scary Words                    | ID: 0x22 | Target Menu: Enemy
+	Target Selected
+	jumpIfNOT; Attacker & Target Alive -> Whiff BA
+	displayText: 32
+	setNum: 30
+	animationLong												Label = LowerFight Logic
+	Effect: Lower Fight
+	END
+
+Nasty words                    | ID: 0x23 | Target Menu: Enemy
+	Target Selected
+	jumpIfNOT; Attacker & Target Alive -> Whiff BA
+	displayText: 33
+	setNum: 20
+	Unconditional -> LowerFight Logic
+
+Action 0x24                    | ID: 0x24 | Target Menu: None
+
+Defense Down Alpha             | ID: 0x25 | Target Menu: Enemy
+	Target Selected
+	jumpIfNOT; Attacker & Target Alive -> Whiff BA
+	readPSI: 1c
+	Unconditional -> doDef.Down
+
+Action 0x26                    | ID: 0x26 | Target Menu: None
+
+Action 0x27                    | ID: 0x27 | Target Menu: None
+
+Rage                           | ID: 0x28 | Target Menu: None
+	displayText: 2a
+	Target Self													Label = Rage Logic
+	playSound: Fire
+	setNum: 20
+	Effect: Rage
+	END
+
+Lifeup Alpha                   | ID: 0x29 | Target Menu: Ally
+	readPSI: 08
+	setNum: 30
+	Target Selected												Label = HealOne Logic
+	jumpIf; Target Alive -> Effect
+	Target Self
+	Effect: Recover HP
+	END
+
+Lifeup Beta                    | ID: 0x2a | Target Menu: Ally
+	readPSI: 09
+	setNum: 80
+	Unconditional -> HealOne Logic
+
+Lifeup Gamma                   | ID: 0x2b | Target Menu: Ally
+	readPSI: 0a
+	Target Selected												Label = Lifeup Gamma
+	jumpIf; Target Alive -> Effect
+	Target Self
+	Effect: Max HP
+	END
+
+Lifeup Pi                      | ID: 0x2c | Target Menu: None
+	readPSI: 0b
+	setNum: 50
+	Target Team Leader
+	repeatTimes; 4
+	jumpIfNOT; Target Alive -> Target Next
+	Effect: Recover HP
+	Target Next
+	END
+	END
+
+Lifeup Omega                   | ID: 0x2d | Target Menu: None
+	readPSI: 0c
+	Target Team Leader
+	repeatTimes; 4
+	jumpIfNOT; Target Alive -> Target Next
+	Effect: Max HP
+	Target Next
+	END
+	END
+
+Restore Energy                 | ID: 0x2e | Target Menu: Ally
+	Target Selected
+	displayText: 3f
+	Unconditional -> Lifeup Gamma
+
+PSI Stone                      | ID: 0x2f | Target Menu: None
+	readBreakable: 49
+	setNum: 20
+	Target Self
+	Effect: Recover PP
+	scriptPSIStone: 49
+	END
+
+PSI Magnet                     | ID: 0x30 | Target Menu: None
+	readPSI: 0e
+	Target Enemy Team Leader
+	jumpIfNOT; Target Alive -> Do Magnet 2
+	Subroutine -> Magnet Logic
+	Target Enemy Team Leader
+	Subroutine -> Magnet 2nd		Label = Do Magnet 2
+	Target Enemy Team Leader
+	Subroutine -> Magnet 3rd
+	Target Enemy Team Leader
+	Target Next
+	Target Next						Label = Magnet 3rd
+	Target Next						Label = Magnet 2nd
+	jumpIfNOT; Target Alive -> END
+	animationSimple					Label = Magnet Logic
+	Effect: Magnet
+	END
+
+Darkness                       | ID: 0x31 | Target Menu: Enemy
+
+Exhaust fumes                  | ID: 0x32 | Target Menu: Enemy
+	Target Selected
+	jumpIfNOT; Attacker & Target Alive -> Whiff BA
+	playAttackSound
+	displayText: 4a
+	animationSimple
+	Effect: Para
+	END
+
+Action 0x33                    | ID: 0x33 | Target Menu: Enemy
+	Target Selected
+	jumpIfNOT; Attacker & Target Alive -> Whiff BA
+	readItem: 40
+	animationLong
+	Unconditional -> Dehydrate Logic
+
+Dehydration Attack             | ID: 0x34 | Target Menu: Enemy
+	Target Selected
+	jumpIfNOT; Attacker & Target Alive -> Whiff BA
+	playAttackSound
+	displayText: 04
+	jumpIf; Check Blind -> Blind Logic
+	animationLong
+	jumpIf; is Immune Bit -> No Effect Logic
+	displayText: 4c
+	Effect: Lower Offense										Label = Dehydrate Logic
+	Effect: Lower Defense
+	END
+
+Bind	                       | ID: 0x35 | Target Menu: Enemy
+	Target Selected
+	jumpIfNOT; Attacker & Target Alive -> Whiff BA
+	readPSI: 27
+	playSound: Enemy Attack
+	Unconditional -> Bind Logic
+
+PSI Block                      | ID: 0x36 | Target Menu: Enemy
+	Target Selected
+	jumpIfNOT; Attacker & Target Alive -> Whiff BA
+	readPSI: 26
+	playSound: Status with Wait
+	animationLong
+	Effect: Block
+	END
+
+Powershield                    | ID: 0x37 | Target Menu: Ally
+	readPSI: 16
+	Target Selected
+	jumpIf; Target Alive -> Effect
+	Target Self
+	Effect: Powershield
+	END
+
+PSI Shield Alpha               | ID: 0x38 | Target Menu: Ally
+	readPSI: 14
+	Target Selected
+	jumpIf; Target Alive -> Effect
+	Target Self
+	Effect: Shield
+	END
+
+PSI Shield Beta                | ID: 0x39 | Target Menu: None
+	readPSI: 15
+	Target Player Team Leader
+	repeatTimes; 4
+	jumpIfNOT; Attacker & Target Alive -> Target Next
+	Effect: Shield
+	Target Next
+	END
+	END
+
+Action 0x3a                    | ID: 0x3a | Target Menu: None
+
+Action 0x3b                    | ID: 0x3b | Target Menu: None
+
+Megaphone                      | ID: 0x3c | Target Menu: Enemy
+	Target Selected
+	jumpIfNOT; Attacker & Target Alive -> Whiff BA
+	readItem: 70
+	displayText: 18
+	animationLong
+	jumpIfNOT; 50% Chance -> Megaphone Fail
+	displayText: 35
+	setNum: 25
+	Effect: Lower Fight
+	END
+	displayText: 36												Label = Megaphone Fail
+	setNum: 20
+	Effect: Rage
+	END
+
+Stinger                        | ID: 0x3d | Target Menu: Enemy
+	Target Selected
+	jumpIfNOT; Attacker & Target Alive -> Whiff BA
+	playAttackSound
+	readConsumable: 21
+	jumpIfNOT; Check Dodge -> Dodge Logic
+	jumpIf; Check Blind -> Blind Logic
+	setNumBash
+	animationSimple
+	Effect: Inflict Damage
+	jumpIfNOT; Target Alive -> END
+	displayText: 2b
+	animationSimple
+	jumpIf; is Immune Bit -> No Effect Logic
+	Effect: Poison
+	END
+
+Stone Spray                    | ID: 0x3e | Target Menu: Enemy
+	Target Selected
+	jumpIfNOT; Attacker & Target Alive -> Whiff BA
+	readConsumable: 20
+	jumpIf; Check Blind -> Blind Logic
+	animationSimple
+	jumpIf; is Immune Bit -> No Effect Logic
+	Effect: Petrify
+	END
+
+Spews                          | ID: 0x3f | Target Menu: Enemy
+	Target Selected
+	jumpIfNOT; Attacker & Target Alive -> Whiff BA
+	playAttackSound
+	displayText: 1a
+	animationSimple												Label = doBlind Logic
+	Effect: Blind
+	END
+
+Confuse Ray                    | ID: 0x40 | Target Menu: Enemy
+	Target Selected
+	jumpIfNOT; Attacker & Target Alive -> Whiff BA
+	displayText: 2c
+	playSound: Status
+	animationLong
+	Effect: Confuse
+	END
+
+Demon Seed                     | ID: 0x41 | Target Menu: Enemy
+
+Brainshock                     | ID: 0x42 | Target Menu: Enemy
+	Target Selected
+	jumpIfNOT; Attacker & Target Alive -> Whiff BA
+	readPSI: 20
+	Unconditional -> Brainshock Logic
+
+Braincyclone                   | ID: 0x43 | Target Menu: None
+	readPSI: 21
+	Target Enemy Team Leader
+	repeatTimes; 4
+	jumpIfNOT; Attacker & Target Alive -> Target Next
+	playSound: Status											Label = Brainshock Logic
+	animationLong
+	jumpIf; is Mental Immune Bit -> displayText
+	Effect: Confuse
+	Target Next
+	END
+	END
+	displayText: 12												Label = NoEffectGroup Logic
+	Unconditional -> -Target Next
+
+Hypnosis                       | ID: 0x44 | Target Menu: Enemy
+	Target Selected
+	jumpIfNOT; Attacker & Target Alive -> Whiff BA
+	readPSI: 22
+	playSound: Status with Wait
+	Unconditional -> Sleep Logic
+
+Paralysis                      | ID: 0x45 | Target Menu: Enemy
+	Target Selected
+	jumpIfNOT; Attacker & Target Alive -> Whiff BA
+	readPSI: 24
+	playSound: Status with Wait
+	Unconditional -> Para Logic
+
+Trips                          | ID: 0x46 | Target Menu: None
+	playSound: Miss
+	displayText: 45
+	END
+
+Rope                           | ID: 0x47 | Target Menu: Enemy
+	Target Selected
+	jumpIfNOT; Attacker & Target Alive -> Whiff BA
+	readConsumable: 28
+	animationSimple												Label = Bind Logic
+	Effect: Bind
+	END
+
+Run                            | ID: 0x48 | Target Menu: None
+	Target Team Leader
+	displayText: 43
+	jumpIf; is Triggered Battle -> displayText
+	jumpIf; 50% Chance -> displayText
+	repeatTimes; 4
+	jumpIfNOT; Target Alive -> Target Next
+	playSound: Run
+	animationRun
+	Target Next
+	END
+	END
+	displayText: 44
+	END
+
+Call Ally                      | ID: 0x49 | Target Menu: None
+	callForHelp
+	END
+
+Sprout Seeds                   | ID: 0x4a | Target Menu: None
+	sproutSeeds
+	END
+
+Steal Food                     | ID: 0x4b | Target Menu: Enemy
+	Target Selected
+	jumpIfNOT; Attacker & Target Alive -> Bash Start
+	jumpIf; Check Blind -> Bash Start
+	playSound: Dodge
+	Effect: Steal Food
+	END
+
+Laughs                         | ID: 0x4c | Target Menu: None
+	playSound: Dodge
+	displayText: 30
+	END
+
+Hypnosis Beta                  | ID: 0x4d | Target Menu: None
+	readPSI: 23
+	playSound: Status with Wait
+	Target Enemy Team Leader
+	repeatTimes; 4
+	jumpIfNOT; Attacker & Target Alive -> Target Next
+	animationSimple												Label = Sleep Logic
+	jumpIf; is Mental Immune Bit -> NoEffectGroup Logic
+	Effect: Sleep
+	Target Next
+	END
+	END
+
+Paralysis Beta                 | ID: 0x4e | Target Menu: None
+	readPSI: 25
+	playSound: Status with Wait
+	Target Enemy Team Leader									Label = ParaBeta Effect
+	repeatTimes; 4
+	jumpIfNOT; Attacker & Target Alive -> Target Next
+	animationSimple												Label = Para Logic
+	jumpIf; is Immune Bit -> NoEffectGroup Logic
+	Effect: Para
+	Target Next
+	END
+	END
+
+Plays dead                     | ID: 0x4f | Target Menu: None
+	displayText: 34
+	END
+
+Prays                          | ID: 0x50 | Target Menu: None
+	displayText: 57
+	END
+
+bonus EXP                      | ID: 0x51 | Target Menu: Enemy
+	displayText: 58
+	Target Self
+	playSound: Run
+	animationRun
+	Target Selected
+	setNum: 70
+	Effect: Bonus EXP
+	END
+
+Action 0x52                    | ID: 0x52 | Target Menu: None
+
+Guard (Enemy)                  | ID: 0x53 | Target Menu: None
+
+confuses itself                | ID: 0x54 | Target Menu: None
+	playAttackSound
+	displayText: 66
+	Target Self
+	Effect: Confuse Self
+	END
+
+Venom Bite                    | ID: 0x55 | Target Menu: Enemy
+	Target Selected
+	jumpIfNOT; Attacker & Target Alive -> Whiff BA
+	playAttackSound
+	displayText: 08
+	setNumBash
+	jumpIfNOT; Check Dodge -> Dodge Logic
+	jumpIf; Check Blind -> Blind Logic
+	animationSimple
+	Effect: Inflict Damage
+	jumpIfNOT; Target Alive -> END
+	setNumCrit
+	displayText: 2b
+	animationSimple
+	Effect: Inflict Damage
+	END
+
+Drive Recklessly               | ID: 0x56 | Target Menu: Enemy
+	Target Selected
+	jumpIfNOT; Target Alive -> Whiff BA
+	playSound: Crit
+	displayText: 72
+	jumpIf; Check Blind -> Reckless Miss
+	jumpIfNOT; Check Dodge -> Reckless Whiff
+	setNumCrit
+	animationCrit
+	Effect: Inflict Damage
+	END
+	playSound: Miss												Label = Reckless Miss
+	displayText: 50
+	Unconditional -> Reckless Explode
+	playSound: Dodge											Label = Reckless Whiff
+	displayText: 06
+	displayText: 73												Label = Reckless Explode
+	playSound: Bomb
+	Target Self
+	animationFire
+	Effect: Kill Self
+	END
+	
+High-Beam Lights               | ID: 0x57 | Target Menu: None
+	playAttackSound
+	displayText: 76
+	Target Enemy Team Leader
+	Unconditional -> Normal Flash
+
+Ram			                   | ID: 0x58 | Target Menu: Enemy
+	Target Selected
+	jumpIfNOT; Target Alive -> Whiff BA
+	playAttackSound
+	displayText: 77
+	jumpIf; Check Blind -> Reckless Miss
+	jumpIfNOT; Check Dodge -> Dodge Logic
+	Unconditional -> Bash Damage Routine
+
+Defend			               | ID: 0x59 | Target Menu: None
+	displayText: 5b												Label = Whiff BA
+	Target Self
+	Effect: Guard
+	END
+
+Action 0x5a                    | ID: 0x5a | Target Menu: None
+
+Healing Alpha                  | ID: 0x5b | Target Menu: Ally
+	Target Selected
+	jumpIfNOT; Attacker & Target Alive -> Whiff BA
+	readPSI: 10
+	Unconditional -> Healing B
+
+Dimension Slip                 | ID: 0x5c | Target Menu: None
+	readPSI: 1e
+	playSound: Dimension Slip
+	jumpIf; is Triggered Battle -> displayText
+	Target Self
+	escapeBattle
+	END
+	displayText: 90												Label = It Had No Effect Logic
+	END
+
+Approach                       | ID: 0x5d | Target Menu: None
+	displayText: 5c
+	Unconditional -> Rage Logic
+
+Enemy Spawn                    | ID: 0x5e | Target Menu: None
+	Spawn
+	displayText: 03
+	END
+
+Angel Seed                     | ID: 0x5f | Target Menu: Ally
+
+Flea Bag                       | ID: 0x60 | Target Menu: Enemy
+	readConsumable: 1b
+	Target Selected
+	jumpIf; is Immune Bit -> No Effect Logic
+	animationSimple
+	Unconditional -> Dehydrate Logic
+
+Action0x61                     | ID: 0x61 | Target Menu: None
+
+Advanced Confusion             | ID: 0x62 | Target Menu: Enemy
+
+Healing Beta                      | ID: 0x63 | Target Menu: None
+	readPSI: 11
+	Target Team Leader
+	repeatTimes; 4
+	jumpIfNOT; Attacker & Target Alive -> Target Next
+	Effect: Heal Petrification									Label = Healing B
+	Target Next
+	END
+	END
+
+Hyper Healing                    | ID: 0x64 | Target Menu: None
+	readPSI: 13
+	Target Player Team Leader
+	repeatTimes; 4
+	jumpIfNOT; Target Alive -> Hyper Lite
+	Effect: Heal Uncon
+	Target Next
+	END
+	END
+	Effect: Heal Uncon		Label = Hyper Lite
+	Effect: Max HP
+	Target Next
+	END
+	END
+
+Super Healing                  | ID: 0x65 | Target Menu: Ally
+	readPSI: 12
+	Target Selected												Label = Super Healing
+	Effect: Heal Uncon
+	END
+
+Shield Off                     | ID: 0x66 | Target Menu: Enemy
+	Target Selected
+	jumpIfNOT; Attacker & Target Alive -> Whiff BA
+	readPSI: 17
+	playSound: Bomb
+	animationSimple
+	Effect: Shield Off
+	END
+
+Flamethrower                   | ID: 0x67 | Target Menu: None
+	readBreakable: 22
+	Subroutine -> PK Fire Gamma
+	scriptBreakable: 22
+	END
+
+Action 0x68                    | ID: 0x68 | Target Menu: None
+
+Laser Beam                     | ID: 0x69 | Target Menu: Enemy
+	Target Selected
+	jumpIfNOT; Attacker & Target Alive -> Whiff BA
+	readBreakable: 25
+	Subroutine -> PK Beam Alpha
+	scriptBreakable: 25
+	END
+
+Death Beam                     | ID: 0x6a | Target Menu: Enemy
+	Target Selected
+	jumpIfNOT; Attacker & Target Alive -> Whiff BA
+	readBreakable: 26
+	Subroutine -> PK Beam Beta
+	scriptBreakable: 26
+	END
+
+Bold Smile	                   | ID: 0x6b | Target Menu: None
+	displayText: 28
+	Target Self
+	Effect: Raise Defense
+	END
+
+strange howl                   | ID: 0x6c | Target Menu: Enemy
+
+Flashdark                      | ID: 0x6d | Target Menu: Enemy
+	Target Selected
+	jumpIfNOT; Attacker & Target Alive -> Whiff BA
+	readItem: 1f
+	playSound: Attack
+	Unconditional -> doBlind Logic
+
+Sticky Machine                 | ID: 0x6e | Target Menu: Enemy
+	Target Selected
+	jumpIfNOT; Attacker & Target Alive -> Whiff BA
+	readBreakable: 1e
+	playSound: Attack
+	animationSimple
+	Effect: Para
+	scriptBreakable: 1e
+	END
+
+Checking                       | ID: 0x6f | Target Menu: Enemy
+	Target Selected
+	jumpIfNOT; Attacker & Target Alive -> Whiff BA
+	Check
+	Target Self
+	Effect: Guard
+	END
+
+Action 0x70                    | ID: 0x70 | Target Menu: None
+
+Orange Juice                   | ID: 0x71 | Target Menu: Ally
+	readConsumable: 3c
+	setNum: 10
+	Unconditional -> HealOne Logic
+
+French Fries                   | ID: 0x72 | Target Menu: Ally
+	readConsumable: 3d
+	setNum: 20													Label = Fries
+	Unconditional -> HealOne Logic
+
+Magic Herb                     | ID: 0x73 | Target Menu: Ally
+	readConsumable: 3e
+	setNum: 30													Label = Magic Herb
+	Unconditional -> HealOne Logic
+
+Sports Drink                   | ID: 0x74 | Target Menu: Ally
+	readConsumable: 40
+	setNum: 100
+	Unconditional -> HealOne Logic
+
+Big Bag                        | ID: 0x75 | Target Menu: Ally
+	readBigBag: 01
+	Subroutine -> Magic Herb
+	scriptBigBag: 01
+	END
+
+Inhaler                        | ID: 0x76 | Target Menu: Ally
+
+Super Spray                    | ID: 0x77 | Target Menu: None
+	readItem: 1a
+	playSound: Enemy Attack
+	Target Enemy Team Leader									Label = Bug Spray Routine
+	repeatTimes; 4
+	jumpIfNOT; Attacker & Target Alive -> Target Next
+	animationSimple
+	jumpIfNOT; Weak to Bug Spray -> displayText
+	Effect: OHKO
+	Target Next
+	END
+	END
+	displayText: 12
+	Unconditional -> -Target Next
+	END
+
+Love Words                     | ID: 0x78 | Target Menu: Enemy
+
+Swear Words                    | ID: 0x79 | Target Menu: Enemy
+
+Hamburger                      | ID: 0x7a | Target Menu: Ally
+	readConsumable: 3f
+	setNum: 60
+	Unconditional -> HealOne Logic
+
+Medicine                       | ID: 0x7b | Target Menu: Ally
+	readConsumable: 41
+	Unconditional -> Lifeup Gamma
+
+Antidote                       | ID: 0x7c | Target Menu: Ally
+	Target Selected
+	jumpIfNOT; Attacker & Target Alive -> Whiff BA
+	readConsumable: 43
+	Effect: Heal Poison
+	END
+
+Pencil Rocket                  | ID: 0x7d | Target Menu: None
+	readConsumable: 61
+	Unconditional -> PK Fire Alpha
+
+Lifenoodles                    | ID: 0x7e | Target Menu: Ally
+	Target Selected
+	readConsumable: 46
+	Effect: Heal Uncon
+	END
+
+Item2a/Pendulum                | ID: 0x7f | Target Menu: Enemy
+	Target Selected
+	jumpIfNOT; Attacker & Target Alive -> Whiff BA
+	readBreakable: 2a
+	animationLong
+	Effect: Sleep
+	scriptBreakable: 2a
+	END
+
+paralysis gas                  | ID: 0x80 | Target Menu: Enemy
+
+Action 0x81                    | ID: 0x81 | Target Menu: None
+
+Defense Down Beta              | ID: 0x82 | Target Menu: None
+	Target Enemy Team Leader
+	readPSI: 1d
+	repeatTimes; 4
+	setNum: 40													Label = doDef.Down
+	jumpIfNOT; Attacker & Target Alive -> Target Next
+	animationFreeze
+	jumpIf; is Immune Bit -> displayText
+	playSound: Miss
+	applyResistance: Defense Down
+	Effect: Defense Down PSI
+	Target Next
+	END
+	END
+	displayText: 12
+	Unconditional -> -Target Next
+
+Robo Missiles                  | ID: 0x83 | Target Menu: Enemy
+	Target Selected
+	displayText: 04
+	setNumCrit
+	repeatTimes; 4
+	jumpIfNOT; Attacker & Target Alive -> END
+	playSound: Bomb
+	animationBeam
+	Effect: Inflict Damage
+	END
+	END
+
+Bread                          | ID: 0x84 | Target Menu: Ally
+	readConsumable: 47
+	Unconditional -> Fries
+
+PK Fire Omega                  | ID: 0x85 | Target Menu: None
+	readPSI: 2f
+	playSound: Fire
+	Target Enemy Team Leader									Label = Fire Omega
+	repeatTimes; 4
+	jumpIfNOT; Attacker & Target Alive -> Target Next
+	animationFire
+	Effect: OHKO
+	Target Next
+	END
+	END
+
+Healing Gamma                  | ID: 0x86 | Target Menu: Ally
+
+Action 0x87                    | ID: 0x87 | Target Menu: Enemy

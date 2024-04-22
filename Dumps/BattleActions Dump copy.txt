@@ -1,0 +1,137 @@
+, 0d99; 2d91d; 00 
+Bash, 0e99; 2d91e; 51 80 1b 99 73 1b 99 74 3a 99 72 2e 99 66 00 68 04 80 b7 9e 81 ba 9e 73 bf 9e 12 60 00 40 06 00 69 03 68 04 1b 68 0b 61 00 40 06 00 69 08 68 05 1b 62 3c 40 06 00 
+Combo, 4499; 2d954; 51 66 00 68 04 90 1f 99 80 56 99 66 00 68 07 90 1f 99 00 
+Bite, 5799; 2d967; 51 66 00 68 08 60 00 80 b7 9e 81 ba 9e 73 bf 9e 12 40 06 00 
+Scratch, 6b99; 2d97b; 51 66 00 68 09 a0 5c 99 
+Bore down, 7399; 2d983; 51 66 00 68 0a a0 5c 99 
+Run over, 7b99; 2d98b; 51 66 00 68 13 62 0f a0 5e 99 
+Desperate Attack, 8599; 2d995; 51 69 03 68 15 80 9a 99 73 a0 99 1b 62 c8 40 06 40 0e 68 14 00 90 b7 9e a0 95 99 90 bf 9e a0 95 99 
+Giegue Attack, a699; 2d9b6; 63 00 52 69 14 68 16 b4 80 b6 99 13 62 4b 40 06 56 00 00 
+PK Fire Alpha, cd99; 2d9dd; 67 05 20 2c 62 14 52 b4 80 dd 99 64 40 17 40 06 56 00 00 
+PK Fire Beta, e799; 2d9f7; 67 05 20 2d 62 3c a0 d3 99 
+PK Fire Gamma, f099; 2da00; 67 05 20 2e 62 64 a0 d3 99 
+PK Freeze Alpha, 159a; 2da25; 67 07 20 28 62 0a 51 80 b7 9e 64 20 18 40 06 00 
+PK Freeze Beta, 259a; 2da35; 67 07 20 29 62 28 a0 1b 9a 
+PK Freeze Omega, 2e9a; 2da3e; 67 07 20 2b 62 50 52 b4 80 3e 9a 64 20 18 40 06 56 00 00 
+PK Freeze Gamma, 419a; 2da51; 67 07 20 2a 51 80 b7 9e 18 40 0a 00 
+Bomb, 4d9a; 2da5d; 67 08 31 23 62 3c a0 d3 99 
+Super Bomb, 569a; 2da66; 67 08 31 24 90 0a 9a 62 1f 40 0f 00 
+PK Beam Alpha, 629a; 2da72; 67 06 20 30 62 1e 51 80 b7 9e 64 02 1a 40 06 00 
+PK Beam Beta, 7c9a; 2da8c; 67 06 20 31 62 50 a0 68 9a 
+PK Beam Omega, 8f9a; 2da9f; 67 06 20 33 62 b4 52 b4 80 9f 9a 64 02 1a 40 06 56 00 00 
+PK Beam Gamma, a29a; 2dab2; 67 06 20 32 51 80 b7 9e 75 b4 9a 1a 79 c4 9e 40 09 00 68 52 54 a0 ad 9a 
+Bug Spray, e69a; 2daf6; 67 01 32 19 90 f0 9a c0 19 00 52 b4 80 fe 9a 12 79 01 9b 87 01 9b 40 09 56 00 00 68 12 a0 fe 9a 
+PK Thunder Alpha, ba9a; 2daca; 67 04 20 34 62 0a 51 80 b7 9e 64 10 19 40 06 00 
+PK Thunder Beta, ca9a; 2dada; 67 04 20 35 62 32 a0 c0 9a 
+Explode, 559e; 2de65; 69 08 68 1e 90 51 9a 40 0e 00 
+Burst into flames, 699e; 2de79; 69 05 68 1f 62 1e 90 d3 99 40 0e 00 
+Offense Up, 719b; 2db81; 67 00 20 20 51 80 b7 9e 40 03 00 
+Sing, b999; 2d9c9; 52 68 5a b4 80 ca 99 8d c8 99 40 29 a0 ca 99 68 12 56 00 00 
+Defense Up Alpha, 7c9b; 2db8c; 67 00 20 21 51 80 b7 9e 40 04 00 
+Defense Up Beta, 8d9b; 2db9d; 67 00 20 22 53 b4 80 9b 9b 7c 9b 9b 40 04 56 00 00 
+Quick Up, 9e9b; 2dbae; 67 00 20 23 51 80 b7 9e 62 14 40 02 00 
+, b69e; 2dec6; 
+, b69e; 2dec6; 
+Scary Words, 019c; 2dc11; 68 32 62 1e 51 80 b7 9e 13 40 08 00 
+Nasty words, 0d9c; 2dc1d; 68 33 62 14 a0 05 9c 
+, b69e; 2dec6; 
+Defense Down Alpha, bc9b; 2dbcc; 67 0d 20 24 62 28 51 80 b7 9e 13 79 c4 9e 64 04 40 07 00 
+, b69e; 2dec6; 
+, b69e; 2dec6; 
+Rages, ab9b; 2dbbb; 62 19 54 68 2a 62 14 40 11 00 
+Lifeup Alpha, d39c; 2dce3; 67 00 20 08 62 1e 51 80 b7 9e 40 00 00 
+Lifeup Beta, e09c; 2dcf0; 67 00 20 09 62 50 a0 d9 9c 
+Lifeup Gamma, e99c; 2dcf9; 67 00 20 0a 51 80 b7 9e 40 05 00 
+Lifeup Pi, f49c; 2dd04; 67 00 20 0b 62 32 53 b4 80 04 9d 7c 04 9d 40 00 56 00 00 
+Lifeup Omega, 079d; 2dd17; 67 00 20 0c 53 b4 80 15 9d 7c 15 9d 40 05 56 00 00 
+Restore Energy, 189d; 2dd28; 51 68 3f a0 ed 9c 
+PSI Stone, 1e9d; 2dd2e; 67 00 32 49 62 14 54 80 b7 9e 40 01 c1 49 00 
+PSI Magnet, 759e; 2de85; 67 0d 20 1d 51 80 b7 9e 78 83 9e 78 c4 9e 13 40 27 00 
+Darkness, 0e9b; 2db1e; 67 0d 20 1c 51 80 b7 9e 13 79 c4 9e 40 12 00 
+Exhaust fumes, 149c; 2dc24; 52 66 00 68 4a b4 80 2b 9c 12 62 1e 40 06 80 2b 9c 62 14 40 08 40 1d 56 00 00 
+, b69e; 2dec6; 
+Dehydration Attack, 2e9c; 2dc3e; 51 66 00 68 04 80 b7 9e 73 bf 9e 13 79 c4 9e 68 4c 40 0b 40 0c 00 
+, b69e; 2dec6; 
+PSI Block, c39d; 2ddd3; 67 0d 20 1f 51 80 b7 9e 78 d1 9d 78 c4 9e 13 40 17 00 
+Powershield, d59d; 2dde5; 67 00 20 17 51 80 b7 9e 40 1a 00 
+PSI Shield Alpha, e09d; 2ddf0; 67 00 20 15 51 80 b7 9e 40 19 00 
+PSI Shield Beta, eb9d; 2ddfb; 67 00 20 16 53 b4 80 f6 9d 40 19 56 00 00 
+, b69e; 2dec6; 
+, b69e; 2dec6; 
+Megaphone, 449c; 2dc54; 67 00 30 70 51 80 b7 9e 68 18 13 88 59 9c 68 35 62 19 40 08 00 68 36 68 37 62 14 40 11 00 
+Stinger, cf9b; 2dbdf; 67 00 31 21 51 80 b7 9e 73 bf 9e 13 79 c4 9e 40 13 00 
+Stone Spray, 719c; 2dc81; 67 00 31 20 51 80 b7 9e 73 bf 9e 13 79 c4 9e 40 1c 00 
+Spews, 249b; 2db34; 66 00 68 1a 51 80 b7 9e 13 40 12 00 
+Confuse Ray, 309b; 2db40; 69 0d 51 68 2c 51 80 b7 9e 13 78 c4 9e 79 c4 9e 7a c4 9e 40 14 00 
+Demon Seed, 469b; 2db56; 69 0d 68 76 a0 35 9b 
+Brainshock, 4d9b; 2db5d; 67 0d 20 18 a0 35 9b 
+Braincyclone, 549b; 2db64; 67 0d 20 19 52 b4 80 69 9b 13 78 6c 9b 79 6c 9b 7a 6c 9b 40 14 56 00 00 68 12 a0 69 9b 
+Hypnosis, 839c; 2dc93; 67 0d 20 1a 51 80 b7 9e 13 78 c4 9e 79 c4 9e 7a c4 9e 40 15 00 
+Paralysis, 989c; 2dca8; 67 0d 20 1b 51 80 b7 9e 13 79 c4 9e 40 16 00 
+Trips, 399e; 2de49; 69 13 68 45 00 
+Rope, c79c; 2dcd7; 67 00 31 28 51 80 b7 9e 12 40 1b 00 
+Run, f99d; 2de09; 55 68 43 78 0c 9e 7b 0c 9e b4 86 09 9e 69 11 11 56 00 00 68 44 00 
+Call Ally, 879e; 2de97; 14 00 
+Sprout Seeds, 899e; 2de99; 15 00 
+Steal Food, 8b9e; 2de9b; 51 80 0e 99 73 0e 99 69 0b 40 28 00 
+Laughs, 3e9e; 2de4e; 68 30 00 
+, b69e; 2dec6; 
+, b69e; 2dec6; 
+Plays dead, 419e; 2de51; 68 34 00 
+Prays, 449e; 2de54; 68 57 00 
+bonus EXP, 979e; 2dea7; 68 58 54 69 11 11 51 62 46 40 0d 00 
+, b69e; 2dec6; 
+Guard, 0f9e; 2de1f; 68 59 54 40 18 00 
+confuses itself, a39e; 2deb3; 66 00 68 66 54 40 2a 00 
+, b69e; 2dec6; 
+, b69e; 2dec6; 
+targets one enemy, b69e; 2dec6; 
+, b69e; 2dec6; 
+Defend (players), 159e; 2de25; 68 5b 54 40 18 00 
+, b69e; 2dec6; 
+Healing Alpha, 729d; 2dd82; 67 00 20 10 51 80 b7 9e 40 1f 00 
+Dimension Slip, 1b9e; 2de2b; 67 0c 20 26 7b 2b 9e 55 b4 86 28 9e 16 56 00 00 68 90 00 
+Edged closer, b59b; 2dbc5; 66 00 62 14 40 10 00 
+, ab9e; 2debb; 10 68 03 00 
+Angel Seed, 849d; 2dd94; 67 00 31 48 51 80 b7 9e 40 23 00 
+Flea Bag, 629c; 2dc72; 67 00 31 1b 51 79 c4 9e 68 5f 40 0b 40 0c 00 
+, b69e; 2dec6; 
+Advanced Confusion, bd9c; 2dccd; 68 04 51 80 b7 9e 13 40 1e 00 
+Healing Beta, 8f9d; 2dd9f; 67 00 20 11 51 80 b7 9e 40 21 00 
+Healing Pi, 9a9d; 2ddaa; 67 00 20 13 51 80 b7 9e 40 20 00 
+Super Healing, a59d; 2ddb5; 67 00 20 14 51 40 25 00 
+Shield Off, 2e9e; 2de3e; 67 00 20 1e 51 80 b7 9e 40 24 00 
+Flamethrower, f999; 2da09; 67 05 32 22 90 f4 99 c0 22 00 
+, b69e; 2dec6; 
+Laser Beam, 729a; 2da82; 67 06 32 25 90 66 9a c0 25 00 
+Death Beam, 859a; 2da95; 67 06 32 26 90 80 9a c0 26 00 
+Smile Boldly, 879b; 2db97; 68 28 54 a0 81 9b 
+strange howl, e19b; 2dbf1; 68 1d a0 c0 9b 
+Flashdark, 1d9b; 2db2d; 67 00 30 1f a0 12 9b 
+Sticky Machine, a79c; 2dcb7; 67 00 32 1e 51 80 b7 9e 13 79 c4 9e 40 16 c0 1e 00 
+Checking, af9e; 2debf; 51 80 b7 9e 65 00 00 
+, b69e; 2dec6; 
+Orange Juice, 2d9d; 2dd3d; 67 00 31 3c 62 0a a0 d9 9c 
+French Fries, 369d; 2dd46; 67 00 31 3d 62 14 a0 d9 9c 
+Magic Herb, 3f9d; 2dd4f; 67 00 31 3e 62 1e a0 d9 9c 
+Sports Drink, 489d; 2dd58; 67 00 31 40 62 64 a0 d9 9c 
+Big Bag, 519d; 2dd61; 67 00 33 01 90 43 9d c2 01 00 
+Asthma Spray, ad9d; 2ddbd; 67 00 30 42 51 80 b7 9e 40 22 00 
+Super Spray, 069b; 2db16; 67 01 30 1a 90 f0 9a 00 
+Love Words, 479e; 2de57; 67 00 30 1c 68 72 00 
+Swear Words, 4e9e; 2de5e; 67 00 30 1d 68 73 00 
+Hamburger, 5b9d; 2dd6b; 67 00 31 3f 62 3c a0 d9 9c 
+Medicine, 649d; 2dd74; 67 00 31 41 a0 ed 9c 
+Antidote, 7d9d; 2dd8d; 67 00 31 43 a0 76 9d 
+Bottle Rocket, e099; 2d9f0; 67 05 31 61 a0 d1 99 
+, b69e; 2dec6; 
+, b69e; 2dec6; 
+paralysis gas, b89c; 2dcc8; 68 77 a0 ab 9c 
+, b69e; 2dec6; 
+Defense Down Beta, e69b; 2dbf6; 52 67 0d 20 25 b4 62 28 80 f9 9b 13 79 fc 9b 64 04 40 07 56 00 00 68 12 a0 f9 9b 
+PK Thunder Gamma, d39a; 2dae3; 67 04 20 36 62 3c 52 b4 80 e3 9a 64 10 19 40 06 56 00 00 
+Bread, 6b9d; 2dd7b; 67 00 31 47 a0 3a 9d 
+PK Fire Omega, 039a; 2da13; 67 05 20 2f a0 0a 9a 52 b4 80 12 9a 17 40 09 56 00 00 
+Healing Gamma, b89d; 2ddc8; 67 00 20 12 51 80 b7 9e 40 26 00 
+, b69e; 2dec6; 
+, 5f9e; 2de6f; 69 08 68 1e 90 0a 9a 40 0e 00 

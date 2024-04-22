@@ -1,0 +1,19 @@
+ID,Offset,String
+10,247be,Knife?
+19,23c61,Zoo Remedy
+1a,23c69,Zoo Rope
+1b,23c71,Zoo Bread
+1c,23c79,Zoo Medicine
+27,25aea,Megaphone
+28,25af2,Bot L Antidote
+29,25afa,Top R Magic Herb
+2a,25b02,Bot R Empty
+2b,25b0a,Flashdark
+2c,25b12,Antidote
+2d,25b1a,Magic Herb
+2e,25dd2,Crystal Herb
+2f,25dda,Ashigaru Sword
+30,25b12,Crystal PSI Stone
+33,23b94,Wornout Bat?
+34,25df2,Onyx Hook
+47,24b6e,Super Spray
