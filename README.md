@@ -1,9 +1,8 @@
 # Mother-ROM-Editor
 Work-in progress editor to make ROM Hacking less of a nightmare.
 
-# HOW TO USE MotherROMEditor.py:
-
-Just run the python program.
+# HOW TO USE:
+The program is terminal based. Follow the instructions the terminal provides.
 InternalStrings folder contains strings that the program uses. The file names are all defined on the top of the python program. You can edit them to your liking.
 There needs to be a rom file in the same folder as the program. Any ROM will do. The name is a constant on the top of the python file.
 
@@ -31,3 +30,11 @@ There needs to be a rom file in the same folder as the program. Any ROM will do.
  
  * Also, case-ing does not matter. You can type in all lowercase and the program will work.
 
+# BattleActions.py
+Editor specifically for Battle Actions. Converts Assembly-like language into the game's language so you don't have to write in raw binary.
+
+# HOW TO USE:
+All instructions can be found inside the Python file written at the top.
+The program reads from Dumps/BattleActions.txt (configurable).
+Once you have modified your actions, run BattleActions.py. It will open up a terminal where you can write your actions into the ROM.
+You can also dump all actions from the ROM into a new txt file.
